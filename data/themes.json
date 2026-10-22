@@ -1,0 +1,22 @@
+[
+  { "id": 1, "group": "Vie quotidienne", "name": "Maison et quotidien", "icon": "🏠" },
+  { "id": 2, "group": "Vie quotidienne", "name": "Courses et repas", "icon": "🛒" },
+  { "id": 3, "group": "Vie quotidienne", "name": "Famille et relations", "icon": "👨‍👩‍👧" },
+  { "id": 4, "group": "Vie quotidienne", "name": "Santé et corps", "icon": "🩺" },
+  { "id": 5, "group": "Vie quotidienne", "name": "Météo et nature", "icon": "🌦️" },
+  { "id": 6, "group": "Vie quotidienne", "name": "Voyage et transports", "icon": "✈️" },
+  { "id": 7, "group": "Vie quotidienne", "name": "Sport et triathlon", "icon": "🏊" },
+  { "id": 8, "group": "Vie quotidienne", "name": "Numérique et IA", "icon": "💻" },
+  { "id": 9, "group": "Vie quotidienne", "name": "Travail et réunions", "icon": "💼" },
+  { "id": 10, "group": "Vie quotidienne", "name": "Conversation et opinions", "icon": "💬" },
+  { "id": 11, "group": "Thèse", "name": "Management public et gouvernance", "icon": "🏛️" },
+  { "id": 12, "group": "Thèse", "name": "Mise en œuvre des politiques publiques", "icon": "🧩" },
+  { "id": 13, "group": "Thèse", "name": "Sport-santé et activité physique", "icon": "🏅" },
+  { "id": 14, "group": "Thèse", "name": "EPS et système éducatif", "icon": "🎓" },
+  { "id": 15, "group": "Thèse", "name": "Formation des enseignants et numérique", "icon": "🧑‍🏫" },
+  { "id": 16, "group": "Thèse", "name": "Méthodologie qualitative et recherche-action", "icon": "🔬" },
+  { "id": 17, "group": "Thèse", "name": "Revues de littérature et études quantitatives", "icon": "📈" },
+  { "id": 18, "group": "Thèse", "name": "Cadres théoriques et auteurs", "icon": "🧠" },
+  { "id": 19, "group": "Thèse", "name": "Adolescents, réseaux sociaux et image du corps", "icon": "📱" },
+  { "id": 20, "group": "Thèse", "name": "Présenter sa recherche à l'oral", "icon": "🎤" }
+]

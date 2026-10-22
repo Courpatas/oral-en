@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Oral EN</title>
+  <meta name="description" content="Entraînement à l'oral en anglais : écouter, répéter, corriger.">
+  <meta name="theme-color" content="#101418">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Oral EN">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="update-banner" class="banner" hidden>
+    Nouvelle version disponible. <button id="update-reload" class="link">Recharger</button>
+  </div>
+
+  <!-- ACCUEIL -->
+  <main id="screen-home" class="screen active">
+    <header class="top">
+      <span></span><h1>Oral EN</h1>
+      <button class="icon-btn" data-go="settings" aria-label="Réglages">⚙︎</button>
+    </header>
+    <section class="hero">
+      <div class="hero-num"><span id="home-mastered">0</span><small>/ 1000</small></div>
+      <div class="hero-label">phrases maîtrisées</div>
+      <div class="bar big"><span id="home-bar"></span></div>
+      <p class="muted" id="home-available"></p>
+    </section>
+    <section class="chips" id="home-chips"></section>
+    <nav class="stack">
+      <button class="btn primary xl" id="btn-continue">▶ Continuer</button>
+      <button class="btn xl" id="btn-session">⏱ Séance de 15 minutes</button>
+      <div class="row">
+        <button class="btn" data-go="themes">Thèmes</button>
+        <button class="btn" data-go="progress">Progrès</button>
+      </div>
+    </nav>
+  </main>
+
+  <!-- THÈMES -->
+  <main id="screen-themes" class="screen">
+    <header class="top">
+      <button class="icon-btn" data-go="home" aria-label="Retour">←</button>
+      <h1>Thèmes</h1><span></span>
+    </header>
+    <div id="themes-list" class="list"></div>
+  </main>
+
+  <!-- EXERCICE -->
+  <main id="screen-exercise" class="screen exercise">
+    <header class="top">
+      <button class="icon-btn" id="ex-back" aria-label="Retour">←</button>
+      <div class="ex-title"><div id="ex-theme"></div><div id="ex-count" class="muted"></div></div>
+      <div id="ex-timer" class="timer"></div>
+    </header>
+
+    <div class="ex-body">
+      <div class="ex-meta"><span id="ex-status" class="chip"></span><span id="ex-level" class="chip ghost"></span></div>
+
+      <div class="listen">
+        <button class="btn round" id="ex-play" aria-label="Réécouter">🔊<span>Réécouter</span></button>
+        <button class="btn round" id="ex-slow" aria-label="Écouter lentement">🐢<span>Lent</span></button>
+      </div>
+
+      <div class="reveal">
+        <button class="btn ghost" id="ex-show">Voir la phrase</button>
+        <p id="ex-text" class="sentence" hidden></p>
+        <button class="btn ghost small" id="ex-show-fr" hidden>Voir la traduction</button>
+        <p id="ex-fr" class="translation" hidden></p>
+      </div>
+
+      <div id="ex-live" class="live" hidden></div>
+      <div id="ex-error" class="error" hidden></div>
+
+      <section id="ex-result" class="result" hidden>
+        <div class="score"><span id="ex-score">0</span><small>%</small></div>
+        <p id="ex-verdict" class="verdict"></p>
+        <p id="ex-words" class="sentence colored"></p>
+        <ul id="ex-fixes" class="fixes"></ul>
+        <p class="muted small">Compris par le moteur : « <span id="ex-heard"></span> »</p>
+      </section>
+    </div>
+
+    <footer class="actions">
+      <div id="ex-after" class="row" hidden>
+        <button class="btn" id="ex-retry">↻ Réessayer</button>
+        <button class="btn" id="ex-flag">☆ À revoir</button>
+        <button class="btn primary" id="ex-next">Suivante →</button>
+      </div>
+      <button class="btn mic" id="ex-mic">🎙 Répéter</button>
+    </footer>
+  </main>
+
+  <!-- FIN DE SÉANCE -->
+  <main id="screen-done" class="screen">
+    <header class="top"><span></span><h1>Bravo</h1><span></span></header>
+    <section class="hero">
+      <p id="done-summary" class="lead"></p>
+    </section>
+    <nav class="stack">
+      <button class="btn primary xl" data-go="home">Accueil</button>
+      <button class="btn" data-go="progress">Voir mes progrès</button>
+    </nav>
+  </main>
+
+  <!-- PROGRÈS -->
+  <main id="screen-progress" class="screen">
+    <header class="top">
+      <button class="icon-btn" data-go="home" aria-label="Retour">←</button>
+      <h1>Progrès</h1><span></span>
+    </header>
+    <section class="cards" id="progress-cards"></section>
+    <h2>Thèmes les plus fragiles</h2>
+    <div id="progress-weak" class="list"></div>
+    <h2>Par thème</h2>
+    <div id="progress-themes" class="list"></div>
+  </main>
+
+  <!-- RÉGLAGES -->
+  <main id="screen-settings" class="screen">
+    <header class="top">
+      <button class="icon-btn" data-go="home" aria-label="Retour">←</button>
+      <h1>Réglages</h1><span></span>
+    </header>
+    <form id="settings-form" class="form">
+      <h2>Maîtrise</h2>
+      <label>Score minimum pour une réussite <output id="out-threshold"></output>
+        <input type="range" name="threshold" min="60" max="100" step="5"></label>
+      <label>Répétitions réussies nécessaires
+        <input type="number" name="successesNeeded" min="1" max="10" inputmode="numeric"></label>
+      <label>Sur au moins … jours différents
+        <input type="number" name="distinctDays" min="1" max="7" inputmode="numeric"></label>
+
+      <h2>Voix</h2>
+      <label>Voix anglaise <select name="voiceURI" id="voice-select"></select></label>
+      <label>Vitesse lente <output id="out-slowRate"></output>
+        <input type="range" name="slowRate" min="0.5" max="0.9" step="0.05"></label>
+      <label class="check"><input type="checkbox" name="autoplay"> Lire la phrase automatiquement</label>
+      <button type="button" class="btn small" id="voice-test">Tester la voix</button>
+
+      <h2>Reconnaissance vocale</h2>
+      <label>Moteur <select name="engine">
+        <option value="webspeech">Web Speech (navigateur, en ligne)</option>
+        <option value="whisper-tiny">Whisper tiny.en (hors ligne, ~40 Mo)</option>
+        <option value="whisper-base">Whisper base.en (hors ligne, ~80 Mo, plus lent)</option>
+      </select></label>
+      <label class="check"><input type="checkbox" name="useAlternatives"> Tenir compte des variantes proposées par le moteur</label>
+      <button type="button" class="btn small" id="whisper-preload" hidden>Télécharger le modèle maintenant</button>
+      <p id="whisper-progress" class="muted small"></p>
+      <button type="button" class="btn" data-go="diagnostic">Diagnostic micro et voix</button>
+
+      <h2>Sauvegarde</h2>
+      <p class="muted small" id="backup-info"></p>
+      <div class="row">
+        <button type="button" class="btn" id="btn-export">Exporter</button>
+        <label class="btn file">Importer<input type="file" id="file-import" accept="application/json,.json" hidden></label>
+      </div>
+      <button type="button" class="btn danger small" id="btn-reset">Effacer toute la progression</button>
+      <p class="muted small center">Version <span id="app-version"></span></p>
+    </form>
+  </main>
+
+  <!-- DIAGNOSTIC -->
+  <main id="screen-diagnostic" class="screen">
+    <header class="top">
+      <button class="icon-btn" data-go="settings" aria-label="Retour">←</button>
+      <h1>Diagnostic</h1><span></span>
+    </header>
+    <section class="form">
+      <ul id="diag-list" class="diag"></ul>
+      <h2>Test de reconnaissance</h2>
+      <p class="muted">Appuie, puis dis : <em>« Hello, I am learning English and I live in Tahiti. »</em></p>
+      <button class="btn primary" id="diag-test">🎙 Tester le moteur choisi</button>
+      <pre id="diag-out" class="out"></pre>
+      <button class="btn" id="diag-copy">Copier le rapport</button>
+    </section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
