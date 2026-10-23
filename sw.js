@@ -1,6 +1,6 @@
 // Service worker : l'app et les phrases fonctionnent hors ligne.
 // Changer VERSION à chaque mise en ligne pour que les appareils récupèrent la nouvelle version.
-const VERSION = 'oral-en-v0.2.1';
+const VERSION = 'oral-en-v0.2.2';
 const RUNTIME = 'oral-en-runtime';
 const ASSETS = [
   './', 'index.html', 'manifest.json', 'css/app.css',
