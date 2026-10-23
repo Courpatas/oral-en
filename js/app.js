@@ -4,7 +4,7 @@ import { getRecognizer } from './asr/index.js';
 import * as store from './store.js';
 import { DEFAULTS, today, status, STATUS_LABEL, recordAttempt, buildQueue, countByStatus, isDue } from './srs.js';
 
-const VERSION = '0.1.0';
+const VERSION = '0.1.1';
 const TARGET = 1000;
 const SESSION_MINUTES = 15;
 const DIAG_SENTENCE = 'Hello, I am learning English and I live in Tahiti.';
@@ -195,20 +195,34 @@ function setMic(mode) {
   state.listening = mode === 'listening';
 }
 
+// Texte affiché pendant l'écoute selon ce que signale le moteur.
+const LIVE_STATE = {
+  audio: '🎙 Micro ouvert : parle maintenant…',
+  speech: '🎙 Je t\'entends…',
+  processing: 'Analyse…',
+};
+
 $('#ex-mic').onclick = async () => {
   const rec = getRecognizer(state.settings.engine);
-  if (state.listening) { rec.stop(); return; }
+  if (state.listening) {
+    $('#ex-mic').textContent = 'Arrêt…';
+    rec.stop();
+    return;
+  }
   stopSpeaking();
   $('#ex-error').hidden = true;
   $('#ex-result').hidden = true;
   $('#ex-after').hidden = true;
   $('#ex-live').hidden = false;
-  $('#ex-live').textContent = '';
+  $('#ex-live').textContent = 'Ouverture du micro…';
   setMic('listening');
   try {
     const out = await rec.start({
-      onInterim: t => { $('#ex-live').textContent = t; },
-      onState: s => s === 'processing' && setMic('processing'),
+      onInterim: t => { if (t) $('#ex-live').textContent = t; },
+      onState: s => {
+        if (s === 'processing') setMic('processing');
+        if (LIVE_STATE[s]) $('#ex-live').textContent = LIVE_STATE[s];
+      },
       onProgress: pct => { $('#ex-live').textContent = `Chargement du modèle : ${pct} %`; },
     });
     setMic('idle');
@@ -536,25 +550,31 @@ async function renderDiagnostic() {
 $('#diag-test').onclick = async () => {
   const out = $('#diag-out');
   const rec = getRecognizer(state.settings.engine);
-  if (state.listening) { rec.stop(); return; }
+  if (state.listening) { $('#diag-test').textContent = 'Arrêt…'; rec.stop(); return; }
   stopSpeaking();
-  out.textContent = 'J\'écoute…';
+  out.textContent = 'Ouverture du micro…';
   state.listening = true;
   $('#diag-test').textContent = '■ Arrêter';
   const t0 = performance.now();
-  let firstSound = null;
+  let firstSound = null, audioAt = null;
   try {
     const r = await rec.start({
       onInterim: t => { firstSound ??= performance.now(); out.textContent = 'J\'écoute… ' + t; },
       onProgress: pct => { out.textContent = `Chargement du modèle : ${pct} %`; },
-      onState: () => { out.textContent = 'Analyse…'; },
+      onState: s => {
+        if (s === 'audio') audioAt ??= performance.now();
+        if (LIVE_STATE[s]) out.textContent = LIVE_STATE[s];
+      },
     });
     const total = Math.round(performance.now() - t0);
     const res = compare(DIAG_SENTENCE, r.transcript);
     out.textContent = `Compris : « ${r.transcript} »\nVariantes : ${r.alternatives.length}\nScore sur la phrase test : ${res.score} %\n`
-      + `Durée totale : ${(total / 1000).toFixed(1)} s` + (firstSound ? ` · premier mot après ${((firstSound - t0) / 1000).toFixed(1)} s` : '');
+      + `Durée totale : ${(total / 1000).toFixed(1)} s`
+      + (audioAt ? ` · micro ouvert après ${((audioAt - t0) / 1000).toFixed(1)} s` : '')
+      + (firstSound ? ` · premier mot après ${((firstSound - t0) / 1000).toFixed(1)} s` : '');
   } catch (e) {
-    out.textContent = 'Erreur : ' + (e.message || e);
+    out.textContent = 'Erreur : ' + (e.message || e)
+      + (audioAt ? `\nMicro ouvert après ${((audioAt - t0) / 1000).toFixed(1)} s.` : '\nLe micro ne s\'est jamais ouvert.');
   } finally {
     state.listening = false;
     $('#diag-test').textContent = '🎙 Tester le moteur choisi';
