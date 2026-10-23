@@ -1,10 +1,11 @@
 import { compare, compareBest } from './compare.js';
 import { initTTS, englishVoices, selectVoice, currentVoice, speak, speakFrench, stopSpeaking, ttsSupported } from './tts.js';
 import { getRecognizer } from './asr/index.js';
+import { micLog } from './asr/webspeech.js';
 import * as store from './store.js';
 import { DEFAULTS, today, status, STATUS_LABEL, recordAttempt, buildQueue, countByStatus, isDue } from './srs.js';
 
-const VERSION = '1.0.0';
+const VERSION = '1.0.1';
 const TARGET = 1000;
 const SESSION_MINUTES = 15;
 const DIAG_SENTENCE = 'Hello, I am learning English and I live in Tahiti.';
@@ -705,6 +706,7 @@ async function diagnostics() {
 async function renderDiagnostic() {
   const rows = await diagnostics();
   $('#diag-list').innerHTML = rows.map(([k, v]) => `<li><span>${esc(k)}</span><span>${esc(v)}</span></li>`).join('');
+  $('#diag-log').textContent = micLog().join('\n') || 'Aucune écoute pour le moment.';
 }
 
 $('#diag-test').onclick = async () => {
@@ -743,7 +745,8 @@ $('#diag-test').onclick = async () => {
 
 $('#diag-copy').onclick = async () => {
   const rows = await diagnostics();
-  const text = rows.map(([k, v]) => `${k} : ${v}`).join('\n') + '\n\n' + $('#diag-out').textContent;
+  const text = rows.map(([k, v]) => `${k} : ${v}`).join('\n') + '\n\n' + $('#diag-out').textContent
+    + '\n\nJournal du micro :\n' + (micLog().join('\n') || '(vide)');
   try { await navigator.clipboard.writeText(text); alert('Rapport copié. Tu peux le coller dans la conversation.'); }
   catch { prompt('Copie ce rapport :', text); }
 };
