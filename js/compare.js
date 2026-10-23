@@ -166,11 +166,15 @@ export function compare(expectedText, transcript, unscored = []) {
   const wordState = displayWords.map(() => 'ok');
   const heardFor = displayWords.map(() => []);
   const errors = [];
+  // Un nom non noté peut être entendu en plusieurs mots (« Lipsky » → « lip ski ») :
+  // les mots en trop qui le touchent ne comptent pas non plus.
+  const nearSkip = i => [ops[i - 1], ops[i + 1]].some(o => o && o.e && o.e.skip);
   let S = 0, Dl = 0, I = 0, prevOp = null;
-  for (const op of ops) {
+  for (const [i, op] of ops.entries()) {
     const prevType = prevOp;
     prevOp = op.type;
     if (op.type === 'ok') continue;
+    if (op.type === 'ins' && nearSkip(i)) continue;
     if (op.type === 'ins') {
       I++;
       const prev = errors[errors.length - 1];
