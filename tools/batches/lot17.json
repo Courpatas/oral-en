@@ -1,0 +1,772 @@
+[
+ {
+  "id": "08-01",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "My laptop is very slow, so I need to delete some old files.",
+  "text_fr": "Mon ordinateur portable est très lent, alors je dois supprimer de vieux fichiers.",
+  "key_terms": [
+   "laptop",
+   "to delete",
+   "file"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "laptop": "LAP-tahp",
+   "delete": "dih-LEET"
+  }
+ },
+ {
+  "id": "08-02",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I forgot my password again and had to reset it.",
+  "text_fr": "J'ai encore oublié mon mot de passe et j'ai dû le réinitialiser.",
+  "key_terms": [
+   "password",
+   "to forget"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "password": "PASS-werd",
+   "reset": "ree-SET"
+  }
+ },
+ {
+  "id": "08-03",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Can you send me the link to the meeting by email?",
+  "text_fr": "Tu peux m'envoyer le lien de la réunion par courriel ?",
+  "key_terms": [
+   "link",
+   "email"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "email": "EE-mayl"
+  }
+ },
+ {
+  "id": "08-04",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "My phone battery is almost dead, so do you have a charger?",
+  "text_fr": "La batterie de mon téléphone est presque vide, tu as un chargeur ?",
+  "key_terms": [
+   "battery",
+   "charger"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "battery": "BAT-er-ee",
+   "charger": "CHAR-jer"
+  }
+ },
+ {
+  "id": "08-05",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "The internet is down in the whole building this morning.",
+  "text_fr": "Internet ne fonctionne pas dans tout le bâtiment ce matin.",
+  "key_terms": [
+   "internet",
+   "whole"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "building": "BIL-ding"
+  }
+ },
+ {
+  "id": "08-06",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Please save the file before you close the program.",
+  "text_fr": "Enregistre le fichier avant de fermer le logiciel, s'il te plaît.",
+  "key_terms": [
+   "to save",
+   "file"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "program": "PROH-gram"
+  }
+ },
+ {
+  "id": "08-07",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I downloaded a new app to practice my English on my phone.",
+  "text_fr": "J'ai téléchargé une nouvelle application pour pratiquer mon anglais sur mon téléphone.",
+  "key_terms": [
+   "to download",
+   "app"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "practice": "PRAK-tiss"
+  }
+ },
+ {
+  "id": "08-08",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "My children know how to use a tablet better than I do.",
+  "text_fr": "Mes enfants savent mieux utiliser une tablette que moi.",
+  "key_terms": [
+   "tablet",
+   "better"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tablet": "TAB-lit"
+  }
+ },
+ {
+  "id": "08-09",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I back up my photos every week, just in case.",
+  "text_fr": "Je sauvegarde mes photos chaque semaine, au cas où.",
+  "key_terms": [
+   "in case",
+   "to back up"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "photos": "FOH-tohz"
+  }
+ },
+ {
+  "id": "08-10",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Click on the icon at the top of the screen to log in.",
+  "text_fr": "Clique sur l'icône en haut de l'écran pour te connecter.",
+  "key_terms": [
+   "to click",
+   "to log in",
+   "screen"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "icon": "EYE-kahn"
+  }
+ },
+ {
+  "id": "08-11",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I upload my documents to a shared folder so my colleagues can read them.",
+  "text_fr": "Je dépose mes documents dans un dossier partagé pour que mes collègues puissent les lire.",
+  "key_terms": [
+   "to upload",
+   "folder"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "upload": "up-LOHD",
+   "folder": "FOHL-der"
+  }
+ },
+ {
+  "id": "08-12",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Artificial intelligence is changing the way we work and learn.",
+  "text_fr": "L'intelligence artificielle change notre façon de travailler et d'apprendre.",
+  "key_terms": [
+   "artificial intelligence"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "intelligence": "in-TEL-ih-junss"
+  }
+ },
+ {
+  "id": "08-13",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I use a translation app when I read difficult articles.",
+  "text_fr": "J'utilise une application de traduction quand je lis des articles difficiles.",
+  "key_terms": [
+   "app",
+   "difficult"
+  ],
+  "thesis_terms": [
+   "translation (in ANT)"
+  ],
+  "pronunciation_notes": {
+   "translation": "tranz-LAY-shun"
+  }
+ },
+ {
+  "id": "08-14",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "The software updates automatically every night while I sleep.",
+  "text_fr": "Le logiciel se met à jour automatiquement chaque nuit pendant que je dors.",
+  "key_terms": [
+   "software",
+   "while"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "software": "SAWFT-wair"
+  }
+ },
+ {
+  "id": "08-15",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Please turn off your phone during the meeting.",
+  "text_fr": "Merci d'éteindre votre téléphone pendant la réunion.",
+  "key_terms": [
+   "to turn off",
+   "during"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "during": "DOOR-ing"
+  }
+ },
+ {
+  "id": "08-16",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I received a strange message asking for my bank details.",
+  "text_fr": "J'ai reçu un message bizarre qui me demandait mes coordonnées bancaires.",
+  "key_terms": [
+   "message",
+   "strange"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "strange": "straynj",
+   "details": "DEE-taylz"
+  }
+ },
+ {
+  "id": "08-17",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Never click on a link if you do not know who sent it.",
+  "text_fr": "Ne clique jamais sur un lien si tu ne sais pas qui l'a envoyé.",
+  "key_terms": [
+   "never",
+   "link"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sent": "sent"
+  }
+ },
+ {
+  "id": "08-18",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Our data are stored on a secure server in the building.",
+  "text_fr": "Nos données sont stockées sur un serveur sécurisé dans le bâtiment.",
+  "key_terms": [
+   "data",
+   "secure"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "secure": "sih-KYOOR",
+   "server": "SER-ver"
+  }
+ },
+ {
+  "id": "08-19",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I spend too much time checking my emails in the evening.",
+  "text_fr": "Je passe trop de temps à vérifier mes courriels le soir.",
+  "key_terms": [
+   "too much",
+   "to spend"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "emails": "EE-maylz"
+  }
+ },
+ {
+  "id": "08-20",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "My keyboard is broken, so I am using the one on my tablet.",
+  "text_fr": "Mon clavier est cassé, alors j'utilise celui de ma tablette.",
+  "key_terms": [
+   "keyboard",
+   "broken"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "keyboard": "KEE-bord"
+  }
+ },
+ {
+  "id": "08-21",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Video calls help me stay in touch with my family abroad.",
+  "text_fr": "Les appels vidéo m'aident à garder le contact avec ma famille à l'étranger.",
+  "key_terms": [
+   "to stay in touch",
+   "abroad"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "video": "VID-ee-oh"
+  }
+ },
+ {
+  "id": "08-22",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "The new website is much easier to use than the old one.",
+  "text_fr": "Le nouveau site web est bien plus facile à utiliser que l'ancien.",
+  "key_terms": [
+   "website",
+   "easier"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "website": "WEB-syte"
+  }
+ },
+ {
+  "id": "08-23",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "I asked an AI chatbot to explain a statistical method to me.",
+  "text_fr": "J'ai demandé à un agent conversationnel d'IA de m'expliquer une méthode statistique.",
+  "key_terms": [
+   "to explain",
+   "method"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "chatbot": "CHAT-baht",
+   "statistical": "stuh-TISS-tih-kul"
+  }
+ },
+ {
+  "id": "08-24",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "Some apps collect a lot of personal data without us noticing.",
+  "text_fr": "Certaines applications collectent beaucoup de données personnelles sans que nous le remarquions.",
+  "key_terms": [
+   "data",
+   "without"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "personal": "PER-suh-nul"
+  }
+ },
+ {
+  "id": "08-25",
+  "theme": 8,
+  "level": "B1",
+  "text_en": "If the connection drops again, we will continue the meeting by phone.",
+  "text_fr": "Si la connexion coupe encore, nous continuerons la réunion par téléphone.",
+  "key_terms": [
+   "if",
+   "connection"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "continue": "kun-TIN-yoo"
+  }
+ },
+ {
+  "id": "08-26",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "AI tools can summarize an article in seconds, but they sometimes invent facts.",
+  "text_fr": "Les outils d'IA peuvent résumer un article en quelques secondes, mais ils inventent parfois des faits.",
+  "key_terms": [
+   "to summarize",
+   "sometimes"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "summarize": "SUM-uh-ryze",
+   "invent": "in-VENT"
+  }
+ },
+ {
+  "id": "08-27",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Always check the sources, because a chatbot can sound confident and still be wrong.",
+  "text_fr": "Vérifie toujours les sources, parce qu'un agent conversationnel peut paraître sûr de lui et se tromper quand même.",
+  "key_terms": [
+   "confident",
+   "still"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sources": "SOR-siz",
+   "confident": "KAHN-fuh-dunt"
+  }
+ },
+ {
+  "id": "08-28",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Curiosity is what drives me to ask questions I had never thought of before.",
+  "text_fr": "C'est la curiosité qui me pousse à poser des questions auxquelles je n'avais jamais pensé.",
+  "key_terms": [
+   "curiosity",
+   "to drive"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "curiosity": "kyoor-ee-AH-suh-tee"
+  }
+ },
+ {
+  "id": "08-29",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Relentless questioning is something fundamentally human that machines cannot replace.",
+  "text_fr": "Le questionnement incessant est quelque chose de fondamentalement humain que les machines ne peuvent pas remplacer.",
+  "key_terms": [
+   "relentless",
+   "to replace"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fundamentally": "fun-duh-MEN-tuh-lee",
+   "relentless": "rih-LENT-liss"
+  }
+ },
+ {
+  "id": "08-30",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "AI can answer questions we have not thought to ask, but it cannot decide what matters.",
+  "text_fr": "L'IA peut répondre à des questions qu'on n'a pas pensé à poser, mais elle ne peut pas décider de ce qui compte.",
+  "key_terms": [
+   "to decide",
+   "to matter"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "thought": "thawt"
+  }
+ },
+ {
+  "id": "08-31",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Using AI to draft an email is fine, as long as you read it carefully before sending it.",
+  "text_fr": "Utiliser l'IA pour rédiger un courriel ne pose pas de problème, du moment qu'on le relit attentivement avant de l'envoyer.",
+  "key_terms": [
+   "as long as",
+   "to draft"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "draft": "draft"
+  }
+ },
+ {
+  "id": "08-32",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "The computing power required to train large models has grown enormously.",
+  "text_fr": "La puissance de calcul nécessaire pour entraîner les grands modèles a énormément augmenté.",
+  "key_terms": [
+   "to compute",
+   "to require"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "enormously": "ih-NOR-mus-lee",
+   "computing": "kum-PYOO-ting"
+  }
+ },
+ {
+  "id": "08-33",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Scaling laws suggest that bigger models perform better, but there is a catch.",
+  "text_fr": "Les lois d'échelle suggèrent que les modèles plus gros sont plus performants, mais il y a un hic.",
+  "key_terms": [
+   "scaling laws",
+   "there's a catch"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "scaling": "SKAY-ling"
+  }
+ },
+ {
+  "id": "08-34",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "The human brain is vastly more energy efficient than any computer we have built.",
+  "text_fr": "Le cerveau humain est infiniment plus économe en énergie que n'importe quel ordinateur que nous ayons construit.",
+  "key_terms": [
+   "vastly",
+   "efficiency"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "vastly": "VAST-lee",
+   "efficient": "ih-FISH-unt"
+  }
+ },
+ {
+  "id": "08-35",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Demand for digital skills has outstripped supply in many countries.",
+  "text_fr": "La demande de compétences numériques a dépassé l'offre dans de nombreux pays.",
+  "key_terms": [
+   "to outstrip",
+   "skill"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "outstripped": "owt-STRIPT",
+   "supply": "suh-PLY"
+  }
+ },
+ {
+  "id": "08-36",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Some students use AI to write their essays, which raises tricky questions about assessment.",
+  "text_fr": "Certains étudiants utilisent l'IA pour écrire leurs dissertations, ce qui pose des questions délicates d'évaluation.",
+  "key_terms": [
+   "which",
+   "tricky"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "essays": "ESS-ayz",
+   "assessment": "uh-SESS-ment"
+  }
+ },
+ {
+  "id": "08-37",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Rather than banning AI, many universities are teaching students to use it responsibly.",
+  "text_fr": "Plutôt que d'interdire l'IA, beaucoup d'universités apprennent aux étudiants à l'utiliser de façon responsable.",
+  "key_terms": [
+   "rather than",
+   "to ban"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "responsibly": "rih-SPAHN-suh-blee"
+  }
+ },
+ {
+  "id": "08-38",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "New technologies tend to disrupt old industries before creating new jobs.",
+  "text_fr": "Les nouvelles technologies ont tendance à bouleverser les anciens secteurs avant de créer de nouveaux emplois.",
+  "key_terms": [
+   "to disrupt",
+   "to tend to"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "industries": "IN-duh-streez"
+  }
+ },
+ {
+  "id": "08-39",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "I break long documents into smaller chunks so that the tool can process them.",
+  "text_fr": "Je découpe les longs documents en morceaux plus petits pour que l'outil puisse les traiter.",
+  "key_terms": [
+   "chunk",
+   "so that"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "process": "PRAH-sess"
+  }
+ },
+ {
+  "id": "08-40",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Digital tools have made remote work possible for people living on small islands.",
+  "text_fr": "Les outils numériques ont rendu le télétravail possible pour les personnes vivant sur de petites îles.",
+  "key_terms": [
+   "remote",
+   "possible"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "digital": "DIJ-uh-tul"
+  }
+ },
+ {
+  "id": "08-41",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Data privacy has become a major issue, especially for apps used by children.",
+  "text_fr": "La protection des données est devenue un enjeu majeur, surtout pour les applications utilisées par des enfants.",
+  "key_terms": [
+   "issues",
+   "especially"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "privacy": "PRY-vuh-see"
+  }
+ },
+ {
+  "id": "08-42",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "The algorithm recommends content based on what you have watched before.",
+  "text_fr": "L'algorithme recommande des contenus en fonction de ce que vous avez déjà regardé.",
+  "key_terms": [
+   "to recommend",
+   "based on"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "algorithm": "AL-guh-rith-um"
+  }
+ },
+ {
+  "id": "08-43",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "We need to figure out how to use AI without losing our ability to think.",
+  "text_fr": "Nous devons trouver comment utiliser l'IA sans perdre notre capacité à réfléchir.",
+  "key_terms": [
+   "to figure out",
+   "ability"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ability": "uh-BIL-uh-tee"
+  }
+ },
+ {
+  "id": "08-44",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Errors made by AI can be egregious, so human supervision remains essential.",
+  "text_fr": "Les erreurs commises par l'IA peuvent être flagrantes, alors la supervision humaine reste essentielle.",
+  "key_terms": [
+   "egregious",
+   "to remain"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "egregious": "ih-GREE-jus",
+   "supervision": "soo-per-VIZH-un"
+  }
+ },
+ {
+  "id": "08-45",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Learning to code is less important than learning to ask good questions.",
+  "text_fr": "Apprendre à coder est moins important qu'apprendre à poser de bonnes questions.",
+  "key_terms": [
+   "less",
+   "to learn"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "important": "im-POR-tunt"
+  }
+ },
+ {
+  "id": "08-46",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "The app was designed to work offline, which is ideal for remote areas.",
+  "text_fr": "L'application a été conçue pour fonctionner hors ligne, ce qui est idéal pour les zones isolées.",
+  "key_terms": [
+   "offline",
+   "ideal"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ideal": "eye-DEEL",
+   "areas": "AIR-ee-uhz"
+  }
+ },
+ {
+  "id": "08-47",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Online courses gave me access to lectures from universities I could never have attended.",
+  "text_fr": "Les cours en ligne m'ont donné accès à des conférences d'universités que je n'aurais jamais pu fréquenter.",
+  "key_terms": [
+   "access",
+   "lecture"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "attended": "uh-TEN-did"
+  }
+ },
+ {
+  "id": "08-48",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Some experts fear that AI will replace teachers, while others see it as a powerful assistant.",
+  "text_fr": "Certains experts craignent que l'IA remplace les enseignants, tandis que d'autres y voient un assistant puissant.",
+  "key_terms": [
+   "while",
+   "to fear"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "experts": "EK-sperts"
+  }
+ },
+ {
+  "id": "08-49",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Every new answer seems to spawn several new questions, which keeps me curious.",
+  "text_fr": "Chaque nouvelle réponse semble engendrer plusieurs nouvelles questions, ce qui entretient ma curiosité.",
+  "key_terms": [
+   "to spawn",
+   "curious"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "curious": "KYOOR-ee-us"
+  }
+ },
+ {
+  "id": "08-50",
+  "theme": 8,
+  "level": "B2",
+  "text_en": "Technology is a tool, and its value depends entirely on how we choose to use it.",
+  "text_fr": "La technologie est un outil, et sa valeur dépend entièrement de la manière dont nous choisissons de l'utiliser.",
+  "key_terms": [
+   "to depend on",
+   "entirely"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "technology": "tek-NAH-luh-jee",
+   "value": "VAL-yoo"
+  }
+ }
+]

@@ -1,0 +1,818 @@
+[
+ {
+  "id": "19-01",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Most teenagers check social media as soon as they wake up.",
+  "text_fr": "La plupart des adolescents consultent les réseaux sociaux dès leur réveil.",
+  "key_terms": [
+   "as soon as",
+   "to wake up"
+  ],
+  "thesis_terms": [
+   "social media"
+  ],
+  "pronunciation_notes": {
+   "media": "MEE-dee-uh"
+  }
+ },
+ {
+  "id": "19-02",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "My niece spends hours scrolling through videos on her phone.",
+  "text_fr": "Ma nièce passe des heures à faire défiler des vidéos sur son téléphone.",
+  "key_terms": [
+   "to spend",
+   "phone"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "scrolling": "SKROH-ling",
+   "niece": "neess"
+  }
+ },
+ {
+  "id": "19-03",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Screen time has increased a lot among children since the pandemic.",
+  "text_fr": "Le temps d'écran a beaucoup augmenté chez les enfants depuis la pandémie.",
+  "key_terms": [
+   "to increase",
+   "since"
+  ],
+  "thesis_terms": [
+   "screen time"
+  ],
+  "pronunciation_notes": {
+   "pandemic": "pan-DEM-ik"
+  }
+ },
+ {
+  "id": "19-04",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Parents worry about how much time their kids spend online.",
+  "text_fr": "Les parents s'inquiètent du temps que leurs enfants passent en ligne.",
+  "key_terms": [
+   "to worry",
+   "how much"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "worry": "WUR-ee"
+  }
+ },
+ {
+  "id": "19-05",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Many influencers post photos that have been carefully edited.",
+  "text_fr": "Beaucoup d'influenceurs publient des photos soigneusement retouchées.",
+  "key_terms": [
+   "carefully",
+   "to post"
+  ],
+  "thesis_terms": [
+   "influencer"
+  ],
+  "pronunciation_notes": {
+   "influencers": "IN-floo-un-serz",
+   "edited": "ED-ih-tid"
+  }
+ },
+ {
+  "id": "19-06",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Some young people compare their bodies with the bodies they see online.",
+  "text_fr": "Certains jeunes comparent leur corps à ceux qu'ils voient en ligne.",
+  "key_terms": [
+   "to compare"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "bodies": "BAH-deez"
+  }
+ },
+ {
+  "id": "19-07",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "She deleted the app because it made her feel bad about herself.",
+  "text_fr": "Elle a supprimé l'application parce qu'elle lui donnait une mauvaise image d'elle-même.",
+  "key_terms": [
+   "to delete",
+   "herself"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "deleted": "dih-LEE-tid"
+  }
+ },
+ {
+  "id": "19-08",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Body image is how we see and feel about our own body.",
+  "text_fr": "L'image du corps, c'est la manière dont nous voyons notre propre corps et ce que nous en ressentons.",
+  "key_terms": [
+   "own",
+   "to feel"
+  ],
+  "thesis_terms": [
+   "body image"
+  ],
+  "pronunciation_notes": {
+   "image": "IM-ij"
+  }
+ },
+ {
+  "id": "19-09",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Teenagers often feel pressure to look perfect in their photos.",
+  "text_fr": "Les adolescents ressentent souvent une pression pour paraître parfaits sur leurs photos.",
+  "key_terms": [
+   "pressure",
+   "perfect"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "pressure": "PRESH-er"
+  }
+ },
+ {
+  "id": "19-10",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Fitness videos can be motivating, but they can also make people feel inadequate.",
+  "text_fr": "Les vidéos de fitness peuvent motiver, mais aussi donner aux gens un sentiment d'insuffisance.",
+  "key_terms": [
+   "to motivate"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "inadequate": "in-AD-ih-kwit"
+  }
+ },
+ {
+  "id": "19-11",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "My son follows a famous runner who shares her training on social media.",
+  "text_fr": "Mon fils suit une coureuse célèbre qui partage son entraînement sur les réseaux sociaux.",
+  "key_terms": [
+   "to follow",
+   "famous"
+  ],
+  "thesis_terms": [
+   "social media"
+  ],
+  "pronunciation_notes": {
+   "famous": "FAY-mus"
+  }
+ },
+ {
+  "id": "19-12",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "We agreed that there would be no phones at the dinner table.",
+  "text_fr": "Nous nous sommes mis d'accord : pas de téléphone à table.",
+  "key_terms": [
+   "to agree"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "table": "TAY-bul"
+  }
+ },
+ {
+  "id": "19-13",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Teachers notice that students are more tired when they use screens late at night.",
+  "text_fr": "Les enseignants remarquent que les élèves sont plus fatigués quand ils utilisent des écrans tard le soir.",
+  "key_terms": [
+   "to notice",
+   "tired"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "screens": "skreenz"
+  }
+ },
+ {
+  "id": "19-14",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Young people deserve to feel comfortable in their own skin.",
+  "text_fr": "Les jeunes méritent de se sentir bien dans leur peau.",
+  "key_terms": [
+   "to deserve",
+   "skin"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "comfortable": "KUMF-ter-bul",
+   "deserve": "dih-ZERV"
+  }
+ },
+ {
+  "id": "19-15",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Not everything you see online is real, and that is worth remembering.",
+  "text_fr": "Tout ce qu'on voit en ligne n'est pas réel, et ça vaut la peine de s'en souvenir.",
+  "key_terms": [
+   "worth",
+   "to remember"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "remembering": "rih-MEM-ber-ing"
+  }
+ },
+ {
+  "id": "19-16",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Some apps allow users to hide the number of likes on their posts.",
+  "text_fr": "Certaines applications permettent de masquer le nombre de « j'aime » sous les publications.",
+  "key_terms": [
+   "to allow",
+   "to hide"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "posts": "pohsts"
+  }
+ },
+ {
+  "id": "19-17",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "A friend of mine stopped posting photos because of negative comments.",
+  "text_fr": "Un ami à moi a arrêté de publier des photos à cause de commentaires négatifs.",
+  "key_terms": [
+   "a friend of mine",
+   "because of"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "negative": "NEG-uh-tiv",
+   "comments": "KAH-ments"
+  }
+ },
+ {
+  "id": "19-18",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Exposure to perfect bodies online can lower teenagers' self-esteem.",
+  "text_fr": "L'exposition à des corps parfaits en ligne peut faire baisser l'estime de soi des adolescents.",
+  "key_terms": [
+   "to lower"
+  ],
+  "thesis_terms": [
+   "exposure"
+  ],
+  "pronunciation_notes": {
+   "exposure": "ik-SPOH-zher",
+   "self-esteem": "self-ih-STEEM"
+  }
+ },
+ {
+  "id": "19-19",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Many girls stop playing sport because they feel awkward in sports clothes.",
+  "text_fr": "Beaucoup de filles arrêtent le sport parce qu'elles se sentent mal à l'aise en tenue de sport.",
+  "key_terms": [
+   "awkward",
+   "to stop"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "awkward": "AWK-werd"
+  }
+ },
+ {
+  "id": "19-20",
+  "theme": 19,
+  "level": "B1",
+  "text_en": "Talking openly about social media helps teenagers use it more wisely.",
+  "text_fr": "Parler ouvertement des réseaux sociaux aide les adolescents à les utiliser plus sagement.",
+  "key_terms": [
+   "openly",
+   "wisely"
+  ],
+  "thesis_terms": [
+   "social media"
+  ],
+  "pronunciation_notes": {
+   "openly": "OH-pun-lee"
+  }
+ },
+ {
+  "id": "19-21",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Social comparison happens automatically, especially when images are carefully selected.",
+  "text_fr": "La comparaison sociale se fait automatiquement, surtout quand les images sont soigneusement choisies.",
+  "key_terms": [
+   "to happen",
+   "especially"
+  ],
+  "thesis_terms": [
+   "social comparison"
+  ],
+  "pronunciation_notes": {
+   "comparison": "kum-PAIR-uh-sun",
+   "automatically": "aw-tuh-MAT-ik-lee"
+  }
+ },
+ {
+  "id": "19-22",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Online social comparison is associated with body image concerns among adolescents.",
+  "text_fr": "La comparaison sociale en ligne est associée à des préoccupations liées à l'image du corps chez les adolescents.",
+  "key_terms": [
+   "concern",
+   "among"
+  ],
+  "thesis_terms": [
+   "social comparison",
+   "body image"
+  ],
+  "pronunciation_notes": {
+   "adolescents": "ad-uh-LESS-unts"
+  }
+ },
+ {
+  "id": "19-23",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Body dissatisfaction is among the most common mental health challenges in adolescence.",
+  "text_fr": "L'insatisfaction corporelle fait partie des difficultés de santé mentale les plus courantes à l'adolescence.",
+  "key_terms": [
+   "common",
+   "challenge"
+  ],
+  "thesis_terms": [
+   "mental health",
+   "body dissatisfaction"
+  ],
+  "pronunciation_notes": {
+   "dissatisfaction": "diss-sat-iss-FAK-shun"
+  }
+ },
+ {
+  "id": "19-24",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Body dissatisfaction can begin surprisingly early, sometimes before the age of ten.",
+  "text_fr": "L'insatisfaction corporelle peut commencer étonnamment tôt, parfois avant dix ans.",
+  "key_terms": [
+   "surprisingly",
+   "early"
+  ],
+  "thesis_terms": [
+   "body dissatisfaction"
+  ],
+  "pronunciation_notes": {
+   "surprisingly": "ser-PRY-zing-lee"
+  }
+ },
+ {
+  "id": "19-25",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Fitspiration content promotes exercise, but often through thin and muscular bodies.",
+  "text_fr": "Les contenus fitspiration promeuvent l'exercice, mais souvent à travers des corps minces et musclés.",
+  "key_terms": [
+   "thin",
+   "through"
+  ],
+  "thesis_terms": [
+   "fitspiration"
+  ],
+  "pronunciation_notes": {
+   "fitspiration": "fit-spuh-RAY-shun",
+   "muscular": "MUSS-kyuh-ler"
+  }
+ },
+ {
+  "id": "19-26",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Fitspiration posts can motivate some users while making others feel worse about themselves.",
+  "text_fr": "Les publications fitspiration peuvent motiver certains utilisateurs tout en dévalorisant les autres à leurs propres yeux.",
+  "key_terms": [
+   "while",
+   "worse"
+  ],
+  "thesis_terms": [
+   "fitspiration"
+  ],
+  "pronunciation_notes": {
+   "themselves": "them-SELVZ"
+  }
+ },
+ {
+  "id": "19-27",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Body dissatisfaction is a recognized risk factor for disordered eating.",
+  "text_fr": "L'insatisfaction corporelle est un facteur de risque reconnu des troubles du comportement alimentaire.",
+  "key_terms": [
+   "recognized"
+  ],
+  "thesis_terms": [
+   "body dissatisfaction",
+   "disordered eating",
+   "risk factor"
+  ],
+  "pronunciation_notes": {
+   "disordered": "diss-OR-derd"
+  }
+ },
+ {
+  "id": "19-28",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Disordered eating is often hidden, which makes early detection difficult for teachers.",
+  "text_fr": "Les troubles alimentaires sont souvent cachés, ce qui rend leur repérage précoce difficile pour les enseignants.",
+  "key_terms": [
+   "hidden",
+   "which"
+  ],
+  "thesis_terms": [
+   "disordered eating"
+  ],
+  "pronunciation_notes": {
+   "detection": "dih-TEK-shun"
+  }
+ },
+ {
+  "id": "19-29",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Repeated exposure to idealized images may shape what teenagers consider a normal body.",
+  "text_fr": "Une exposition répétée à des images idéalisées peut façonner ce que les adolescents considèrent comme un corps normal.",
+  "key_terms": [
+   "to shape",
+   "to consider"
+  ],
+  "thesis_terms": [
+   "exposure"
+  ],
+  "pronunciation_notes": {
+   "idealized": "eye-DEE-uh-lyzd"
+  }
+ },
+ {
+  "id": "19-30",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Influencers can increase the intention to exercise, especially when their content feels authentic.",
+  "text_fr": "Les influenceurs peuvent renforcer l'intention de faire de l'exercice, surtout quand leurs contenus semblent authentiques.",
+  "key_terms": [
+   "intention",
+   "authentic"
+  ],
+  "thesis_terms": [
+   "influencer"
+  ],
+  "pronunciation_notes": {
+   "authentic": "aw-THEN-tik"
+  }
+ },
+ {
+  "id": "19-31",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Some schools now teach media literacy so that students can question what they see.",
+  "text_fr": "Certaines écoles enseignent désormais l'éducation aux médias pour que les élèves puissent questionner ce qu'ils voient.",
+  "key_terms": [
+   "so that",
+   "to question"
+  ],
+  "thesis_terms": [
+   "media literacy"
+  ],
+  "pronunciation_notes": {
+   "literacy": "LIT-er-uh-see"
+  }
+ },
+ {
+  "id": "19-32",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Media literacy alone is not enough if platforms are designed to keep users scrolling.",
+  "text_fr": "L'éducation aux médias ne suffit pas si les plateformes sont conçues pour faire défiler sans fin.",
+  "key_terms": [
+   "enough",
+   "alone"
+  ],
+  "thesis_terms": [
+   "media literacy"
+  ],
+  "pronunciation_notes": {
+   "platforms": "PLAT-formz"
+  }
+ },
+ {
+  "id": "19-33",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Self-compassion may protect adolescents from the negative effects of social comparison.",
+  "text_fr": "L'autocompassion pourrait protéger les adolescents des effets négatifs de la comparaison sociale.",
+  "key_terms": [
+   "to protect"
+  ],
+  "thesis_terms": [
+   "social comparison",
+   "self-compassion"
+  ],
+  "pronunciation_notes": {
+   "compassion": "kum-PASH-un"
+  }
+ },
+ {
+  "id": "19-34",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Teaching self-compassion means helping students treat themselves as they would treat a friend.",
+  "text_fr": "Enseigner l'autocompassion, c'est aider les élèves à se traiter comme ils traiteraient un ami.",
+  "key_terms": [
+   "to treat"
+  ],
+  "thesis_terms": [
+   "self-compassion"
+  ],
+  "pronunciation_notes": {
+   "treat": "treet"
+  }
+ },
+ {
+  "id": "19-35",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Screen time is not harmful in itself, because what matters is what replaces it.",
+  "text_fr": "Le temps d'écran n'est pas nocif en soi, car ce qui compte, c'est ce qu'il remplace.",
+  "key_terms": [
+   "harmful",
+   "to replace"
+  ],
+  "thesis_terms": [
+   "screen time"
+  ],
+  "pronunciation_notes": {
+   "harmful": "HARM-ful"
+  }
+ },
+ {
+  "id": "19-36",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Higher screen time was associated with lower fitness in school-aged children.",
+  "text_fr": "Un temps d'écran plus élevé était associé à une moins bonne condition physique chez les enfants scolarisés.",
+  "key_terms": [
+   "higher",
+   "lower"
+  ],
+  "thesis_terms": [
+   "screen time"
+  ],
+  "pronunciation_notes": {
+   "fitness": "FIT-ness"
+  }
+ },
+ {
+  "id": "19-37",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Social media is teeming with advice on diet and exercise, and much of it is unreliable.",
+  "text_fr": "Les réseaux sociaux regorgent de conseils sur l'alimentation et l'exercice, dont beaucoup ne sont pas fiables.",
+  "key_terms": [
+   "teeming with",
+   "advice"
+  ],
+  "thesis_terms": [
+   "social media"
+  ],
+  "pronunciation_notes": {
+   "unreliable": "un-rih-LY-uh-bul",
+   "teeming": "TEE-ming"
+  }
+ },
+ {
+  "id": "19-38",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "The same app can be a source of inspiration or a source of anxiety.",
+  "text_fr": "La même application peut être une source d'inspiration ou une source d'anxiété.",
+  "key_terms": [
+   "source"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "anxiety": "ang-ZY-uh-tee",
+   "inspiration": "in-spuh-RAY-shun"
+  }
+ },
+ {
+  "id": "19-39",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "We should not demonize social media, since it also helps isolated teenagers find support.",
+  "text_fr": "Il ne faut pas diaboliser les réseaux sociaux, puisqu'ils aident aussi des adolescents isolés à trouver du soutien.",
+  "key_terms": [
+   "since",
+   "support"
+  ],
+  "thesis_terms": [
+   "social media"
+  ],
+  "pronunciation_notes": {
+   "demonize": "DEE-muh-nyze",
+   "isolated": "EYE-suh-lay-tid"
+  }
+ },
+ {
+  "id": "19-40",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Algorithms tend to show more of whatever keeps users watching, including harmful content.",
+  "text_fr": "Les algorithmes ont tendance à montrer davantage ce qui retient l'attention, y compris des contenus nocifs.",
+  "key_terms": [
+   "to tend to",
+   "whatever"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "algorithms": "AL-guh-rith-umz"
+  }
+ },
+ {
+  "id": "19-41",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Physical education could help students develop a more positive relationship with their bodies.",
+  "text_fr": "L'EPS pourrait aider les élèves à développer une relation plus positive avec leur corps.",
+  "key_terms": [
+   "relationship",
+   "positive"
+  ],
+  "thesis_terms": [
+   "physical education (PE)"
+  ],
+  "pronunciation_notes": {
+   "relationship": "rih-LAY-shun-ship"
+  }
+ },
+ {
+  "id": "19-42",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Girls are more likely than boys to report body dissatisfaction in early adolescence.",
+  "text_fr": "Les filles sont plus susceptibles que les garçons de déclarer une insatisfaction corporelle au début de l'adolescence.",
+  "key_terms": [
+   "likely",
+   "to report"
+  ],
+  "thesis_terms": [
+   "body dissatisfaction"
+  ],
+  "pronunciation_notes": {
+   "adolescence": "ad-uh-LESS-unss"
+  }
+ },
+ {
+  "id": "19-43",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Our second project explores how teenagers use social media to find information about sport.",
+  "text_fr": "Notre second projet explore comment les adolescents utilisent les réseaux sociaux pour s'informer sur le sport.",
+  "key_terms": [
+   "to explore"
+  ],
+  "thesis_terms": [
+   "social media"
+  ],
+  "pronunciation_notes": {
+   "explores": "ik-SPLORZ"
+  }
+ },
+ {
+  "id": "19-44",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Fear of negative evaluation may explain why some teenagers avoid exercising in public.",
+  "text_fr": "La peur du jugement négatif peut expliquer pourquoi certains adolescents évitent de faire du sport en public.",
+  "key_terms": [
+   "to avoid",
+   "fear"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "evaluation": "ih-val-yoo-AY-shun"
+  }
+ },
+ {
+  "id": "19-45",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Banning phones at school is popular, but the evidence for its benefits remains limited.",
+  "text_fr": "Interdire les téléphones à l'école est populaire, mais les preuves de ses bienfaits restent limitées.",
+  "key_terms": [
+   "evidence",
+   "to remain"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "evidence": "EV-uh-dunss",
+   "banning": "BAN-ing"
+  }
+ },
+ {
+  "id": "19-46",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Young people are not passive victims, and many are critical of what they see online.",
+  "text_fr": "Les jeunes ne sont pas des victimes passives, et beaucoup sont critiques envers ce qu'ils voient en ligne.",
+  "key_terms": [
+   "critical",
+   "passive"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "victims": "VIK-timz"
+  }
+ },
+ {
+  "id": "19-47",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Comparing yourself to edited images is a game that you can never win.",
+  "text_fr": "Se comparer à des images retouchées est un jeu qu'on ne peut jamais gagner.",
+  "key_terms": [
+   "to compare",
+   "never"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "comparing": "kum-PAIR-ing"
+  }
+ },
+ {
+  "id": "19-48",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "A glimpse of someone's highlights is not a picture of their real life.",
+  "text_fr": "Un aperçu des meilleurs moments de quelqu'un n'est pas le reflet de sa vraie vie.",
+  "key_terms": [
+   "glimpse",
+   "highlights"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "glimpse": "glimps",
+   "highlights": "HY-lytes"
+  }
+ },
+ {
+  "id": "19-49",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Parents can set boundaries around screen time without turning it into a constant battle.",
+  "text_fr": "Les parents peuvent poser des limites au temps d'écran sans en faire une bataille permanente.",
+  "key_terms": [
+   "to set boundaries",
+   "constant"
+  ],
+  "thesis_terms": [
+   "screen time"
+  ],
+  "pronunciation_notes": {
+   "boundaries": "BOWN-duh-reez"
+  }
+ },
+ {
+  "id": "19-50",
+  "theme": 19,
+  "level": "B2",
+  "text_en": "Helping adolescents enjoy movement may matter more than telling them how their bodies should look.",
+  "text_fr": "Aider les adolescents à aimer bouger compte peut-être plus que leur dire à quoi leur corps devrait ressembler.",
+  "key_terms": [
+   "to enjoy",
+   "to matter"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "movement": "MOOV-ment"
+  }
+ }
+]

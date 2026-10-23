@@ -1,0 +1,760 @@
+[
+ {
+  "id": "09-01",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "The meeting starts at ten, so please be on time.",
+  "text_fr": "La réunion commence à dix heures, alors soyez à l'heure, s'il vous plaît.",
+  "key_terms": [
+   "meeting",
+   "on time"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "meeting": "MEE-ting"
+  }
+ },
+ {
+  "id": "09-02",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Could we move our meeting to Thursday afternoon?",
+  "text_fr": "Pourrions-nous déplacer notre réunion à jeudi après-midi ?",
+  "key_terms": [
+   "to move"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "thursday": "THERZ-day"
+  }
+ },
+ {
+  "id": "09-03",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "I have a lot of work this week because of a deadline on Friday.",
+  "text_fr": "J'ai beaucoup de travail cette semaine à cause d'une échéance vendredi.",
+  "key_terms": [
+   "deadline",
+   "because of"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "deadline": "DED-lyne"
+  }
+ },
+ {
+  "id": "09-04",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "My manager asked me to prepare a short report for the team.",
+  "text_fr": "Ma responsable m'a demandé de préparer un court rapport pour l'équipe.",
+  "key_terms": [
+   "manager",
+   "report"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "manager": "MAN-ih-jer",
+   "report": "rih-PORT"
+  }
+ },
+ {
+  "id": "09-05",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "I work from home on Fridays, which saves me a lot of time.",
+  "text_fr": "Je télétravaille le vendredi, ce qui me fait gagner beaucoup de temps.",
+  "key_terms": [
+   "to work",
+   "which"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fridays": "FRY-dayz"
+  }
+ },
+ {
+  "id": "09-06",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Let me check my calendar and get back to you.",
+  "text_fr": "Laissez-moi vérifier mon agenda et je reviens vers vous.",
+  "key_terms": [
+   "to check",
+   "to get back to"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "calendar": "KAL-un-der"
+  }
+ },
+ {
+  "id": "09-07",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Sorry, I am running late, but I will be there in ten minutes.",
+  "text_fr": "Désolé, je suis en retard, mais je serai là dans dix minutes.",
+  "key_terms": [
+   "late"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sorry": "SAH-ree"
+  }
+ },
+ {
+  "id": "09-08",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Can you share your screen so that everyone can see the document?",
+  "text_fr": "Tu peux partager ton écran pour que tout le monde voie le document ?",
+  "key_terms": [
+   "to share",
+   "so that"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "document": "DAHK-yuh-ment"
+  }
+ },
+ {
+  "id": "09-09",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "I agree with you, but I think we need more information.",
+  "text_fr": "Je suis d'accord avec toi, mais je pense qu'il nous faut plus d'informations.",
+  "key_terms": [
+   "to agree",
+   "to need"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "information": "in-fer-MAY-shun"
+  }
+ },
+ {
+  "id": "09-10",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Our team has grown a lot since last year.",
+  "text_fr": "Notre équipe s'est beaucoup agrandie depuis l'an dernier.",
+  "key_terms": [
+   "team",
+   "to grow"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "grown": "grohn"
+  }
+ },
+ {
+  "id": "09-11",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Who is going to take notes during the meeting today?",
+  "text_fr": "Qui va prendre des notes pendant la réunion aujourd'hui ?",
+  "key_terms": [
+   "who",
+   "to take notes"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "notes": "nohts"
+  }
+ },
+ {
+  "id": "09-12",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "I finished my tasks early, so I can help you if you want.",
+  "text_fr": "J'ai fini mes tâches tôt, alors je peux t'aider si tu veux.",
+  "key_terms": [
+   "task",
+   "early"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "finished": "FIN-isht"
+  }
+ },
+ {
+  "id": "09-13",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "The deadline is tight, but I think we can make it.",
+  "text_fr": "L'échéance est serrée, mais je pense qu'on peut y arriver.",
+  "key_terms": [
+   "deadline",
+   "tight"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tight": "tyte"
+  }
+ },
+ {
+  "id": "09-14",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "My colleague is on vacation, so I am answering her emails.",
+  "text_fr": "Ma collègue est en vacances, alors je réponds à ses courriels.",
+  "key_terms": [
+   "colleague",
+   "to answer"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "vacation": "vay-KAY-shun"
+  }
+ },
+ {
+  "id": "09-15",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Please send me the final version before the end of the day.",
+  "text_fr": "Envoyez-moi la version finale avant la fin de la journée, s'il vous plaît.",
+  "key_terms": [
+   "to send",
+   "final"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "version": "VER-zhun"
+  }
+ },
+ {
+  "id": "09-16",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Let's take a short break and continue in fifteen minutes.",
+  "text_fr": "Faisons une petite pause et reprenons dans quinze minutes.",
+  "key_terms": [
+   "break",
+   "to continue"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fifteen": "fif-TEEN"
+  }
+ },
+ {
+  "id": "09-17",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "I have a job interview tomorrow, and I am quite nervous.",
+  "text_fr": "J'ai un entretien d'embauche demain, et je suis assez nerveux.",
+  "key_terms": [
+   "interview",
+   "nervous"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "interview": "IN-ter-vyoo",
+   "nervous": "NER-vus"
+  }
+ },
+ {
+  "id": "09-18",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Could you explain that point again, please? I did not quite follow.",
+  "text_fr": "Pourriez-vous réexpliquer ce point, s'il vous plaît ? Je n'ai pas bien suivi.",
+  "key_terms": [
+   "to explain",
+   "to follow"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "quite": "kwyte"
+  }
+ },
+ {
+  "id": "09-19",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Thank you all for coming, so let's start with a quick round of introductions.",
+  "text_fr": "Merci à tous d'être venus, alors commençons par un rapide tour de table.",
+  "key_terms": [
+   "quick",
+   "to start"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "introductions": "in-truh-DUK-shunz"
+  }
+ },
+ {
+  "id": "09-20",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "We need to put off the meeting until next week.",
+  "text_fr": "Nous devons reporter la réunion à la semaine prochaine.",
+  "key_terms": [
+   "to put off",
+   "until"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "until": "un-TIL"
+  }
+ },
+ {
+  "id": "09-21",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "I signed my contract last week, and I start on Monday.",
+  "text_fr": "J'ai signé mon contrat la semaine dernière, et je commence lundi.",
+  "key_terms": [
+   "contract",
+   "to sign"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "contract": "KAHN-trakt"
+  }
+ },
+ {
+  "id": "09-22",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "My boss is very flexible about working hours.",
+  "text_fr": "Mon patron est très souple sur les horaires de travail.",
+  "key_terms": [
+   "boss",
+   "flexible"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "flexible": "FLEK-suh-bul"
+  }
+ },
+ {
+  "id": "09-23",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "Can we go back to the first item on the agenda?",
+  "text_fr": "Pouvons-nous revenir au premier point de l'ordre du jour ?",
+  "key_terms": [
+   "to go back",
+   "first"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "agenda": "uh-JEN-duh",
+   "item": "EYE-tum"
+  }
+ },
+ {
+  "id": "09-24",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "I learned a lot from my colleagues during my first year.",
+  "text_fr": "J'ai beaucoup appris de mes collègues pendant ma première année.",
+  "key_terms": [
+   "to learn",
+   "colleague"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "learned": "lernd"
+  }
+ },
+ {
+  "id": "09-25",
+  "theme": 9,
+  "level": "B1",
+  "text_en": "If you have any questions, do not hesitate to contact me.",
+  "text_fr": "Si vous avez des questions, n'hésitez pas à me contacter.",
+  "key_terms": [
+   "question",
+   "to hesitate"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "hesitate": "HEZ-ih-tayt"
+  }
+ },
+ {
+  "id": "09-26",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "I would like to add one point before we move on to the next item.",
+  "text_fr": "J'aimerais ajouter un point avant de passer au suivant.",
+  "key_terms": [
+   "to move on",
+   "to add"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "point": "poynt"
+  }
+ },
+ {
+  "id": "09-27",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Let's make sure we are all on the same page before we decide anything.",
+  "text_fr": "Assurons-nous d'être tous sur la même longueur d'onde avant de décider quoi que ce soit.",
+  "key_terms": [
+   "on the same page",
+   "to make sure"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "anything": "EN-ee-thing"
+  }
+ },
+ {
+  "id": "09-28",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "I see your point, but I am not sure it would work in practice.",
+  "text_fr": "Je comprends ton point de vue, mais je ne suis pas sûr que ça marcherait en pratique.",
+  "key_terms": [
+   "to see",
+   "practice"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "practice": "PRAK-tiss"
+  }
+ },
+ {
+  "id": "09-29",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Could we come back to this question once we have more data?",
+  "text_fr": "Pourrions-nous revenir sur cette question quand nous aurons plus de données ?",
+  "key_terms": [
+   "to come back",
+   "once"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "data": "DAY-tuh"
+  }
+ },
+ {
+  "id": "09-30",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "To be honest, I think the timeline is a bit too optimistic.",
+  "text_fr": "Pour être honnête, je pense que le calendrier est un peu trop optimiste.",
+  "key_terms": [
+   "to be honest"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "timeline": "TYME-lyne",
+   "optimistic": "ahp-tuh-MISS-tik"
+  }
+ },
+ {
+  "id": "09-31",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "We are behind schedule, so we need to set clear priorities for the coming weeks.",
+  "text_fr": "Nous sommes en retard sur le planning, alors il faut fixer des priorités claires pour les semaines à venir.",
+  "key_terms": [
+   "behind schedule",
+   "priority"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "schedule": "SKEJ-ool"
+  }
+ },
+ {
+  "id": "09-32",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "The project was postponed because the funding had not been confirmed.",
+  "text_fr": "Le projet a été reporté parce que le financement n'avait pas été confirmé.",
+  "key_terms": [
+   "to postpone",
+   "funding"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "postponed": "pohst-POHND"
+  }
+ },
+ {
+  "id": "09-33",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Working with colleagues from different islands requires a lot of flexibility.",
+  "text_fr": "Travailler avec des collègues de différentes îles demande beaucoup de souplesse.",
+  "key_terms": [
+   "to require",
+   "flexibility"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "flexibility": "flek-suh-BIL-uh-tee"
+  }
+ },
+ {
+  "id": "09-34",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "I tend to say yes too quickly, and then I struggle to meet all my deadlines.",
+  "text_fr": "J'ai tendance à dire oui trop vite, puis j'ai du mal à tenir tous mes délais.",
+  "key_terms": [
+   "struggle",
+   "to tend to"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "deadlines": "DED-lynez"
+  }
+ },
+ {
+  "id": "09-35",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Before we wrap up, let's agree on who does what by next Monday.",
+  "text_fr": "Avant de conclure, mettons-nous d'accord sur qui fait quoi d'ici lundi prochain.",
+  "key_terms": [
+   "to wrap up",
+   "to agree"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "wrap": "rap"
+  }
+ },
+ {
+  "id": "09-36",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Hybrid meetings are tricky because remote participants often feel left out.",
+  "text_fr": "Les réunions hybrides sont délicates parce que les participants à distance se sentent souvent mis à l'écart.",
+  "key_terms": [
+   "tricky",
+   "remote"
+  ],
+  "thesis_terms": [
+   "participant, respondent"
+  ],
+  "pronunciation_notes": {
+   "hybrid": "HY-brid"
+  }
+ },
+ {
+  "id": "09-37",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Our manager encourages us to admit mistakes instead of hiding them.",
+  "text_fr": "Notre responsable nous encourage à reconnaître nos erreurs plutôt qu'à les cacher.",
+  "key_terms": [
+   "instead of",
+   "to hide"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "encourages": "en-KUR-ij-iz"
+  }
+ },
+ {
+  "id": "09-38",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Giving feedback is a skill, and it takes practice to do it well.",
+  "text_fr": "Faire des retours est une compétence, et il faut de la pratique pour bien le faire.",
+  "key_terms": [
+   "feedback",
+   "skill"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "feedback": "FEED-bak"
+  }
+ },
+ {
+  "id": "09-39",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "It is getting late, so let's call it a day and continue tomorrow morning.",
+  "text_fr": "Il se fait tard, alors arrêtons-nous là pour aujourd'hui et reprenons demain matin.",
+  "key_terms": [
+   "to call it a day",
+   "late"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tomorrow": "tuh-MAH-roh"
+  }
+ },
+ {
+  "id": "09-40",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "You hit the nail on the head, because the real problem is communication.",
+  "text_fr": "Tu as mis le doigt dessus, car le vrai problème, c'est la communication.",
+  "key_terms": [
+   "to hit the nail on the head"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "communication": "kuh-myoo-nih-KAY-shun"
+  }
+ },
+ {
+  "id": "09-41",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "I have been asked to lead the project, although I have little experience in management.",
+  "text_fr": "On m'a demandé de diriger le projet, bien que j'aie peu d'expérience en management.",
+  "key_terms": [
+   "to lead",
+   "although"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "lead": "leed",
+   "experience": "ik-SPEER-ee-unss"
+  }
+ },
+ {
+  "id": "09-42",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "The best meetings are short, focused and end with clear decisions.",
+  "text_fr": "Les meilleures réunions sont courtes, ciblées et se terminent par des décisions claires.",
+  "key_terms": [
+   "focused",
+   "decision"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "focused": "FOH-kust"
+  }
+ },
+ {
+  "id": "09-43",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Burnout is more common when people feel that their efforts are never recognized.",
+  "text_fr": "L'épuisement professionnel est plus fréquent quand les gens sentent que leurs efforts ne sont jamais reconnus.",
+  "key_terms": [
+   "common",
+   "effort"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "burnout": "BERN-owt",
+   "recognized": "REK-ug-nyzd"
+  }
+ },
+ {
+  "id": "09-44",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "We were all in the same boat, so we decided to help each other.",
+  "text_fr": "Nous étions tous dans le même bateau, alors nous avons décidé de nous entraider.",
+  "key_terms": [
+   "to be in the same boat",
+   "each other"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "boat": "boht"
+  }
+ },
+ {
+  "id": "09-45",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Balancing my job, my thesis and my family is a constant juggling act.",
+  "text_fr": "Concilier mon travail, ma thèse et ma famille est un exercice d'équilibriste permanent.",
+  "key_terms": [
+   "constant",
+   "to balance"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "juggling": "JUG-ling"
+  }
+ },
+ {
+  "id": "09-46",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "My employer agreed to let me work part-time while I finish my doctorate.",
+  "text_fr": "Mon employeur a accepté que je travaille à temps partiel pendant que je termine mon doctorat.",
+  "key_terms": [
+   "employer",
+   "while"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "doctorate": "DAHK-ter-it",
+   "employer": "em-PLOY-er"
+  }
+ },
+ {
+  "id": "09-47",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "If we had communicated better, the misunderstanding would never have happened.",
+  "text_fr": "Si nous avions mieux communiqué, le malentendu ne se serait jamais produit.",
+  "key_terms": [
+   "to happen",
+   "better"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "misunderstanding": "miss-un-der-STAN-ding"
+  }
+ },
+ {
+  "id": "09-48",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "Networking is not about collecting contacts but about building genuine relationships.",
+  "text_fr": "Le réseautage, ce n'est pas collectionner des contacts, mais construire de vraies relations.",
+  "key_terms": [
+   "to build",
+   "relationship"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "genuine": "JEN-yoo-in"
+  }
+ },
+ {
+  "id": "09-49",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "In tense meetings, I practice a kind of reflection-in-action, adjusting my words as I speak.",
+  "text_fr": "Dans les réunions tendues, je pratique une forme de réflexion dans l'action, en ajustant mes mots au fil de la parole.",
+  "key_terms": [
+   "to adjust",
+   "tense"
+  ],
+  "thesis_terms": [
+   "reflection-in-action"
+  ],
+  "pronunciation_notes": {
+   "reflection": "rih-FLEK-shun",
+   "adjusting": "uh-JUSS-ting"
+  }
+ },
+ {
+  "id": "09-50",
+  "theme": 9,
+  "level": "B2",
+  "text_en": "A good team is one where people feel safe enough to disagree openly.",
+  "text_fr": "Une bonne équipe, c'est une équipe où l'on se sent assez en confiance pour être en désaccord ouvertement.",
+  "key_terms": [
+   "safe",
+   "openly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "disagree": "diss-uh-GREE"
+  }
+ }
+]

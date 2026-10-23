@@ -1,0 +1,769 @@
+[
+ {
+  "id": "03-01",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "I have two brothers and an older sister who lives abroad.",
+  "text_fr": "J'ai deux frères et une sœur aînée qui vit à l'étranger.",
+  "key_terms": [
+   "brother",
+   "sister",
+   "abroad"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "abroad": "uh-BRAWD",
+   "brothers": "BRUTH-erz"
+  }
+ },
+ {
+  "id": "03-02",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My parents are retired, and they spend a lot of time with their grandchildren.",
+  "text_fr": "Mes parents sont à la retraite, et ils passent beaucoup de temps avec leurs petits-enfants.",
+  "key_terms": [
+   "to retire",
+   "to spend"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "retired": "rih-TYRD",
+   "grandchildren": "GRAN-chil-drun"
+  }
+ },
+ {
+  "id": "03-03",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My cousin is getting married next month on a beautiful beach.",
+  "text_fr": "Mon cousin se marie le mois prochain sur une très belle plage.",
+  "key_terms": [
+   "cousin",
+   "beach"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cousin": "KUZ-un",
+   "married": "MAIR-eed"
+  }
+ },
+ {
+  "id": "03-04",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "We call my grandmother every Sunday to hear her news.",
+  "text_fr": "Nous appelons ma grand-mère tous les dimanches pour prendre de ses nouvelles.",
+  "key_terms": [
+   "to call",
+   "grandmother"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "news": "nooz"
+  }
+ },
+ {
+  "id": "03-05",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "Our neighbor looks after our cat when we travel.",
+  "text_fr": "Notre voisine s'occupe de notre chat quand nous voyageons.",
+  "key_terms": [
+   "to look after",
+   "to travel"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "neighbor": "NAY-ber"
+  }
+ },
+ {
+  "id": "03-06",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "I get along well with my colleagues, but I rarely see them outside work.",
+  "text_fr": "Je m'entends bien avec mes collègues, mais je les vois rarement en dehors du travail.",
+  "key_terms": [
+   "to get along",
+   "rarely"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "colleagues": "KAH-leegz"
+  }
+ },
+ {
+  "id": "03-07",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My daughter is very shy with strangers, but she talks a lot at home.",
+  "text_fr": "Ma fille est très timide avec les inconnus, mais elle parle beaucoup à la maison.",
+  "key_terms": [
+   "shy",
+   "stranger"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "strangers": "STRAYN-jerz"
+  }
+ },
+ {
+  "id": "03-08",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "How long have you two known each other?",
+  "text_fr": "Depuis combien de temps vous connaissez-vous, tous les deux ?",
+  "key_terms": [
+   "how long",
+   "each other"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "known": "nohn"
+  }
+ },
+ {
+  "id": "03-09",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "We met at university, and we have been together ever since.",
+  "text_fr": "Nous nous sommes rencontrés à l'université, et nous sommes ensemble depuis.",
+  "key_terms": [
+   "to meet",
+   "university"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "university": "yoo-nuh-VER-suh-tee"
+  }
+ },
+ {
+  "id": "03-10",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My brother and I used to fight a lot when we were kids.",
+  "text_fr": "Mon frère et moi, on se disputait beaucoup quand on était petits.",
+  "key_terms": [
+   "used to",
+   "to fight"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fight": "fyte"
+  }
+ },
+ {
+  "id": "03-11",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My son is a teenager now, so he spends most of his time in his room.",
+  "text_fr": "Mon fils est adolescent maintenant, alors il passe la plupart de son temps dans sa chambre.",
+  "key_terms": [
+   "teenager",
+   "son"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "teenager": "TEEN-ay-jer"
+  }
+ },
+ {
+  "id": "03-12",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "A friend of mine is going through a difficult divorce.",
+  "text_fr": "Un ami à moi traverse un divorce difficile.",
+  "key_terms": [
+   "a friend of mine",
+   "difficult"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "divorce": "dih-VORSS"
+  }
+ },
+ {
+  "id": "03-13",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My uncle owns a boat, and he takes us fishing every summer.",
+  "text_fr": "Mon oncle a un bateau, et il nous emmène pêcher chaque été.",
+  "key_terms": [
+   "uncle",
+   "boat"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "uncle": "UNG-kul"
+  }
+ },
+ {
+  "id": "03-14",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "I am proud of my children, even when they make mistakes.",
+  "text_fr": "Je suis fier de mes enfants, même quand ils font des erreurs.",
+  "key_terms": [
+   "proud",
+   "mistake"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "proud": "prowd"
+  }
+ },
+ {
+  "id": "03-15",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "Family dinners are noisy, but I would not miss them for anything.",
+  "text_fr": "Les dîners de famille sont bruyants, mais je ne les manquerais pour rien au monde.",
+  "key_terms": [
+   "noisy",
+   "to miss"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "noisy": "NOY-zee"
+  }
+ },
+ {
+  "id": "03-16",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My mother taught me to cook when I was about ten years old.",
+  "text_fr": "Ma mère m'a appris à cuisiner quand j'avais environ dix ans.",
+  "key_terms": [
+   "to teach",
+   "mother"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "taught": "tawt"
+  }
+ },
+ {
+  "id": "03-17",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "We are expecting a baby in March, and we are very excited.",
+  "text_fr": "Nous attendons un bébé pour mars, et nous sommes très impatients.",
+  "key_terms": [
+   "baby",
+   "excited"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "excited": "ik-SY-tid"
+  }
+ },
+ {
+  "id": "03-18",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "Who do you look like more, your mother or your father?",
+  "text_fr": "À qui ressembles-tu le plus, à ta mère ou à ton père ?",
+  "key_terms": [
+   "to look like",
+   "father"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "father": "FAH-ther"
+  }
+ },
+ {
+  "id": "03-19",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My grandfather tells the same stories every time, but we still love them.",
+  "text_fr": "Mon grand-père raconte toujours les mêmes histoires, mais on les adore quand même.",
+  "key_terms": [
+   "to tell",
+   "still"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "stories": "STOR-eez"
+  }
+ },
+ {
+  "id": "03-20",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "I try to spend more quality time with my kids on weekends.",
+  "text_fr": "J'essaie de passer plus de vrais moments avec mes enfants le week-end.",
+  "key_terms": [
+   "to spend",
+   "weekend"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "quality": "KWAH-luh-tee"
+  }
+ },
+ {
+  "id": "03-21",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "She is my best friend, and we have known each other since primary school.",
+  "text_fr": "C'est ma meilleure amie, et nous nous connaissons depuis l'école primaire.",
+  "key_terms": [
+   "best friend",
+   "since"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "primary": "PRY-mair-ee"
+  }
+ },
+ {
+  "id": "03-22",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My wife and I share the housework, the shopping and the school runs.",
+  "text_fr": "Ma femme et moi partageons le ménage, les courses et les trajets d'école.",
+  "key_terms": [
+   "wife",
+   "to share"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "housework": "HOWSS-werk"
+  }
+ },
+ {
+  "id": "03-23",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "We had an argument yesterday, but we made up this morning.",
+  "text_fr": "Nous nous sommes disputés hier, mais nous nous sommes réconciliés ce matin.",
+  "key_terms": [
+   "yesterday",
+   "to make up"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "argument": "ARG-yuh-ment"
+  }
+ },
+ {
+  "id": "03-24",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "My in-laws are coming to stay with us for two weeks.",
+  "text_fr": "Mes beaux-parents viennent passer deux semaines chez nous.",
+  "key_terms": [
+   "to stay",
+   "week"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "in-laws": "IN-lawz"
+  }
+ },
+ {
+  "id": "03-25",
+  "theme": 3,
+  "level": "B1",
+  "text_en": "If my parents lived closer, they could help us with the children.",
+  "text_fr": "Si mes parents habitaient plus près, ils pourraient nous aider avec les enfants.",
+  "key_terms": [
+   "if",
+   "closer"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "closer": "KLOH-ser"
+  }
+ },
+ {
+  "id": "03-26",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "In Polynesian culture, children are often raised by several members of the extended family.",
+  "text_fr": "Dans la culture polynésienne, les enfants sont souvent élevés par plusieurs membres de la famille élargie.",
+  "key_terms": [
+   "to raise",
+   "several"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "polynesian": "pah-luh-NEE-zhun",
+   "extended": "ik-STEN-did"
+  }
+ },
+ {
+  "id": "03-27",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Being honest with your partner is not always easy, but it is essential.",
+  "text_fr": "Être honnête avec son partenaire n'est pas toujours facile, mais c'est essentiel.",
+  "key_terms": [
+   "honest",
+   "partner"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "honest": "AH-nist"
+  }
+ },
+ {
+  "id": "03-28",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "My father rarely shows his emotions, although he cares deeply about us.",
+  "text_fr": "Mon père montre rarement ses émotions, bien qu'il tienne profondément à nous.",
+  "key_terms": [
+   "although",
+   "deeply"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "emotions": "ih-MOH-shunz"
+  }
+ },
+ {
+  "id": "03-29",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Since I started my thesis, I have had less time for my friends.",
+  "text_fr": "Depuis que j'ai commencé ma thèse, j'ai moins de temps pour mes amis.",
+  "key_terms": [
+   "since",
+   "less"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "thesis": "THEE-sis"
+  }
+ },
+ {
+  "id": "03-30",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Long-distance friendships survive only if both people make an effort.",
+  "text_fr": "Les amitiés à distance ne survivent que si les deux personnes font un effort.",
+  "key_terms": [
+   "both",
+   "effort"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "friendships": "FREND-ships",
+   "effort": "EF-ert"
+  }
+ },
+ {
+  "id": "03-31",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Raising teenagers requires patience, humor and a lot of negotiation.",
+  "text_fr": "Élever des adolescents demande de la patience, de l'humour et beaucoup de négociation.",
+  "key_terms": [
+   "patient",
+   "to require"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "humor": "HYOO-mer",
+   "negotiation": "nuh-goh-shee-AY-shun"
+  }
+ },
+ {
+  "id": "03-32",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "My sister and I did not get along as children, but now we are very close.",
+  "text_fr": "Ma sœur et moi ne nous entendions pas enfants, mais maintenant nous sommes très proches.",
+  "key_terms": [
+   "to get along",
+   "close"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "close": "klohss"
+  }
+ },
+ {
+  "id": "03-33",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "We decided to set clear boundaries about phones during family meals.",
+  "text_fr": "Nous avons décidé de poser des règles claires sur les téléphones pendant les repas de famille.",
+  "key_terms": [
+   "to set boundaries",
+   "meal"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "boundaries": "BOWN-duh-reez"
+  }
+ },
+ {
+  "id": "03-34",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Grandparents play a huge role in our family, especially during school holidays.",
+  "text_fr": "Les grands-parents jouent un rôle énorme dans notre famille, surtout pendant les vacances scolaires.",
+  "key_terms": [
+   "huge",
+   "especially"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "huge": "hyooj",
+   "holidays": "HAH-luh-dayz"
+  }
+ },
+ {
+  "id": "03-35",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "I wish I had spent more time with my grandmother before she passed away.",
+  "text_fr": "J'aurais aimé passer plus de temps avec ma grand-mère avant son décès.",
+  "key_terms": [
+   "to wish",
+   "to pass away"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "wish": "wish"
+  }
+ },
+ {
+  "id": "03-36",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Some friendships fade over time, and that is perfectly normal.",
+  "text_fr": "Certaines amitiés s'estompent avec le temps, et c'est parfaitement normal.",
+  "key_terms": [
+   "over time"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fade": "fayd",
+   "perfectly": "PER-fikt-lee"
+  }
+ },
+ {
+  "id": "03-37",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "My parents taught me that hard work matters as much as talent.",
+  "text_fr": "Mes parents m'ont appris que le travail compte autant que le talent.",
+  "key_terms": [
+   "as much as",
+   "to matter"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "talent": "TAL-unt"
+  }
+ },
+ {
+  "id": "03-38",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "When my son told me he wanted to drop out of college, I tried to stay calm.",
+  "text_fr": "Quand mon fils m'a dit qu'il voulait abandonner ses études, j'ai essayé de rester calme.",
+  "key_terms": [
+   "to drop out",
+   "calm"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "college": "KAH-lij",
+   "calm": "kahm"
+  }
+ },
+ {
+  "id": "03-39",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Moving abroad changed my relationship with my family more than I expected.",
+  "text_fr": "Partir vivre à l'étranger a changé ma relation avec ma famille plus que je ne l'imaginais.",
+  "key_terms": [
+   "abroad",
+   "to expect"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "relationship": "rih-LAY-shun-ship"
+  }
+ },
+ {
+  "id": "03-40",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Family gatherings can be stressful when there are old conflicts that nobody mentions.",
+  "text_fr": "Les réunions de famille peuvent être stressantes quand il y a de vieux conflits que personne n'évoque.",
+  "key_terms": [
+   "nobody",
+   "stressful"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "gatherings": "GATH-er-ingz",
+   "conflicts": "KAHN-flikts"
+  }
+ },
+ {
+  "id": "03-41",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Living with three generations under one roof has advantages and challenges.",
+  "text_fr": "Vivre à trois générations sous un même toit a des avantages et des difficultés.",
+  "key_terms": [
+   "roof",
+   "challenge"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "generations": "jen-uh-RAY-shunz",
+   "advantages": "ad-VAN-tij-iz"
+  }
+ },
+ {
+  "id": "03-42",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "My children speak French at school, but their grandparents speak Tahitian at home.",
+  "text_fr": "Mes enfants parlent français à l'école, mais leurs grands-parents parlent tahitien à la maison.",
+  "key_terms": [
+   "to speak",
+   "grandparents"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tahitian": "tuh-HEE-shun"
+  },
+  "unscored": [
+   "Tahitian"
+  ]
+ },
+ {
+  "id": "03-43",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Losing touch with old friends is easy, but keeping in touch requires effort.",
+  "text_fr": "Perdre le contact avec de vieux amis est facile, mais le garder demande des efforts.",
+  "key_terms": [
+   "to keep in touch",
+   "to lose"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "touch": "tuch"
+  }
+ },
+ {
+  "id": "03-44",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "My partner's support was the main reason I managed to finish my degree.",
+  "text_fr": "Le soutien de mon compagnon a été la principale raison pour laquelle j'ai réussi à finir mes études.",
+  "key_terms": [
+   "to manage",
+   "degree"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "support": "suh-PORT",
+   "degree": "dih-GREE"
+  }
+ },
+ {
+  "id": "03-45",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "We argue about small things, but we always agree on the important ones.",
+  "text_fr": "Nous nous disputons pour des petites choses, mais nous sommes toujours d'accord sur les choses importantes.",
+  "key_terms": [
+   "to argue",
+   "to agree"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "argue": "AR-gyoo"
+  }
+ },
+ {
+  "id": "03-46",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Becoming a parent completely changed my priorities, almost overnight.",
+  "text_fr": "Devenir parent a complètement changé mes priorités, presque du jour au lendemain.",
+  "key_terms": [
+   "to become",
+   "almost"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "priorities": "pry-OR-uh-teez",
+   "overnight": "oh-ver-NYTE"
+  }
+ },
+ {
+  "id": "03-47",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Asking for help is not a sign of weakness, especially within a family.",
+  "text_fr": "Demander de l'aide n'est pas un signe de faiblesse, surtout au sein d'une famille.",
+  "key_terms": [
+   "weakness",
+   "within"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "weakness": "WEEK-ness"
+  }
+ },
+ {
+  "id": "03-48",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Twins often develop a special bond that others find hard to understand.",
+  "text_fr": "Les jumeaux développent souvent un lien particulier que les autres ont du mal à comprendre.",
+  "key_terms": [
+   "special",
+   "bond"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "twins": "twinz",
+   "bond": "bahnd"
+  }
+ },
+ {
+  "id": "03-49",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "Friends of ours adopted a little girl, and their lives have changed completely.",
+  "text_fr": "Des amis à nous ont adopté une petite fille, et leur vie a complètement changé.",
+  "key_terms": [
+   "to adopt",
+   "completely"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "adopted": "uh-DAHP-tid"
+  }
+ },
+ {
+  "id": "03-50",
+  "theme": 3,
+  "level": "B2",
+  "text_en": "In the end, the people we love matter far more than anything we own.",
+  "text_fr": "Au bout du compte, les gens que nous aimons comptent bien plus que tout ce que nous possédons.",
+  "key_terms": [
+   "in the end",
+   "to matter"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "own": "ohn"
+  }
+ }
+]

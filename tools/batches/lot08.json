@@ -1,0 +1,893 @@
+[
+ {
+  "id": "18-01",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "A theoretical framework is a lens that helps us interpret what we observe.",
+  "text_fr": "Un cadre théorique est une grille de lecture qui nous aide à interpréter ce que nous observons.",
+  "key_terms": [
+   "lens",
+   "to observe"
+  ],
+  "thesis_terms": [
+   "theoretical framework"
+  ],
+  "pronunciation_notes": {
+   "theoretical": "thee-uh-RET-ih-kul",
+   "framework": "FRAYM-werk"
+  }
+ },
+ {
+  "id": "18-02",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "My theoretical framework draws on the sociology of public action.",
+  "text_fr": "Mon cadre théorique s'appuie sur la sociologie de l'action publique.",
+  "key_terms": [
+   "to draw on"
+  ],
+  "thesis_terms": [
+   "theoretical framework",
+   "sociology of public action"
+  ],
+  "pronunciation_notes": {
+   "sociology": "soh-see-AH-luh-jee"
+  }
+ },
+ {
+  "id": "18-03",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "The affordances of a tool are the possibilities for action that users perceive in it.",
+  "text_fr": "Les potentialités d'un outil sont les possibilités d'action que les usagers y perçoivent.",
+  "key_terms": [
+   "to perceive"
+  ],
+  "thesis_terms": [
+   "affordance"
+  ],
+  "pronunciation_notes": {
+   "affordances": "uh-FOR-dun-siz",
+   "perceive": "per-SEEV"
+  }
+ },
+ {
+  "id": "18-04",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "I chose these authors because their ideas help me understand teachers' work.",
+  "text_fr": "J'ai choisi ces auteurs parce que leurs idées m'aident à comprendre le travail des enseignants.",
+  "key_terms": [
+   "to choose",
+   "idea"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "authors": "AW-therz"
+  }
+ },
+ {
+  "id": "18-05",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "My supervisor encouraged me to read the authors in their original language.",
+  "text_fr": "Mon directeur de thèse m'a encouragé à lire les auteurs dans leur langue d'origine.",
+  "key_terms": [
+   "supervisor",
+   "to encourage"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "supervisor": "SOO-per-vy-zer",
+   "language": "LANG-gwij"
+  }
+ },
+ {
+  "id": "18-06",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Lipsky's work is still widely cited by researchers in public policy.",
+  "text_fr": "Les travaux de Lipsky sont encore largement cités par les chercheurs en politiques publiques.",
+  "key_terms": [
+   "still",
+   "to cite"
+  ],
+  "thesis_terms": [
+   "public policy"
+  ],
+  "pronunciation_notes": {
+   "lipsky's": "LIP-skeez",
+   "widely": "WYDE-lee",
+   "cited": "SY-tid"
+  },
+  "unscored": [
+   "Lipsky's"
+  ]
+ },
+ {
+  "id": "18-07",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Bourdieu used the idea of habitus to explain why people make similar choices.",
+  "text_fr": "Bourdieu a utilisé la notion d'habitus pour expliquer pourquoi les gens font des choix similaires.",
+  "key_terms": [
+   "to explain",
+   "similar"
+  ],
+  "thesis_terms": [
+   "field theory, habitus, capital"
+  ],
+  "pronunciation_notes": {
+   "bourdieu": "boor-DYOO",
+   "habitus": "HAB-ih-tus"
+  },
+  "unscored": [
+   "Bourdieu"
+  ]
+ },
+ {
+  "id": "18-08",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Habitus explains why people adopt certain sporting practices without really thinking about it.",
+  "text_fr": "L'habitus explique pourquoi les gens adoptent certaines pratiques sportives sans vraiment y penser.",
+  "key_terms": [
+   "without",
+   "to adopt"
+  ],
+  "thesis_terms": [
+   "field theory, habitus, capital"
+  ],
+  "pronunciation_notes": {
+   "habitus": "HAB-ih-tus"
+  }
+ },
+ {
+  "id": "18-09",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Schön described the reflective practitioner as someone who learns from daily experience.",
+  "text_fr": "Schön a décrit le praticien réflexif comme quelqu'un qui apprend de l'expérience quotidienne.",
+  "key_terms": [
+   "to describe",
+   "daily"
+  ],
+  "thesis_terms": [
+   "reflective practitioner"
+  ],
+  "pronunciation_notes": {
+   "reflective": "rih-FLEK-tiv",
+   "practitioner": "prak-TISH-uh-ner"
+  },
+  "unscored": [
+   "Schön"
+  ]
+ },
+ {
+  "id": "18-10",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Reflection-in-action happens while the lesson is still under way.",
+  "text_fr": "La réflexion dans l'action se produit pendant que le cours est encore en train de se dérouler.",
+  "key_terms": [
+   "while",
+   "under way"
+  ],
+  "thesis_terms": [
+   "reflection-in-action"
+  ],
+  "pronunciation_notes": {
+   "reflection": "rih-FLEK-shun"
+  }
+ },
+ {
+  "id": "18-11",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "A good teacher is often a reflective practitioner without knowing the theory.",
+  "text_fr": "Un bon enseignant est souvent un praticien réflexif sans connaître la théorie.",
+  "key_terms": [
+   "theory",
+   "without"
+  ],
+  "thesis_terms": [
+   "reflective practitioner"
+  ],
+  "pronunciation_notes": {
+   "theory": "THEE-uh-ree"
+  }
+ },
+ {
+  "id": "18-12",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Many French speakers pronounce the g in paradigm, but it should be silent.",
+  "text_fr": "Beaucoup de francophones prononcent le g de paradigm, alors qu'il doit être muet.",
+  "key_terms": [
+   "silent",
+   "to pronounce"
+  ],
+  "thesis_terms": [
+   "paradigm"
+  ],
+  "pronunciation_notes": {
+   "paradigm": "PAIR-uh-dyme",
+   "silent": "SY-lunt"
+  }
+ },
+ {
+  "id": "18-13",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "A new paradigm is slowly emerging in health education.",
+  "text_fr": "Un nouveau paradigme émerge peu à peu en éducation à la santé.",
+  "key_terms": [
+   "slowly",
+   "to emerge"
+  ],
+  "thesis_terms": [
+   "paradigm"
+  ],
+  "pronunciation_notes": {
+   "paradigm": "PAIR-uh-dyme",
+   "emerging": "ih-MER-jing"
+  }
+ },
+ {
+  "id": "18-14",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Epistemology is the study of how we know what we know.",
+  "text_fr": "L'épistémologie est l'étude de la manière dont nous savons ce que nous savons.",
+  "key_terms": [
+   "to know"
+  ],
+  "thesis_terms": [
+   "epistemology"
+  ],
+  "pronunciation_notes": {
+   "epistemology": "ih-piss-tuh-MAH-luh-jee"
+  }
+ },
+ {
+  "id": "18-15",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "My epistemology is closer to critical realism than to pure constructivism.",
+  "text_fr": "Mon épistémologie est plus proche du réalisme critique que du constructivisme pur.",
+  "key_terms": [
+   "closer"
+  ],
+  "thesis_terms": [
+   "critical realism",
+   "epistemology"
+  ],
+  "pronunciation_notes": {
+   "realism": "REE-uh-liz-um",
+   "constructivism": "kun-STRUK-tiv-iz-um"
+  }
+ },
+ {
+  "id": "18-16",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Embodiment reminds us that we learn with our bodies, not only with our minds.",
+  "text_fr": "La corporéité nous rappelle que nous apprenons avec notre corps, pas seulement avec notre esprit.",
+  "key_terms": [
+   "to remind",
+   "not only"
+  ],
+  "thesis_terms": [
+   "embodiment"
+  ],
+  "pronunciation_notes": {
+   "embodiment": "em-BAH-dee-ment"
+  }
+ },
+ {
+  "id": "18-17",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Anthropology studies human societies and the meanings people give to their practices.",
+  "text_fr": "L'anthropologie étudie les sociétés humaines et le sens que les gens donnent à leurs pratiques.",
+  "key_terms": [
+   "meaning",
+   "society"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "anthropology": "an-thruh-PAH-luh-jee",
+   "societies": "suh-SY-uh-teez"
+  }
+ },
+ {
+  "id": "18-18",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Each theory comes with its own vocabulary, which takes time to master.",
+  "text_fr": "Chaque théorie vient avec son propre vocabulaire, qui demande du temps pour être maîtrisé.",
+  "key_terms": [
+   "vocabulary",
+   "to master"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "vocabulary": "voh-KAB-yuh-lair-ee"
+  }
+ },
+ {
+  "id": "18-19",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "I try to explain each concept with a concrete example from my fieldwork.",
+  "text_fr": "J'essaie d'expliquer chaque concept avec un exemple concret tiré de mon terrain.",
+  "key_terms": [
+   "concrete",
+   "example"
+  ],
+  "thesis_terms": [
+   "fieldwork"
+  ],
+  "pronunciation_notes": {
+   "concept": "KAHN-sept",
+   "concrete": "kahn-KREET"
+  }
+ },
+ {
+  "id": "18-20",
+  "theme": 18,
+  "level": "B1",
+  "text_en": "Combining several theories is possible, as long as they are compatible.",
+  "text_fr": "Combiner plusieurs théories est possible, du moment qu'elles sont compatibles.",
+  "key_terms": [
+   "as long as",
+   "several"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "compatible": "kum-PAT-uh-bul"
+  }
+ },
+ {
+  "id": "18-21",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Critical realism assumes that reality exists independently of what we know about it.",
+  "text_fr": "Le réalisme critique pose que la réalité existe indépendamment de ce que nous en savons.",
+  "key_terms": [
+   "to assume",
+   "reality"
+  ],
+  "thesis_terms": [
+   "critical realism"
+  ],
+  "pronunciation_notes": {
+   "independently": "in-dih-PEN-dunt-lee"
+  }
+ },
+ {
+  "id": "18-22",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "From a critical realist perspective, causes are mechanisms that operate in specific contexts.",
+  "text_fr": "Dans une perspective réaliste critique, les causes sont des mécanismes qui opèrent dans des contextes précis.",
+  "key_terms": [
+   "specific"
+  ],
+  "thesis_terms": [
+   "critical realism",
+   "mechanism"
+  ],
+  "pronunciation_notes": {
+   "mechanisms": "MEK-uh-niz-umz",
+   "perspective": "per-SPEK-tiv"
+  }
+ },
+ {
+  "id": "18-23",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Realist evaluation asks what works, for whom, in what circumstances and why.",
+  "text_fr": "L'évaluation réaliste demande ce qui fonctionne, pour qui, dans quelles circonstances et pourquoi.",
+  "key_terms": [
+   "whom",
+   "circumstances"
+  ],
+  "thesis_terms": [
+   "realist evaluation"
+  ],
+  "pronunciation_notes": {
+   "circumstances": "SER-kum-stan-siz",
+   "whom": "hoom"
+  }
+ },
+ {
+  "id": "18-24",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Pawson and Tilley developed realist evaluation as an alternative to experimental designs.",
+  "text_fr": "Pawson et Tilley ont développé l'évaluation réaliste comme alternative aux dispositifs expérimentaux.",
+  "key_terms": [
+   "to develop",
+   "alternative"
+  ],
+  "thesis_terms": [
+   "realist evaluation"
+  ],
+  "pronunciation_notes": {
+   "pawson": "PAW-sun",
+   "tilley": "TIL-ee",
+   "alternative": "awl-TER-nuh-tiv"
+  },
+  "unscored": [
+   "Pawson",
+   "Tilley"
+  ]
+ },
+ {
+  "id": "18-25",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "The context, mechanism, outcome configuration is the core tool of realist evaluation.",
+  "text_fr": "La configuration contexte, mécanisme, effet est l'outil central de l'évaluation réaliste.",
+  "key_terms": [
+   "core",
+   "tool"
+  ],
+  "thesis_terms": [
+   "realist evaluation",
+   "CMO configuration",
+   "mechanism",
+   "outcome"
+  ],
+  "pronunciation_notes": {
+   "configuration": "kun-fig-yuh-RAY-shun",
+   "mechanism": "MEK-uh-niz-um"
+  }
+ },
+ {
+  "id": "18-26",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Each context, mechanism, outcome configuration is a hypothesis to be tested in the field.",
+  "text_fr": "Chaque configuration contexte, mécanisme, effet est une hypothèse à tester sur le terrain.",
+  "key_terms": [
+   "to test",
+   "field"
+  ],
+  "thesis_terms": [
+   "hypothesis (pl. hypotheses)",
+   "CMO configuration",
+   "mechanism",
+   "outcome"
+  ],
+  "pronunciation_notes": {
+   "hypothesis": "hy-PAH-thuh-sis"
+  }
+ },
+ {
+  "id": "18-27",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "The program theory explains why an intervention is expected to work.",
+  "text_fr": "La théorie du programme explique pourquoi une intervention est censée fonctionner.",
+  "key_terms": [
+   "to expect"
+  ],
+  "thesis_terms": [
+   "programme theory"
+  ],
+  "pronunciation_notes": {
+   "intervention": "in-ter-VEN-shun"
+  }
+ },
+ {
+  "id": "18-28",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "We built our program theory with teachers rather than for them.",
+  "text_fr": "Nous avons construit notre théorie du programme avec les enseignants plutôt que pour eux.",
+  "key_terms": [
+   "rather than",
+   "to build"
+  ],
+  "thesis_terms": [
+   "programme theory"
+  ],
+  "pronunciation_notes": {
+   "built": "bilt"
+  }
+ },
+ {
+  "id": "18-29",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "A mechanism is not the intervention itself but the reasoning it triggers in people.",
+  "text_fr": "Un mécanisme n'est pas l'intervention elle-même mais le raisonnement qu'elle déclenche chez les gens.",
+  "key_terms": [
+   "itself",
+   "reasoning"
+  ],
+  "thesis_terms": [
+   "mechanism"
+  ],
+  "pronunciation_notes": {
+   "reasoning": "REE-zun-ing",
+   "triggers": "TRIG-erz"
+  }
+ },
+ {
+  "id": "18-30",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "The same intervention can produce very different outcomes in different contexts.",
+  "text_fr": "La même intervention peut produire des effets très différents selon les contextes.",
+  "key_terms": [
+   "to produce"
+  ],
+  "thesis_terms": [
+   "outcome"
+  ],
+  "pronunciation_notes": {
+   "outcomes": "OWT-kumz"
+  }
+ },
+ {
+  "id": "18-31",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Rabardel showed how a tool gradually becomes an instrument through use.",
+  "text_fr": "Rabardel a montré comment un outil devient peu à peu un instrument par l'usage.",
+  "key_terms": [
+   "gradually",
+   "through"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "rabardel": "rah-bar-DEL",
+   "gradually": "GRAJ-oo-uh-lee"
+  },
+  "unscored": [
+   "Rabardel"
+  ]
+ },
+ {
+  "id": "18-32",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Instrumental genesis describes how users gradually turn an artifact into an instrument.",
+  "text_fr": "La genèse instrumentale décrit comment les usagers transforment peu à peu un artefact en instrument.",
+  "key_terms": [
+   "to turn into"
+  ],
+  "thesis_terms": [
+   "instrumental genesis",
+   "artefact / instrument"
+  ],
+  "pronunciation_notes": {
+   "genesis": "JEN-uh-sis",
+   "artifact": "AR-tuh-fakt"
+  }
+ },
+ {
+  "id": "18-33",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Instrumental genesis takes time, which is why new platforms are rarely adopted immediately.",
+  "text_fr": "La genèse instrumentale prend du temps, c'est pourquoi les nouvelles plateformes sont rarement adoptées d'emblée.",
+  "key_terms": [
+   "rarely",
+   "immediately"
+  ],
+  "thesis_terms": [
+   "instrumental genesis"
+  ],
+  "pronunciation_notes": {
+   "instrumental": "in-struh-MEN-tul",
+   "immediately": "ih-MEE-dee-it-lee"
+  }
+ },
+ {
+  "id": "18-34",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "An artifact only becomes an instrument when someone integrates it into their activity.",
+  "text_fr": "Un artefact ne devient un instrument que lorsque quelqu'un l'intègre à son activité.",
+  "key_terms": [
+   "to integrate"
+  ],
+  "thesis_terms": [
+   "artefact / instrument"
+  ],
+  "pronunciation_notes": {
+   "artifact": "AR-tuh-fakt",
+   "integrates": "IN-tuh-grayts"
+  }
+ },
+ {
+  "id": "18-35",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Management tools carry hidden assumptions about what good work looks like.",
+  "text_fr": "Les outils de gestion véhiculent des présupposés cachés sur ce qu'est un bon travail.",
+  "key_terms": [
+   "hidden",
+   "assumption"
+  ],
+  "thesis_terms": [
+   "management tools"
+  ],
+  "pronunciation_notes": {
+   "assumptions": "uh-SUMP-shunz"
+  }
+ },
+ {
+  "id": "18-36",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Organizational learning requires time, trust and the freedom to make mistakes.",
+  "text_fr": "L'apprentissage organisationnel demande du temps, de la confiance et la liberté de se tromper.",
+  "key_terms": [
+   "trust",
+   "mistake"
+  ],
+  "thesis_terms": [
+   "organisational learning"
+  ],
+  "pronunciation_notes": {
+   "organizational": "or-guh-nuh-ZAY-shuh-nul"
+  }
+ },
+ {
+  "id": "18-37",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Argyris and Schön distinguished single-loop learning from double-loop learning.",
+  "text_fr": "Argyris et Schön ont distingué l'apprentissage en simple boucle de l'apprentissage en double boucle.",
+  "key_terms": [
+   "to distinguish"
+  ],
+  "thesis_terms": [
+   "single-loop / double-loop learning"
+  ],
+  "pronunciation_notes": {
+   "argyris": "ar-GY-riss",
+   "distinguished": "dih-STING-gwisht"
+  },
+  "unscored": [
+   "Argyris",
+   "Schön"
+  ]
+ },
+ {
+  "id": "18-38",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Double-loop learning questions the assumptions behind our goals, not just our methods.",
+  "text_fr": "L'apprentissage en double boucle interroge les présupposés derrière nos objectifs, pas seulement nos méthodes.",
+  "key_terms": [
+   "not just",
+   "goal"
+  ],
+  "thesis_terms": [
+   "single-loop / double-loop learning"
+  ],
+  "pronunciation_notes": {
+   "double-loop": "DUB-ul-loop"
+  }
+ },
+ {
+  "id": "18-39",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Organizational learning fails when people are afraid to admit what does not work.",
+  "text_fr": "L'apprentissage organisationnel échoue quand les gens ont peur d'admettre ce qui ne fonctionne pas.",
+  "key_terms": [
+   "afraid",
+   "to admit"
+  ],
+  "thesis_terms": [
+   "organisational learning"
+  ],
+  "pronunciation_notes": {
+   "afraid": "uh-FRAYD"
+  }
+ },
+ {
+  "id": "18-40",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Actor-network theory follows how people and objects become connected.",
+  "text_fr": "La théorie de l'acteur-réseau suit la manière dont les personnes et les objets se relient.",
+  "key_terms": [
+   "object",
+   "to connect"
+  ],
+  "thesis_terms": [
+   "actor-network theory (ANT)"
+  ],
+  "pronunciation_notes": {
+   "network": "NET-werk",
+   "objects": "AHB-jekts"
+  }
+ },
+ {
+  "id": "18-41",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Callon and Latour developed actor-network theory to study science in the making.",
+  "text_fr": "Callon et Latour ont développé la théorie de l'acteur-réseau pour étudier la science en train de se faire.",
+  "key_terms": [
+   "science"
+  ],
+  "thesis_terms": [
+   "actor-network theory (ANT)"
+  ],
+  "pronunciation_notes": {
+   "callon": "kah-LOHN",
+   "latour": "lah-TOOR"
+  },
+  "unscored": [
+   "Callon",
+   "Latour"
+  ]
+ },
+ {
+  "id": "18-42",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "In actor-network theory, translation is the process by which actors align their interests.",
+  "text_fr": "Dans la théorie de l'acteur-réseau, la traduction est le processus par lequel les acteurs alignent leurs intérêts.",
+  "key_terms": [
+   "interest",
+   "to align"
+  ],
+  "thesis_terms": [
+   "actor-network theory (ANT)",
+   "translation (in ANT)"
+  ],
+  "pronunciation_notes": {
+   "translation": "tranz-LAY-shun",
+   "align": "uh-LYNE"
+  }
+ },
+ {
+  "id": "18-43",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Translation also involves objects, such as a spreadsheet that everyone has to fill in.",
+  "text_fr": "La traduction implique aussi des objets, comme un tableur que tout le monde doit remplir.",
+  "key_terms": [
+   "to involve",
+   "to fill in"
+  ],
+  "thesis_terms": [
+   "translation (in ANT)"
+  ],
+  "pronunciation_notes": {
+   "spreadsheet": "SPRED-sheet"
+  }
+ },
+ {
+  "id": "18-44",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Lascoumes and Le Galès argue that policy instruments are never purely technical.",
+  "text_fr": "Lascoumes et Le Galès soutiennent que les instruments d'action publique ne sont jamais purement techniques.",
+  "key_terms": [
+   "to argue",
+   "never"
+  ],
+  "thesis_terms": [
+   "policy instruments"
+  ],
+  "pronunciation_notes": {
+   "lascoumes": "lah-KOOM",
+   "purely": "PYOOR-lee"
+  },
+  "unscored": [
+   "Lascoumes",
+   "Le Galès"
+  ]
+ },
+ {
+  "id": "18-45",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "The sociology of public action looks at policies as they are actually practiced.",
+  "text_fr": "La sociologie de l'action publique observe les politiques telles qu'elles sont réellement pratiquées.",
+  "key_terms": [
+   "actually"
+  ],
+  "thesis_terms": [
+   "sociology of public action"
+  ],
+  "pronunciation_notes": {
+   "practiced": "PRAK-tist"
+  }
+ },
+ {
+  "id": "18-46",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "For Bourdieu, sport is a field where different forms of capital are at stake.",
+  "text_fr": "Pour Bourdieu, le sport est un champ où différentes formes de capital sont en jeu.",
+  "key_terms": [
+   "field",
+   "at stake"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "capital": "KAP-uh-tul"
+  },
+  "unscored": [
+   "Bourdieu"
+  ]
+ },
+ {
+  "id": "18-47",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Field theory helps explain why some sports are seen as more legitimate than others.",
+  "text_fr": "La théorie des champs aide à expliquer pourquoi certains sports sont jugés plus légitimes que d'autres.",
+  "key_terms": [
+   "to explain"
+  ],
+  "thesis_terms": [
+   "field theory, habitus, capital"
+  ],
+  "pronunciation_notes": {
+   "legitimate": "luh-JIT-uh-mit"
+  }
+ },
+ {
+  "id": "18-48",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "Embodiment is central to the anthropology of the body and of sport.",
+  "text_fr": "La corporéité est centrale dans l'anthropologie du corps et du sport.",
+  "key_terms": [
+   "central"
+  ],
+  "thesis_terms": [
+   "embodiment"
+  ],
+  "pronunciation_notes": {
+   "embodiment": "em-BAH-dee-ment",
+   "anthropology": "an-thruh-PAH-luh-jee"
+  }
+ },
+ {
+  "id": "18-49",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "My epistemological position shapes the kind of evidence I consider valid.",
+  "text_fr": "Ma position épistémologique façonne le type de preuves que je considère comme valables.",
+  "key_terms": [
+   "evidence",
+   "to consider"
+  ],
+  "thesis_terms": [
+   "epistemology"
+  ],
+  "pronunciation_notes": {
+   "epistemological": "ih-piss-tuh-muh-LAH-jih-kul",
+   "valid": "VAL-id"
+  }
+ },
+ {
+  "id": "18-50",
+  "theme": 18,
+  "level": "B2",
+  "text_en": "No single theory can explain everything, so I use each one as a different lens.",
+  "text_fr": "Aucune théorie ne peut tout expliquer, alors j'utilise chacune comme une grille de lecture différente.",
+  "key_terms": [
+   "single",
+   "lens"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "lens": "lenz"
+  }
+ }
+]

@@ -1,0 +1,780 @@
+[
+ {
+  "id": "01-01",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "I usually wake up at six and make coffee before anyone else gets up.",
+  "text_fr": "D'habitude, je me réveille à six heures et je fais le café avant que les autres se lèvent.",
+  "key_terms": [
+   "to wake up",
+   "usually",
+   "to get up"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "coffee": "KAW-fee",
+   "anyone": "EN-ee-wun"
+  }
+ },
+ {
+  "id": "01-02",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "Could you close the window, please? It is getting cold in here.",
+  "text_fr": "Tu peux fermer la fenêtre, s'il te plaît ? Il commence à faire froid ici.",
+  "key_terms": [
+   "window",
+   "cold"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "window": "WIN-doh"
+  }
+ },
+ {
+  "id": "01-03",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "I always make my bed as soon as I get up in the morning.",
+  "text_fr": "Je fais toujours mon lit dès que je me lève le matin.",
+  "key_terms": [
+   "always",
+   "bed",
+   "as soon as"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "always": "AWL-wayz"
+  }
+ },
+ {
+  "id": "01-04",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "We hang the laundry outside because it dries quickly in the sun.",
+  "text_fr": "Nous étendons le linge dehors parce qu'il sèche vite au soleil.",
+  "key_terms": [
+   "to hang the laundry",
+   "quickly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "laundry": "LAWN-dree"
+  }
+ },
+ {
+  "id": "01-05",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "Whose turn is it to do the dishes tonight?",
+  "text_fr": "C'est à qui de faire la vaisselle ce soir ?",
+  "key_terms": [
+   "whose",
+   "to do the dishes",
+   "tonight"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "whose": "hooz",
+   "dishes": "DISH-iz"
+  }
+ },
+ {
+  "id": "01-06",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "The keys are in the top drawer, next to the scissors.",
+  "text_fr": "Les clés sont dans le tiroir du haut, à côté des ciseaux.",
+  "key_terms": [
+   "key",
+   "drawer"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "drawer": "dror",
+   "scissors": "SIZ-erz"
+  }
+ },
+ {
+  "id": "01-07",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "Please take out the trash before you leave for work.",
+  "text_fr": "Sors les poubelles avant de partir au travail, s'il te plaît.",
+  "key_terms": [
+   "to take out",
+   "to leave"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "trash": "trash"
+  }
+ },
+ {
+  "id": "01-08",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "Our kitchen is small, but it gets a lot of light in the morning.",
+  "text_fr": "Notre cuisine est petite, mais elle est très lumineuse le matin.",
+  "key_terms": [
+   "kitchen",
+   "light"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "kitchen": "KICH-un"
+  }
+ },
+ {
+  "id": "01-09",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "I lost my keys again, so I had to wait for my neighbor.",
+  "text_fr": "J'ai encore perdu mes clés, alors j'ai dû attendre ma voisine.",
+  "key_terms": [
+   "to lose",
+   "neighbor"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "neighbor": "NAY-ber"
+  }
+ },
+ {
+  "id": "01-10",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "The roof leaks every time it rains heavily.",
+  "text_fr": "Le toit fuit à chaque fois qu'il pleut fort.",
+  "key_terms": [
+   "roof",
+   "heavily"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "roof": "roof",
+   "leaks": "leeks"
+  }
+ },
+ {
+  "id": "01-11",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "Put the vegetables on the cutting board and wash your hands.",
+  "text_fr": "Mets les légumes sur la planche à découper et lave-toi les mains.",
+  "key_terms": [
+   "cutting board",
+   "vegetable"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "vegetables": "VEJ-tuh-bulz"
+  }
+ },
+ {
+  "id": "01-12",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "My grandmother knitted this blanket for me when I was a child.",
+  "text_fr": "Ma grand-mère m'a tricoté cette couverture quand j'étais enfant.",
+  "key_terms": [
+   "knitting",
+   "blanket"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "knitted": "NIT-id",
+   "blanket": "BLANG-kit"
+  }
+ },
+ {
+  "id": "01-13",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "We moved to a bigger apartment last year because of the kids.",
+  "text_fr": "Nous avons emménagé dans un appartement plus grand l'an dernier à cause des enfants.",
+  "key_terms": [
+   "to move",
+   "apartment"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "apartment": "uh-PART-ment"
+  }
+ },
+ {
+  "id": "01-14",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "Turn off the lights when you leave the room, please.",
+  "text_fr": "Éteins les lumières quand tu quittes la pièce, s'il te plaît.",
+  "key_terms": [
+   "to turn off",
+   "room"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "lights": "lyts"
+  }
+ },
+ {
+  "id": "01-15",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "I need a softer pillow, because I keep waking up with a stiff neck.",
+  "text_fr": "Il me faut un oreiller plus mou, parce que je me réveille sans cesse avec le cou raide.",
+  "key_terms": [
+   "pillow",
+   "soft",
+   "neck"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "pillow": "PIL-oh",
+   "stiff": "stif"
+  }
+ },
+ {
+  "id": "01-16",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "There is a tiny lizard on the wall above the kitchen door.",
+  "text_fr": "Il y a un minuscule lézard sur le mur au-dessus de la porte de la cuisine.",
+  "key_terms": [
+   "tiny",
+   "wall",
+   "door"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "lizard": "LIZ-erd"
+  }
+ },
+ {
+  "id": "01-17",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "On Sunday mornings, I clean the house while the children are still asleep.",
+  "text_fr": "Le dimanche matin, je nettoie la maison pendant que les enfants dorment encore.",
+  "key_terms": [
+   "to clean",
+   "while",
+   "still"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "asleep": "uh-SLEEP"
+  }
+ },
+ {
+  "id": "01-18",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "The dishwasher is broken, so we have to wash everything by hand.",
+  "text_fr": "Le lave-vaisselle est en panne, alors on doit tout laver à la main.",
+  "key_terms": [
+   "dishwasher",
+   "to break"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "dishwasher": "DISH-wah-sher"
+  }
+ },
+ {
+  "id": "01-19",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "Can you pick up some bread on your way home?",
+  "text_fr": "Tu peux prendre du pain en rentrant ?",
+  "key_terms": [
+   "to pick up",
+   "bread"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "bread": "bred"
+  }
+ },
+ {
+  "id": "01-20",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "I prefer to shower in the evening rather than in the morning.",
+  "text_fr": "Je préfère me doucher le soir plutôt que le matin.",
+  "key_terms": [
+   "to prefer",
+   "shower",
+   "rather than"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "shower": "SHOW-er",
+   "evening": "EEV-ning"
+  }
+ },
+ {
+  "id": "01-21",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "My smelly gym shoes are drying on the balcony.",
+  "text_fr": "Mes baskets de sport qui sentent mauvais sèchent sur le balcon.",
+  "key_terms": [
+   "smelly",
+   "shoes"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "balcony": "BAL-kuh-nee"
+  }
+ },
+ {
+  "id": "01-22",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "The cat sleeps on the sofa all day and wakes up at dinner time.",
+  "text_fr": "Le chat dort sur le canapé toute la journée et se réveille à l'heure du dîner.",
+  "key_terms": [
+   "sofa",
+   "to sleep"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sofa": "SOH-fuh"
+  }
+ },
+ {
+  "id": "01-23",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "We put a few cushions on the floor so the kids could sit comfortably.",
+  "text_fr": "Nous avons mis quelques coussins par terre pour que les enfants s'assoient confortablement.",
+  "key_terms": [
+   "cushion",
+   "floor"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cushions": "KOOSH-unz",
+   "comfortably": "KUMF-ter-blee"
+  }
+ },
+ {
+  "id": "01-24",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "I have just cleaned the bathroom, so please take off your shoes.",
+  "text_fr": "Je viens de nettoyer la salle de bain, alors enlève tes chaussures, s'il te plaît.",
+  "key_terms": [
+   "just",
+   "to take off",
+   "bathroom"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "bathroom": "BATH-room"
+  }
+ },
+ {
+  "id": "01-25",
+  "theme": 1,
+  "level": "B1",
+  "text_en": "If I had a garden, I would grow tomatoes and herbs.",
+  "text_fr": "Si j'avais un jardin, je ferais pousser des tomates et des herbes aromatiques.",
+  "key_terms": [
+   "if",
+   "garden",
+   "to grow"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tomatoes": "tuh-MAY-tohz",
+   "herbs": "erbz"
+  }
+ },
+ {
+  "id": "01-26",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Ever since we started working from home, the living room has become an office.",
+  "text_fr": "Depuis que nous travaillons à la maison, le salon est devenu un bureau.",
+  "key_terms": [
+   "living room",
+   "office"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ever": "EV-er"
+  }
+ },
+ {
+  "id": "01-27",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "We have been looking for a new apartment for months, without much luck.",
+  "text_fr": "Cela fait des mois que nous cherchons un nouvel appartement, sans grand succès.",
+  "key_terms": [
+   "to look for",
+   "without"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "months": "munths"
+  }
+ },
+ {
+  "id": "01-28",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Rent has increased so much that many young people cannot afford to live alone.",
+  "text_fr": "Les loyers ont tellement augmenté que beaucoup de jeunes n'ont pas les moyens de vivre seuls.",
+  "key_terms": [
+   "to afford",
+   "to increase"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "afford": "uh-FORD",
+   "rent": "rent"
+  }
+ },
+ {
+  "id": "01-29",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Our neighbors are friendly, although they tend to play loud music on weekends.",
+  "text_fr": "Nos voisins sont sympathiques, même s'ils ont tendance à mettre la musique fort le week-end.",
+  "key_terms": [
+   "although",
+   "loud",
+   "friendly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "neighbors": "NAY-berz",
+   "although": "awl-THOH"
+  }
+ },
+ {
+  "id": "01-30",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "I keep forgetting to water the plants, so most of them are dying.",
+  "text_fr": "J'oublie sans cesse d'arroser les plantes, alors la plupart sont en train de mourir.",
+  "key_terms": [
+   "to forget",
+   "most"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "water": "WAW-ter"
+  }
+ },
+ {
+  "id": "01-31",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Sorting the trash properly takes time, but it has become a habit.",
+  "text_fr": "Trier les déchets correctement prend du temps, mais c'est devenu une habitude.",
+  "key_terms": [
+   "habit",
+   "properly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sorting": "SOR-ting",
+   "habit": "HAB-it"
+  }
+ },
+ {
+  "id": "01-32",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "The house was built by my grandfather, who did almost everything himself.",
+  "text_fr": "La maison a été construite par mon grand-père, qui a presque tout fait lui-même.",
+  "key_terms": [
+   "to build",
+   "almost"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "grandfather": "GRAN-fah-ther"
+  }
+ },
+ {
+  "id": "01-33",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "If we had insulated the roof, the bedroom would not be so hot in summer.",
+  "text_fr": "Si nous avions isolé le toit, la chambre ne serait pas si chaude l'été.",
+  "key_terms": [
+   "bedroom",
+   "hot"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "insulated": "IN-suh-lay-tid"
+  }
+ },
+ {
+  "id": "01-34",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "We share the housework fairly, even though my partner hates ironing.",
+  "text_fr": "Nous nous partageons les tâches ménagères équitablement, même si ma compagne déteste repasser.",
+  "key_terms": [
+   "even though",
+   "to share",
+   "partner"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ironing": "EYE-er-ning",
+   "housework": "HOWSS-werk"
+  }
+ },
+ {
+  "id": "01-35",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Mornings are chaotic, so we prepare the children's bags the night before.",
+  "text_fr": "Les matins sont chaotiques, alors nous préparons les sacs des enfants la veille.",
+  "key_terms": [
+   "bag",
+   "to prepare"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "chaotic": "kay-AH-tik"
+  }
+ },
+ {
+  "id": "01-36",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "The power went off during the storm, and we spent the evening by candlelight.",
+  "text_fr": "Le courant a été coupé pendant la tempête, et nous avons passé la soirée à la bougie.",
+  "key_terms": [
+   "storm",
+   "to spend"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "candlelight": "KAN-dul-lyte"
+  }
+ },
+ {
+  "id": "01-37",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "I find it hard to relax at home when the house is a mess.",
+  "text_fr": "J'ai du mal à me détendre à la maison quand tout est en désordre.",
+  "key_terms": [
+   "to relax"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "relax": "rih-LAKS",
+   "mess": "mess"
+  }
+ },
+ {
+  "id": "01-38",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "We finally got rid of all the boxes we had kept since we moved in.",
+  "text_fr": "Nous nous sommes enfin débarrassés de tous les cartons gardés depuis notre emménagement.",
+  "key_terms": [
+   "finally",
+   "to keep"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "finally": "FY-nuh-lee"
+  }
+ },
+ {
+  "id": "01-39",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Owning a home remains a dream for many families, given current prices.",
+  "text_fr": "Être propriétaire reste un rêve pour beaucoup de familles, vu les prix actuels.",
+  "key_terms": [
+   "to remain",
+   "homeownership"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "owning": "OH-ning",
+   "current": "KUR-unt"
+  }
+ },
+ {
+  "id": "01-40",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "The landlord promised to fix the leak, but nothing has been done so far.",
+  "text_fr": "Le propriétaire a promis de réparer la fuite, mais rien n'a été fait jusqu'ici.",
+  "key_terms": [
+   "so far",
+   "to promise"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "landlord": "LAND-lord"
+  }
+ },
+ {
+  "id": "01-41",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Living close to the sea is wonderful, but everything rusts much faster.",
+  "text_fr": "Vivre près de la mer, c'est merveilleux, mais tout rouille beaucoup plus vite.",
+  "key_terms": [
+   "wonderful",
+   "close"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "rusts": "russts",
+   "wonderful": "WUN-der-ful"
+  }
+ },
+ {
+  "id": "01-42",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "My routine changed completely when I started cycling to work instead of driving.",
+  "text_fr": "Ma routine a complètement changé quand j'ai commencé à aller au travail à vélo au lieu de prendre la voiture.",
+  "key_terms": [
+   "instead of",
+   "to drive"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "routine": "roo-TEEN"
+  }
+ },
+ {
+  "id": "01-43",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "We try to buy less plastic, which is not easy when everything is wrapped.",
+  "text_fr": "Nous essayons d'acheter moins de plastique, ce qui n'est pas facile quand tout est emballé.",
+  "key_terms": [
+   "which",
+   "to buy"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "plastic": "PLASS-tik",
+   "wrapped": "rapt"
+  }
+ },
+ {
+  "id": "01-44",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Having a dedicated space to work at home makes a real difference to my focus.",
+  "text_fr": "Avoir un espace dédié au travail à la maison change vraiment ma concentration.",
+  "key_terms": [
+   "space",
+   "difference"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "dedicated": "DED-ih-kay-tid"
+  }
+ },
+ {
+  "id": "01-45",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "We ran out of gas right in the middle of cooking dinner.",
+  "text_fr": "Nous avons manqué de gaz en plein milieu de la préparation du dîner.",
+  "key_terms": [
+   "to run out of",
+   "to cook"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "middle": "MID-ul"
+  }
+ },
+ {
+  "id": "01-46",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "The mosquitoes are so annoying at night that we had to buy a net.",
+  "text_fr": "Les moustiques sont si pénibles la nuit que nous avons dû acheter une moustiquaire.",
+  "key_terms": [
+   "annoying",
+   "night"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "mosquitoes": "muh-SKEE-tohz"
+  }
+ },
+ {
+  "id": "01-47",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Getting the kids ready for school is a daily struggle in our house.",
+  "text_fr": "Préparer les enfants pour l'école est une galère quotidienne chez nous.",
+  "key_terms": [
+   "struggle",
+   "daily"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "struggle": "STRUG-ul"
+  }
+ },
+ {
+  "id": "01-48",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "I would rather spend money on good mattresses than on expensive furniture.",
+  "text_fr": "Je préfère dépenser de l'argent pour de bons matelas que pour des meubles chers.",
+  "key_terms": [
+   "would rather",
+   "furniture"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "mattresses": "MAT-ruh-siz",
+   "furniture": "FER-nih-cher"
+  }
+ },
+ {
+  "id": "01-49",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Small daily routines, like a short walk after dinner, keep our family balanced.",
+  "text_fr": "De petites routines quotidiennes, comme une courte marche après le dîner, gardent notre famille équilibrée.",
+  "key_terms": [
+   "routine",
+   "balanced"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "balanced": "BAL-unst"
+  }
+ },
+ {
+  "id": "01-50",
+  "theme": 1,
+  "level": "B2",
+  "text_en": "Home is not just a place, it is the people you share it with.",
+  "text_fr": "Un foyer n'est pas seulement un lieu, ce sont les gens avec qui on le partage.",
+  "key_terms": [
+   "not just",
+   "to share"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "place": "playss"
+  }
+ }
+]

@@ -1,0 +1,852 @@
+[
+ {
+  "id": "17-01",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "A literature review summarizes what other researchers have already found.",
+  "text_fr": "Une revue de littérature résume ce que d'autres chercheurs ont déjà trouvé.",
+  "key_terms": [
+   "already",
+   "to find"
+  ],
+  "thesis_terms": [
+   "literature review"
+  ],
+  "pronunciation_notes": {
+   "literature": "LIT-er-uh-cher",
+   "summarizes": "SUM-uh-ryz-iz"
+  }
+ },
+ {
+  "id": "17-02",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "My literature review covers about fifty articles published in the last ten years.",
+  "text_fr": "Ma revue de littérature couvre une cinquantaine d'articles publiés ces dix dernières années.",
+  "key_terms": [
+   "article",
+   "to publish"
+  ],
+  "thesis_terms": [
+   "literature review"
+  ],
+  "pronunciation_notes": {
+   "articles": "AR-tih-kulz"
+  }
+ },
+ {
+  "id": "17-03",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "I search for new articles in several databases every week.",
+  "text_fr": "Je cherche de nouveaux articles dans plusieurs bases de données chaque semaine.",
+  "key_terms": [
+   "to search",
+   "several"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "databases": "DAY-tuh-bay-siz"
+  }
+ },
+ {
+  "id": "17-04",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "The questionnaire was completed online by more than three hundred students.",
+  "text_fr": "Le questionnaire a été rempli en ligne par plus de trois cents élèves.",
+  "key_terms": [
+   "online",
+   "more than"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "questionnaire": "kwess-chuh-NAIR"
+  }
+ },
+ {
+  "id": "17-05",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "Data collection lasted six months and involved four schools.",
+  "text_fr": "Le recueil de données a duré six mois et a concerné quatre écoles.",
+  "key_terms": [
+   "to last",
+   "to involve"
+  ],
+  "thesis_terms": [
+   "data collection"
+  ],
+  "pronunciation_notes": {
+   "collection": "kuh-LEK-shun"
+  }
+ },
+ {
+  "id": "17-06",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "The survey asked students how many hours they spend in front of a screen.",
+  "text_fr": "Le questionnaire demandait aux élèves combien d'heures ils passent devant un écran.",
+  "key_terms": [
+   "how many",
+   "in front of"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "survey": "SER-vay"
+  }
+ },
+ {
+  "id": "17-07",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "The average age of the participants in our study was fifteen.",
+  "text_fr": "L'âge moyen des participants de notre étude était de quinze ans.",
+  "key_terms": [
+   "average"
+  ],
+  "thesis_terms": [
+   "participant, respondent"
+  ],
+  "pronunciation_notes": {
+   "average": "AV-rij",
+   "participants": "par-TISS-uh-punts"
+  }
+ },
+ {
+  "id": "17-08",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "Boys reported more physical activity than girls in every age group.",
+  "text_fr": "Les garçons déclaraient plus d'activité physique que les filles dans toutes les tranches d'âge.",
+  "key_terms": [
+   "to report"
+  ],
+  "thesis_terms": [
+   "physical activity (PA)"
+  ],
+  "pronunciation_notes": {
+   "reported": "rih-POR-tid"
+  }
+ },
+ {
+  "id": "17-09",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "This graph shows how activity levels decrease with age.",
+  "text_fr": "Ce graphique montre comment le niveau d'activité diminue avec l'âge.",
+  "key_terms": [
+   "to show",
+   "to decrease"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "graph": "graf",
+   "decrease": "dih-KREESS"
+  }
+ },
+ {
+  "id": "17-10",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "I use a reference manager to keep track of every article I read.",
+  "text_fr": "J'utilise un logiciel de références pour garder la trace de chaque article que je lis.",
+  "key_terms": [
+   "to keep track of"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "reference": "REF-er-unss"
+  }
+ },
+ {
+  "id": "17-11",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "The study followed the same group of children for five years.",
+  "text_fr": "L'étude a suivi le même groupe d'enfants pendant cinq ans.",
+  "key_terms": [
+   "to follow"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "study": "STUD-ee"
+  }
+ },
+ {
+  "id": "17-12",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "Most studies in this field were conducted in high-income countries.",
+  "text_fr": "La plupart des études dans ce domaine ont été menées dans des pays à revenu élevé.",
+  "key_terms": [
+   "field",
+   "most"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "conducted": "kun-DUK-tid",
+   "income": "IN-kum"
+  }
+ },
+ {
+  "id": "17-13",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "Researchers measured physical activity with small devices worn on the wrist.",
+  "text_fr": "Les chercheurs ont mesuré l'activité physique avec de petits capteurs portés au poignet.",
+  "key_terms": [
+   "to measure",
+   "wrist"
+  ],
+  "thesis_terms": [
+   "physical activity (PA)"
+  ],
+  "pronunciation_notes": {
+   "devices": "dih-VY-siz",
+   "wrist": "rist"
+  }
+ },
+ {
+  "id": "17-14",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "The results are interesting, but the sample is too small to generalize.",
+  "text_fr": "Les résultats sont intéressants, mais l'échantillon est trop petit pour généraliser.",
+  "key_terms": [
+   "too small"
+  ],
+  "thesis_terms": [
+   "sample"
+  ],
+  "pronunciation_notes": {
+   "generalize": "JEN-ruh-lyze",
+   "interesting": "IN-truh-sting"
+  }
+ },
+ {
+  "id": "17-15",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "I read the abstract first to decide whether the article is relevant.",
+  "text_fr": "Je lis d'abord le résumé pour décider si l'article est pertinent.",
+  "key_terms": [
+   "whether",
+   "first"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "abstract": "AB-strakt",
+   "relevant": "REL-uh-vunt"
+  }
+ },
+ {
+  "id": "17-16",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "A quarter of the adolescents did not reach the recommended level of activity.",
+  "text_fr": "Un quart des adolescents n'atteignaient pas le niveau d'activité recommandé.",
+  "key_terms": [
+   "quarter",
+   "to reach"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "quarter": "KWOR-ter",
+   "recommended": "rek-uh-MEN-did"
+  }
+ },
+ {
+  "id": "17-17",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "The prevalence of obesity is particularly high in the Pacific region.",
+  "text_fr": "La prévalence de l'obésité est particulièrement élevée dans la région Pacifique.",
+  "key_terms": [
+   "particularly"
+  ],
+  "thesis_terms": [
+   "prevalence"
+  ],
+  "pronunciation_notes": {
+   "prevalence": "PREV-uh-lunss",
+   "particularly": "per-TIK-yuh-ler-lee"
+  }
+ },
+ {
+  "id": "17-18",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "We excluded studies that did not include children or adolescents.",
+  "text_fr": "Nous avons exclu les études qui n'incluaient pas d'enfants ou d'adolescents.",
+  "key_terms": [
+   "to exclude",
+   "to include"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "excluded": "ik-SKLOO-did"
+  }
+ },
+ {
+  "id": "17-19",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "The authors admit that their method has several limitations.",
+  "text_fr": "Les auteurs reconnaissent que leur méthode présente plusieurs limites.",
+  "key_terms": [
+   "to admit",
+   "several"
+  ],
+  "thesis_terms": [
+   "limitations"
+  ],
+  "pronunciation_notes": {
+   "authors": "AW-therz",
+   "method": "METH-ud"
+  }
+ },
+ {
+  "id": "17-20",
+  "theme": 17,
+  "level": "B1",
+  "text_en": "Numbers alone cannot explain why people choose to be active.",
+  "text_fr": "Les chiffres seuls ne peuvent pas expliquer pourquoi les gens choisissent d'être actifs.",
+  "key_terms": [
+   "alone",
+   "to choose"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "numbers": "NUM-berz"
+  }
+ },
+ {
+  "id": "17-21",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "A systematic review follows a strict protocol to identify all relevant studies.",
+  "text_fr": "Une revue systématique suit un protocole strict pour identifier toutes les études pertinentes.",
+  "key_terms": [
+   "strict",
+   "to identify"
+  ],
+  "thesis_terms": [
+   "systematic review"
+  ],
+  "pronunciation_notes": {
+   "systematic": "siss-tuh-MAT-ik",
+   "protocol": "PROH-tuh-kawl"
+  }
+ },
+ {
+  "id": "17-22",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Our systematic review was conducted in accordance with the PRISMA guidelines.",
+  "text_fr": "Notre revue systématique a été menée conformément aux recommandations PRISMA.",
+  "key_terms": [
+   "in accordance with"
+  ],
+  "thesis_terms": [
+   "systematic review",
+   "PRISMA guidelines"
+  ],
+  "pronunciation_notes": {
+   "prisma": "PRIZ-muh",
+   "accordance": "uh-KOR-dunss"
+  }
+ },
+ {
+  "id": "17-23",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "The PRISMA guidelines help authors report each step of their review transparently.",
+  "text_fr": "Les recommandations PRISMA aident les auteurs à rendre compte de chaque étape de leur revue de façon transparente.",
+  "key_terms": [
+   "step",
+   "to report"
+  ],
+  "thesis_terms": [
+   "PRISMA guidelines"
+  ],
+  "pronunciation_notes": {
+   "transparently": "tranz-PAIR-unt-lee"
+  }
+ },
+ {
+  "id": "17-24",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "A scoping review maps the existing literature rather than answering a narrow question.",
+  "text_fr": "Une revue de portée cartographie la littérature existante plutôt que de répondre à une question étroite.",
+  "key_terms": [
+   "rather than",
+   "narrow"
+  ],
+  "thesis_terms": [
+   "scoping review"
+  ],
+  "pronunciation_notes": {
+   "scoping": "SKOH-ping"
+  }
+ },
+ {
+  "id": "17-25",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "We chose a scoping review because the topic had rarely been studied in island contexts.",
+  "text_fr": "Nous avons choisi une revue de portée car le sujet avait rarement été étudié en contexte insulaire.",
+  "key_terms": [
+   "rarely",
+   "topic"
+  ],
+  "thesis_terms": [
+   "scoping review"
+  ],
+  "pronunciation_notes": {
+   "contexts": "KAHN-teksts"
+  }
+ },
+ {
+  "id": "17-26",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "A narrative review is more flexible, but it is also more open to bias.",
+  "text_fr": "Une revue narrative est plus souple, mais aussi plus exposée aux biais.",
+  "key_terms": [
+   "flexible",
+   "open"
+  ],
+  "thesis_terms": [
+   "bias",
+   "narrative review"
+  ],
+  "pronunciation_notes": {
+   "narrative": "NAIR-uh-tiv",
+   "bias": "BY-us"
+  }
+ },
+ {
+  "id": "17-27",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "This narrative review synthesizes the results of studies on school-based interventions.",
+  "text_fr": "Cette revue narrative fait la synthèse des résultats d'études sur les interventions en milieu scolaire.",
+  "key_terms": [
+   "result",
+   "school-based"
+  ],
+  "thesis_terms": [
+   "narrative review"
+  ],
+  "pronunciation_notes": {
+   "synthesizes": "SIN-thuh-syz-iz"
+  }
+ },
+ {
+  "id": "17-28",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Gray literature, such as government reports, often contains valuable local data.",
+  "text_fr": "La littérature grise, comme les rapports gouvernementaux, contient souvent des données locales précieuses.",
+  "key_terms": [
+   "such as",
+   "valuable"
+  ],
+  "thesis_terms": [
+   "grey literature"
+  ],
+  "pronunciation_notes": {
+   "valuable": "VAL-yoo-uh-bul"
+  }
+ },
+ {
+  "id": "17-29",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Including gray literature helped us capture programs that were never published in journals.",
+  "text_fr": "Inclure la littérature grise nous a permis de repérer des programmes jamais publiés dans des revues.",
+  "key_terms": [
+   "to capture",
+   "never"
+  ],
+  "thesis_terms": [
+   "grey literature"
+  ],
+  "pronunciation_notes": {
+   "journals": "JER-nulz"
+  }
+ },
+ {
+  "id": "17-30",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Our inclusion criteria required a primary outcome related to physical activity.",
+  "text_fr": "Nos critères d'inclusion exigeaient un critère de jugement principal lié à l'activité physique.",
+  "key_terms": [
+   "to require",
+   "related to"
+  ],
+  "thesis_terms": [
+   "physical activity (PA)",
+   "inclusion criteria",
+   "outcome"
+  ],
+  "pronunciation_notes": {
+   "criteria": "kry-TEER-ee-uh",
+   "outcome": "OWT-kum"
+  }
+ },
+ {
+  "id": "17-31",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Studies that did not meet the inclusion criteria were excluded after the first screening.",
+  "text_fr": "Les études ne répondant pas aux critères d'inclusion ont été exclues après le premier tri.",
+  "key_terms": [
+   "to meet",
+   "screening"
+  ],
+  "thesis_terms": [
+   "inclusion criteria"
+  ],
+  "pronunciation_notes": {
+   "inclusion": "in-KLOO-zhun",
+   "screening": "SKREE-ning"
+  }
+ },
+ {
+  "id": "17-32",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Randomized controlled trials are considered the gold standard for testing interventions.",
+  "text_fr": "Les essais contrôlés randomisés sont considérés comme la référence pour tester des interventions.",
+  "key_terms": [
+   "gold standard"
+  ],
+  "thesis_terms": [
+   "randomised controlled trial (RCT)"
+  ],
+  "pronunciation_notes": {
+   "randomized": "RAN-duh-myzd",
+   "trials": "TRY-ulz"
+  }
+ },
+ {
+  "id": "17-33",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Randomized controlled trials are difficult to carry out in schools, for practical and ethical reasons.",
+  "text_fr": "Les essais contrôlés randomisés sont difficiles à mener dans les écoles, pour des raisons pratiques et éthiques.",
+  "key_terms": [
+   "to carry out",
+   "reason"
+  ],
+  "thesis_terms": [
+   "randomised controlled trial (RCT)"
+  ],
+  "pronunciation_notes": {
+   "ethical": "ETH-ih-kul"
+  }
+ },
+ {
+  "id": "17-34",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Each study was assessed for risk of bias by two independent reviewers.",
+  "text_fr": "Chaque étude a été évaluée quant au risque de biais par deux relecteurs indépendants.",
+  "key_terms": [
+   "to assess",
+   "independent"
+  ],
+  "thesis_terms": [
+   "bias",
+   "risk of bias"
+  ],
+  "pronunciation_notes": {
+   "reviewers": "rih-VYOO-erz"
+  }
+ },
+ {
+  "id": "17-35",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "A high risk of bias does not mean a study is useless, but it calls for caution.",
+  "text_fr": "Un risque de biais élevé ne rend pas une étude inutile, mais il appelle à la prudence.",
+  "key_terms": [
+   "useless",
+   "caution"
+  ],
+  "thesis_terms": [
+   "bias",
+   "risk of bias"
+  ],
+  "pronunciation_notes": {
+   "caution": "KAW-shun"
+  }
+ },
+ {
+  "id": "17-36",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "A cross-sectional study gives a snapshot, so it cannot prove cause and effect.",
+  "text_fr": "Une étude transversale donne un instantané, elle ne peut donc pas prouver une relation de cause à effet.",
+  "key_terms": [
+   "snapshot",
+   "to prove"
+  ],
+  "thesis_terms": [
+   "cross-sectional study"
+  ],
+  "pronunciation_notes": {
+   "cross-sectional": "krawss-SEK-shuh-nul"
+  }
+ },
+ {
+  "id": "17-37",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Cross-sectional data showed that screen time was linked to lower activity levels.",
+  "text_fr": "Les données transversales montraient que le temps d'écran était lié à des niveaux d'activité plus faibles.",
+  "key_terms": [
+   "linked to",
+   "lower"
+  ],
+  "thesis_terms": [
+   "screen time",
+   "cross-sectional study"
+  ],
+  "pronunciation_notes": {
+   "sectional": "SEK-shuh-nul"
+  }
+ },
+ {
+  "id": "17-38",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "A longitudinal design allows researchers to observe changes over several years.",
+  "text_fr": "Un dispositif longitudinal permet aux chercheurs d'observer des évolutions sur plusieurs années.",
+  "key_terms": [
+   "to allow",
+   "to observe"
+  ],
+  "thesis_terms": [
+   "longitudinal"
+  ],
+  "pronunciation_notes": {
+   "longitudinal": "lahn-juh-TOO-duh-nul"
+  }
+ },
+ {
+  "id": "17-39",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Longitudinal studies are expensive, which explains why they remain rare in the Pacific.",
+  "text_fr": "Les études longitudinales coûtent cher, ce qui explique qu'elles restent rares dans le Pacifique.",
+  "key_terms": [
+   "to remain",
+   "expensive"
+  ],
+  "thesis_terms": [
+   "longitudinal"
+  ],
+  "pronunciation_notes": {
+   "longitudinal": "lahn-juh-TOO-duh-nul"
+  }
+ },
+ {
+  "id": "17-40",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "We used a convergent mixed methods approach, combining a survey with focus groups.",
+  "text_fr": "Nous avons utilisé une approche par méthodes mixtes convergentes, combinant un questionnaire et des groupes de discussion.",
+  "key_terms": [
+   "to combine"
+  ],
+  "thesis_terms": [
+   "mixed methods"
+  ],
+  "pronunciation_notes": {
+   "convergent": "kun-VER-junt"
+  }
+ },
+ {
+  "id": "17-41",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Mixed methods are useful when numbers and stories tell different parts of the same reality.",
+  "text_fr": "Les méthodes mixtes sont utiles quand les chiffres et les récits racontent des facettes différentes d'une même réalité.",
+  "key_terms": [
+   "useful",
+   "reality"
+  ],
+  "thesis_terms": [
+   "mixed methods"
+  ],
+  "pronunciation_notes": {
+   "methods": "METH-udz",
+   "reality": "ree-AL-uh-tee"
+  }
+ },
+ {
+  "id": "17-42",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "A content analysis was conducted on a sample of images posted by fitness influencers.",
+  "text_fr": "Une analyse de contenu a été menée sur un échantillon d'images publiées par des influenceurs fitness.",
+  "key_terms": [
+   "to post"
+  ],
+  "thesis_terms": [
+   "influencer",
+   "sample",
+   "content analysis"
+  ],
+  "pronunciation_notes": {
+   "content": "KAHN-tent",
+   "influencers": "IN-floo-un-serz"
+  }
+ },
+ {
+  "id": "17-43",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Content analysis of policy documents revealed a strong focus on performance rather than health.",
+  "text_fr": "L'analyse de contenu des documents de politique publique a révélé une forte attention à la performance plutôt qu'à la santé.",
+  "key_terms": [
+   "to reveal",
+   "rather than"
+  ],
+  "thesis_terms": [
+   "content analysis"
+  ],
+  "pronunciation_notes": {
+   "documents": "DAHK-yuh-munts"
+  }
+ },
+ {
+  "id": "17-44",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Authentic content was positively associated with increased exercise among young adults.",
+  "text_fr": "Les contenus authentiques étaient positivement associés à une hausse de l'exercice chez les jeunes adultes.",
+  "key_terms": [
+   "among"
+  ],
+  "thesis_terms": [
+   "positively associated (with)"
+  ],
+  "pronunciation_notes": {
+   "positively": "PAH-zuh-tiv-lee",
+   "associated": "uh-SOH-see-ay-tid"
+  }
+ },
+ {
+  "id": "17-45",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Peer support was positively associated with activity, but the effect was modest.",
+  "text_fr": "Le soutien des pairs était positivement associé à l'activité, mais l'effet était modeste.",
+  "key_terms": [
+   "support",
+   "modest"
+  ],
+  "thesis_terms": [
+   "positively associated (with)"
+  ],
+  "pronunciation_notes": {
+   "modest": "MAH-dist"
+  }
+ },
+ {
+  "id": "17-46",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Low income is a well-documented risk factor for physical inactivity.",
+  "text_fr": "Un faible revenu est un facteur de risque bien documenté de l'inactivité physique.",
+  "key_terms": [
+   "income"
+  ],
+  "thesis_terms": [
+   "physical inactivity",
+   "risk factor"
+  ],
+  "pronunciation_notes": {
+   "documented": "DAHK-yuh-men-tid"
+  }
+ },
+ {
+  "id": "17-47",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Self-compassion played a mediating role between social comparison and body image concerns.",
+  "text_fr": "L'autocompassion jouait un rôle médiateur entre la comparaison sociale et les préoccupations liées à l'image du corps.",
+  "key_terms": [
+   "concern"
+  ],
+  "thesis_terms": [
+   "social comparison",
+   "body image",
+   "self-compassion",
+   "mediating / moderating role"
+  ],
+  "pronunciation_notes": {
+   "mediating": "MEE-dee-ay-ting",
+   "compassion": "kum-PASH-un"
+  }
+ },
+ {
+  "id": "17-48",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Age had a moderating role, since the effect was stronger among younger participants.",
+  "text_fr": "L'âge jouait un rôle modérateur, puisque l'effet était plus fort chez les plus jeunes participants.",
+  "key_terms": [
+   "since",
+   "among"
+  ],
+  "thesis_terms": [
+   "participant, respondent",
+   "mediating / moderating role"
+  ],
+  "pronunciation_notes": {
+   "moderating": "MAH-der-ay-ting"
+  }
+ },
+ {
+  "id": "17-49",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Our conceptual framework was built from the literature and refined during fieldwork.",
+  "text_fr": "Notre cadre conceptuel a été construit à partir de la littérature et affiné sur le terrain.",
+  "key_terms": [
+   "to build",
+   "to refine"
+  ],
+  "thesis_terms": [
+   "fieldwork",
+   "conceptual framework"
+  ],
+  "pronunciation_notes": {
+   "conceptual": "kun-SEP-choo-ul",
+   "refined": "rih-FYND"
+  }
+ },
+ {
+  "id": "17-50",
+  "theme": 17,
+  "level": "B2",
+  "text_en": "Correlation is not causation, which is a trap that even experienced researchers fall into.",
+  "text_fr": "Corrélation n'est pas causalité, un piège dans lequel tombent même des chercheurs expérimentés.",
+  "key_terms": [
+   "trap",
+   "even"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "correlation": "kor-uh-LAY-shun",
+   "causation": "kaw-ZAY-shun"
+  }
+ }
+]

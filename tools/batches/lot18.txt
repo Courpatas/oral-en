@@ -1,0 +1,51 @@
+# Thème 9 — Travail et réunions
+09-01 | B1 | The meeting starts at ten, so please be on time. | La réunion commence à dix heures, alors soyez à l'heure, s'il vous plaît. | meeting; on time | meeting=MEE-ting
+09-02 | B1 | Could we move our meeting to Thursday afternoon? | Pourrions-nous déplacer notre réunion à jeudi après-midi ? | to move | thursday=THERZ-day
+09-03 | B1 | I have a lot of work this week because of a deadline on Friday. | J'ai beaucoup de travail cette semaine à cause d'une échéance vendredi. | deadline; because of | deadline=DED-lyne
+09-04 | B1 | My manager asked me to prepare a short report for the team. | Ma responsable m'a demandé de préparer un court rapport pour l'équipe. | manager; report | manager=MAN-ih-jer; report=rih-PORT
+09-05 | B1 | I work from home on Fridays, which saves me a lot of time. | Je télétravaille le vendredi, ce qui me fait gagner beaucoup de temps. | to work; which | fridays=FRY-dayz
+09-06 | B1 | Let me check my calendar and get back to you. | Laissez-moi vérifier mon agenda et je reviens vers vous. | to check; to get back to | calendar=KAL-un-der
+09-07 | B1 | Sorry, I am running late, but I will be there in ten minutes. | Désolé, je suis en retard, mais je serai là dans dix minutes. | late | sorry=SAH-ree
+09-08 | B1 | Can you share your screen so that everyone can see the document? | Tu peux partager ton écran pour que tout le monde voie le document ? | to share; so that | document=DAHK-yuh-ment
+09-09 | B1 | I agree with you, but I think we need more information. | Je suis d'accord avec toi, mais je pense qu'il nous faut plus d'informations. | to agree; to need | information=in-fer-MAY-shun
+09-10 | B1 | Our team has grown a lot since last year. | Notre équipe s'est beaucoup agrandie depuis l'an dernier. | team; to grow | grown=grohn
+09-11 | B1 | Who is going to take notes during the meeting today? | Qui va prendre des notes pendant la réunion aujourd'hui ? | who; to take notes | notes=nohts
+09-12 | B1 | I finished my tasks early, so I can help you if you want. | J'ai fini mes tâches tôt, alors je peux t'aider si tu veux. | task; early | finished=FIN-isht
+09-13 | B1 | The deadline is tight, but I think we can make it. | L'échéance est serrée, mais je pense qu'on peut y arriver. | deadline; tight | tight=tyte
+09-14 | B1 | My colleague is on vacation, so I am answering her emails. | Ma collègue est en vacances, alors je réponds à ses courriels. | colleague; to answer | vacation=vay-KAY-shun
+09-15 | B1 | Please send me the final version before the end of the day. | Envoyez-moi la version finale avant la fin de la journée, s'il vous plaît. | to send; final | version=VER-zhun
+09-16 | B1 | Let's take a short break and continue in fifteen minutes. | Faisons une petite pause et reprenons dans quinze minutes. | break; to continue | fifteen=fif-TEEN
+09-17 | B1 | I have a job interview tomorrow, and I am quite nervous. | J'ai un entretien d'embauche demain, et je suis assez nerveux. | interview; nervous | interview=IN-ter-vyoo; nervous=NER-vus
+09-18 | B1 | Could you explain that point again, please? I did not quite follow. | Pourriez-vous réexpliquer ce point, s'il vous plaît ? Je n'ai pas bien suivi. | to explain; to follow | quite=kwyte
+09-19 | B1 | Thank you all for coming, so let's start with a quick round of introductions. | Merci à tous d'être venus, alors commençons par un rapide tour de table. | quick; to start | introductions=in-truh-DUK-shunz
+09-20 | B1 | We need to put off the meeting until next week. | Nous devons reporter la réunion à la semaine prochaine. | to put off; until | until=un-TIL
+09-21 | B1 | I signed my contract last week, and I start on Monday. | J'ai signé mon contrat la semaine dernière, et je commence lundi. | contract; to sign | contract=KAHN-trakt
+09-22 | B1 | My boss is very flexible about working hours. | Mon patron est très souple sur les horaires de travail. | boss; flexible | flexible=FLEK-suh-bul
+09-23 | B1 | Can we go back to the first item on the agenda? | Pouvons-nous revenir au premier point de l'ordre du jour ? | to go back; first | agenda=uh-JEN-duh; item=EYE-tum
+09-24 | B1 | I learned a lot from my colleagues during my first year. | J'ai beaucoup appris de mes collègues pendant ma première année. | to learn; colleague | learned=lernd
+09-25 | B1 | If you have any questions, do not hesitate to contact me. | Si vous avez des questions, n'hésitez pas à me contacter. | question; to hesitate | hesitate=HEZ-ih-tayt
+09-26 | B2 | I would like to add one point before we move on to the next item. | J'aimerais ajouter un point avant de passer au suivant. | to move on; to add | point=poynt
+09-27 | B2 | Let's make sure we are all on the same page before we decide anything. | Assurons-nous d'être tous sur la même longueur d'onde avant de décider quoi que ce soit. | on the same page; to make sure | anything=EN-ee-thing
+09-28 | B2 | I see your point, but I am not sure it would work in practice. | Je comprends ton point de vue, mais je ne suis pas sûr que ça marcherait en pratique. | to see; practice | practice=PRAK-tiss
+09-29 | B2 | Could we come back to this question once we have more data? | Pourrions-nous revenir sur cette question quand nous aurons plus de données ? | to come back; once | data=DAY-tuh
+09-30 | B2 | To be honest, I think the timeline is a bit too optimistic. | Pour être honnête, je pense que le calendrier est un peu trop optimiste. | to be honest | timeline=TYME-lyne; optimistic=ahp-tuh-MISS-tik
+09-31 | B2 | We are behind schedule, so we need to set clear priorities for the coming weeks. | Nous sommes en retard sur le planning, alors il faut fixer des priorités claires pour les semaines à venir. | behind schedule; priority | schedule=SKEJ-ool
+09-32 | B2 | The project was postponed because the funding had not been confirmed. | Le projet a été reporté parce que le financement n'avait pas été confirmé. | to postpone; funding | postponed=pohst-POHND
+09-33 | B2 | Working with colleagues from different islands requires a lot of flexibility. | Travailler avec des collègues de différentes îles demande beaucoup de souplesse. | to require; flexibility | flexibility=flek-suh-BIL-uh-tee
+09-34 | B2 | I tend to say yes too quickly, and then I struggle to meet all my deadlines. | J'ai tendance à dire oui trop vite, puis j'ai du mal à tenir tous mes délais. | struggle; to tend to | deadlines=DED-lynez
+09-35 | B2 | Before we wrap up, let's agree on who does what by next Monday. | Avant de conclure, mettons-nous d'accord sur qui fait quoi d'ici lundi prochain. | to wrap up; to agree | wrap=rap
+09-36 | B2 | Hybrid meetings are tricky because remote participants often feel left out. | Les réunions hybrides sont délicates parce que les participants à distance se sentent souvent mis à l'écart. | tricky; remote | hybrid=HY-brid
+09-37 | B2 | Our manager encourages us to admit mistakes instead of hiding them. | Notre responsable nous encourage à reconnaître nos erreurs plutôt qu'à les cacher. | instead of; to hide | encourages=en-KUR-ij-iz
+09-38 | B2 | Giving feedback is a skill, and it takes practice to do it well. | Faire des retours est une compétence, et il faut de la pratique pour bien le faire. | feedback; skill | feedback=FEED-bak
+09-39 | B2 | It is getting late, so let's call it a day and continue tomorrow morning. | Il se fait tard, alors arrêtons-nous là pour aujourd'hui et reprenons demain matin. | to call it a day; late | tomorrow=tuh-MAH-roh
+09-40 | B2 | You hit the nail on the head, because the real problem is communication. | Tu as mis le doigt dessus, car le vrai problème, c'est la communication. | to hit the nail on the head | communication=kuh-myoo-nih-KAY-shun
+09-41 | B2 | I have been asked to lead the project, although I have little experience in management. | On m'a demandé de diriger le projet, bien que j'aie peu d'expérience en management. | to lead; although | lead=leed; experience=ik-SPEER-ee-unss
+09-42 | B2 | The best meetings are short, focused and end with clear decisions. | Les meilleures réunions sont courtes, ciblées et se terminent par des décisions claires. | focused; decision | focused=FOH-kust
+09-43 | B2 | Burnout is more common when people feel that their efforts are never recognized. | L'épuisement professionnel est plus fréquent quand les gens sentent que leurs efforts ne sont jamais reconnus. | common; effort | burnout=BERN-owt; recognized=REK-ug-nyzd
+09-44 | B2 | We were all in the same boat, so we decided to help each other. | Nous étions tous dans le même bateau, alors nous avons décidé de nous entraider. | to be in the same boat; each other | boat=boht
+09-45 | B2 | Balancing my job, my thesis and my family is a constant juggling act. | Concilier mon travail, ma thèse et ma famille est un exercice d'équilibriste permanent. | constant; to balance | juggling=JUG-ling
+09-46 | B2 | My employer agreed to let me work part-time while I finish my doctorate. | Mon employeur a accepté que je travaille à temps partiel pendant que je termine mon doctorat. | employer; while | doctorate=DAHK-ter-it; employer=em-PLOY-er
+09-47 | B2 | If we had communicated better, the misunderstanding would never have happened. | Si nous avions mieux communiqué, le malentendu ne se serait jamais produit. | to happen; better | misunderstanding=miss-un-der-STAN-ding
+09-48 | B2 | Networking is not about collecting contacts but about building genuine relationships. | Le réseautage, ce n'est pas collectionner des contacts, mais construire de vraies relations. | to build; relationship | genuine=JEN-yoo-in
+09-49 | B2 | In tense meetings, I practice a kind of reflection-in-action, adjusting my words as I speak. | Dans les réunions tendues, je pratique une forme de réflexion dans l'action, en ajustant mes mots au fil de la parole. | to adjust; tense | reflection=rih-FLEK-shun; adjusting=uh-JUSS-ting
+09-50 | B2 | A good team is one where people feel safe enough to disagree openly. | Une bonne équipe, c'est une équipe où l'on se sent assez en confiance pour être en désaccord ouvertement. | safe; openly | disagree=diss-uh-GREE

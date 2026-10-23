@@ -1,0 +1,51 @@
+# Thème 6 — Voyage et transports
+06-01 | B1 | Our flight leaves at nine, so we need to be at the airport by seven. | Notre vol part à neuf heures, donc nous devons être à l'aéroport avant sept heures. | flight; airport | airport=AIR-port
+06-02 | B1 | Can I have a window seat, please? I love watching the islands from above. | Je peux avoir un hublot, s'il vous plaît ? J'adore regarder les îles d'en haut. | seat; above | seat=seet
+06-03 | B1 | The ferry to the next island takes about thirty minutes. | Le ferry pour l'île voisine met environ trente minutes. | ferry; island | ferry=FAIR-ee
+06-04 | B1 | Do not forget your passport, because you will need it at the gate. | N'oublie pas ton passeport, parce que tu en auras besoin à la porte d'embarquement. | passport; gate | passport=PASS-port
+06-05 | B1 | We rented a scooter to explore the island at our own pace. | Nous avons loué un scooter pour explorer l'île à notre rythme. | to rent; pace | scooter=SKOO-ter; explore=ik-SPLOR
+06-06 | B1 | Excuse me, how far is the bus station from here? | Excusez-moi, la gare routière est à quelle distance d'ici ? | how far; station | excuse=ik-SKYOOZ
+06-07 | B1 | I always pack too many clothes, even for a short trip. | Je mets toujours trop de vêtements dans ma valise, même pour un court voyage. | to pack; trip | clothes=klohz
+06-08 | B1 | Our flight was delayed by two hours because of a technical problem. | Notre vol a été retardé de deux heures à cause d'un problème technique. | delay; because of | technical=TEK-nih-kul
+06-09 | B1 | We missed the last bus, so we had to take a taxi. | Nous avons raté le dernier bus, alors nous avons dû prendre un taxi. | to miss; taxi | taxi=TAK-see
+06-10 | B1 | Could you give me directions to the nearest pharmacy? | Pourriez-vous m'indiquer le chemin de la pharmacie la plus proche ? | directions; pharmacy | pharmacy=FAR-muh-see
+06-11 | B1 | I prefer an aisle seat on long flights so that I can stretch my legs. | Je préfère une place côté couloir sur les longs vols pour pouvoir étendre mes jambes. | aisle; so that | aisle=ile
+06-12 | B1 | The hotel room had a beautiful view of the lagoon. | La chambre d'hôtel avait une très belle vue sur le lagon. | hotel; view | hotel=hoh-TEL
+06-13 | B1 | Check-out is at eleven, but we can leave our luggage at reception. | Il faut libérer la chambre à onze heures, mais on peut laisser nos bagages à la réception. | to check out; luggage | luggage=LUG-ij; reception=rih-SEP-shun
+06-14 | B1 | We got lost in the city, but a friendly local helped us. | Nous nous sommes perdus en ville, mais un habitant sympathique nous a aidés. | lost; local | friendly=FREND-lee
+06-15 | B1 | How long does the flight to New Zealand take? | Combien de temps dure le vol pour la Nouvelle-Zélande ? | how long; flight | zealand=ZEE-lund
+06-16 | B1 | I booked a double room for three nights in a small guesthouse. | J'ai réservé une chambre double pour trois nuits dans une petite pension. | to book; guesthouse | guesthouse=GEST-howss
+06-17 | B1 | Please fasten your seat belt, because we are about to land. | Veuillez attacher votre ceinture, car nous allons atterrir. | seat belt; to land | fasten=FASS-un
+06-18 | B1 | I had terrible jet lag for a week after my trip to Paris. | J'ai eu un décalage horaire terrible pendant une semaine après mon voyage à Paris. | jet lag; trip | jet=jet
+06-19 | B1 | The traffic is terrible during rush hour, so I cycle to work. | La circulation est terrible aux heures de pointe, alors je vais au travail à vélo. | traffic; rush hour | traffic=TRAF-ik
+06-20 | B1 | We had a long layover in Los Angeles on the way to Paris. | Nous avons eu une longue escale à Los Angeles en allant à Paris. | layover | layover=LAY-oh-ver; angeles=AN-juh-luss
+06-21 | B1 | Is breakfast included in the price of the room? | Le petit-déjeuner est-il compris dans le prix de la chambre ? | included; price | included=in-KLOO-did
+06-22 | B1 | I lost my bag at the airport, but they found it the next day. | J'ai perdu mon sac à l'aéroport, mais ils l'ont retrouvé le lendemain. | to lose; to find | found=fownd
+06-23 | B1 | We took a guided tour of the old town on our first day. | Nous avons fait une visite guidée de la vieille ville le premier jour. | tour; guide | guided=GY-did
+06-24 | B1 | A return ticket is much cheaper than two one-way tickets. | Un aller-retour coûte bien moins cher que deux allers simples. | return ticket; one-way ticket | ticket=TIK-it
+06-25 | B1 | If you travel in July, book your flights as early as possible. | Si tu voyages en juillet, réserve tes vols le plus tôt possible. | to book; as early as possible | possible=PAH-suh-bul
+06-26 | B2 | Traveling between the islands is expensive, so many families rarely leave their own island. | Voyager entre les îles coûte cher, alors beaucoup de familles quittent rarement leur île. | expensive; rarely | traveling=TRAV-uh-ling
+06-27 | B2 | The flight was cancelled at the last minute, and the airline offered us a refund. | Le vol a été annulé à la dernière minute, et la compagnie nous a proposé un remboursement. | refund; cancelled | refund=REE-fund; airline=AIR-lyne
+06-28 | B2 | Having traveled a lot, I have learned to pack only what I really need. | Ayant beaucoup voyagé, j'ai appris à n'emporter que ce dont j'ai vraiment besoin. | to pack; to learn | traveled=TRAV-uld
+06-29 | B2 | The boat that supplies the outer islands only comes once every two weeks. | Le bateau qui ravitaille les îles éloignées ne passe qu'une fois toutes les deux semaines. | once; to supply | supplies=suh-PLYZE
+06-30 | B2 | Air travel is essential here, yet it has a huge impact on the climate. | L'avion est indispensable ici, et pourtant il a un impact énorme sur le climat. | yet; huge | impact=IM-pakt
+06-31 | B2 | We were stuck at the airport for hours, which gave us time to explore the shops. | Nous sommes restés bloqués des heures à l'aéroport, ce qui nous a laissé le temps d'explorer les boutiques. | stuck; which | stuck=stuk
+06-32 | B2 | Before you go, check whether you need a visa and travel insurance. | Avant de partir, vérifie si tu as besoin d'un visa et d'une assurance voyage. | whether; insurance | visa=VEE-zuh; insurance=in-SHOOR-unss
+06-33 | B2 | Driving on the left was confusing at first, but I got used to it quickly. | Conduire à gauche m'a dérouté au début, mais je m'y suis vite habitué. | at first; to get used to | confusing=kun-FYOO-zing
+06-34 | B2 | Public transport is limited on the island, so most families depend on their cars. | Les transports en commun sont limités sur l'île, alors la plupart des familles dépendent de leur voiture. | to depend on; limited | transport=TRANSS-port
+06-35 | B2 | Slow travel means taking the time to really get to know a place. | Voyager lentement, c'est prendre le temps de vraiment connaître un lieu. | to get to know | travel=TRAV-ul
+06-36 | B2 | We would have missed our connection if the plane had not landed early. | Nous aurions raté notre correspondance si l'avion n'avait pas atterri en avance. | connection; to land | connection=kuh-NEK-shun
+06-37 | B2 | Traveling with young children requires patience and a good sense of humor. | Voyager avec de jeunes enfants demande de la patience et un bon sens de l'humour. | patient; humor | patience=PAY-shunss
+06-38 | B2 | The road around the island is narrow, and cyclists have to be very careful. | La route qui fait le tour de l'île est étroite, et les cyclistes doivent être très prudents. | narrow; careful | cyclists=SY-klists
+06-39 | B2 | Our trip was a mix of adventure, rest and long conversations with locals. | Notre voyage a été un mélange d'aventure, de repos et de longues conversations avec les habitants. | trip; rest | adventure=ad-VEN-cher
+06-40 | B2 | I made a complaint because the room did not match the photos on the website. | J'ai fait une réclamation parce que la chambre ne correspondait pas aux photos du site. | complaint; to match | complaint=kum-PLAYNT
+06-41 | B2 | Mass tourism can disrupt local life, especially on small and fragile islands. | Le tourisme de masse peut bouleverser la vie locale, surtout sur des îles petites et fragiles. | to disrupt; especially | tourism=TOOR-iz-um
+06-42 | B2 | The bus timetable changes so often that nobody really relies on it. | Les horaires de bus changent si souvent que personne ne s'y fie vraiment. | timetable; to rely on | timetable=TYME-tay-bul
+06-43 | B2 | Electric bikes are becoming popular, since they make the hills much easier to climb. | Les vélos électriques deviennent populaires, puisqu'ils rendent les côtes bien plus faciles à monter. | since; to climb | electric=ih-LEK-trik; climb=klyme
+06-44 | B2 | We decided to stay in a family guesthouse rather than a big international hotel. | Nous avons décidé de loger dans une pension familiale plutôt que dans un grand hôtel international. | rather than; to stay | international=in-ter-NASH-uh-nul
+06-45 | B2 | Customs officers checked every bag carefully, so it took us an hour to get out. | Les douaniers ont vérifié chaque sac attentivement, alors il nous a fallu une heure pour sortir. | customs; carefully | customs=KUSS-tumz; officers=AW-fih-serz
+06-46 | B2 | Despite the delay, the crew remained calm and kept everyone informed. | Malgré le retard, l'équipage est resté calme et a tenu tout le monde informé. | despite; to remain | crew=kroo
+06-47 | B2 | Traveling alone pushed me out of my comfort zone, in a good way. | Voyager seul m'a fait sortir de ma zone de confort, dans le bon sens. | alone; comfort | comfort=KUM-fert
+06-48 | B2 | I never travel without a reusable water bottle and a small first-aid kit. | Je ne voyage jamais sans une gourde réutilisable et une petite trousse de secours. | never; bottle | reusable=ree-YOO-zuh-bul
+06-49 | B2 | The expedition to the remote atoll took three days by cargo ship. | L'expédition vers l'atoll isolé a pris trois jours en cargo. | expedition; remote | expedition=ek-spuh-DISH-un; atoll=AT-awl
+06-50 | B2 | The best souvenirs are not the things you buy, but the people you meet. | Les meilleurs souvenirs ne sont pas les choses qu'on achète, mais les gens qu'on rencontre. | souvenir; to meet | souvenirs=soo-vuh-NEERZ

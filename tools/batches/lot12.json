@@ -1,0 +1,770 @@
+[
+ {
+  "id": "02-01",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "I go to the market every Saturday morning to buy fresh fruit.",
+  "text_fr": "Je vais au marché tous les samedis matin pour acheter des fruits frais.",
+  "key_terms": [
+   "market",
+   "fresh",
+   "fruit"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fruit": "froot",
+   "saturday": "SAT-er-day"
+  }
+ },
+ {
+  "id": "02-02",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "How much is a kilo of tomatoes at the market today?",
+  "text_fr": "Combien coûte le kilo de tomates au marché aujourd'hui ?",
+  "key_terms": [
+   "how much"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "kilo": "KEE-loh",
+   "tomatoes": "tuh-MAY-tohz"
+  }
+ },
+ {
+  "id": "02-03",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Could we have a table for two near the window, please?",
+  "text_fr": "Pourrions-nous avoir une table pour deux près de la fenêtre, s'il vous plaît ?",
+  "key_terms": [
+   "table for two",
+   "near"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "table": "TAY-bul"
+  }
+ },
+ {
+  "id": "02-04",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "I would like the fish of the day with rice and salad.",
+  "text_fr": "Je voudrais le poisson du jour avec du riz et de la salade.",
+  "key_terms": [
+   "fish",
+   "rice",
+   "salad"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "salad": "SAL-ud"
+  }
+ },
+ {
+  "id": "02-05",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Can we have the bill, please? We are in a bit of a hurry.",
+  "text_fr": "On peut avoir l'addition, s'il vous plaît ? Nous sommes un peu pressés.",
+  "key_terms": [
+   "bill",
+   "hurry"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "hurry": "HUR-ee"
+  }
+ },
+ {
+  "id": "02-06",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "There is no milk left, so I need to go to the supermarket.",
+  "text_fr": "Il n'y a plus de lait, alors je dois aller au supermarché.",
+  "key_terms": [
+   "milk",
+   "supermarket"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "supermarket": "SOO-per-mar-kit"
+  }
+ },
+ {
+  "id": "02-07",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Raw tuna with coconut milk is a typical dish in the islands.",
+  "text_fr": "Le thon cru au lait de coco est un plat typique des îles.",
+  "key_terms": [
+   "tuna",
+   "coconut"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "coconut": "KOH-kuh-nut",
+   "typical": "TIP-ih-kul"
+  }
+ },
+ {
+  "id": "02-08",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Do you take sugar in your coffee, or do you prefer it black?",
+  "text_fr": "Tu prends du sucre dans ton café, ou tu le préfères noir ?",
+  "key_terms": [
+   "sugar",
+   "to prefer"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sugar": "SHOOG-er"
+  }
+ },
+ {
+  "id": "02-09",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "I usually have a light breakfast and a big lunch.",
+  "text_fr": "D'habitude, je prends un petit-déjeuner léger et un gros déjeuner.",
+  "key_terms": [
+   "breakfast",
+   "lunch",
+   "light"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "breakfast": "BREK-fust"
+  }
+ },
+ {
+  "id": "02-10",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "This recipe is easy, and it only takes twenty minutes to prepare.",
+  "text_fr": "Cette recette est facile, et elle ne prend que vingt minutes à préparer.",
+  "key_terms": [
+   "recipe",
+   "easy"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "recipe": "RESS-uh-pee"
+  }
+ },
+ {
+  "id": "02-11",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Chop the onion finely and add two cloves of garlic.",
+  "text_fr": "Hache l'oignon finement et ajoute deux gousses d'ail.",
+  "key_terms": [
+   "onion",
+   "garlic"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "onion": "UN-yun",
+   "garlic": "GAR-lik"
+  }
+ },
+ {
+  "id": "02-12",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Pineapples and mangoes are much cheaper here during the summer.",
+  "text_fr": "Les ananas et les mangues sont bien moins chers ici pendant l'été.",
+  "key_terms": [
+   "pineapple",
+   "mango",
+   "cheap"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "pineapples": "PYNE-ap-ulz",
+   "mangoes": "MANG-gohz"
+  }
+ },
+ {
+  "id": "02-13",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "I am allergic to peanuts, so I always read the labels carefully.",
+  "text_fr": "Je suis allergique aux cacahuètes, alors je lis toujours attentivement les étiquettes.",
+  "key_terms": [
+   "allergy",
+   "carefully"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "allergic": "uh-LER-jik",
+   "labels": "LAY-bulz"
+  }
+ },
+ {
+  "id": "02-14",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "What would you like for dessert, chocolate cake or fresh fruit?",
+  "text_fr": "Que veux-tu en dessert, du gâteau au chocolat ou des fruits frais ?",
+  "key_terms": [
+   "dessert",
+   "cake"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "dessert": "dih-ZERT",
+   "chocolate": "CHAWK-lit"
+  }
+ },
+ {
+  "id": "02-15",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "We left a big tip because the waiter was really friendly.",
+  "text_fr": "Nous avons laissé un gros pourboire parce que le serveur était vraiment sympathique.",
+  "key_terms": [
+   "tip",
+   "friendly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "waiter": "WAY-ter"
+  }
+ },
+ {
+  "id": "02-16",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "My partner does most of the cooking, and I do the shopping.",
+  "text_fr": "Ma compagne fait la plupart de la cuisine, et moi je fais les courses.",
+  "key_terms": [
+   "to cook",
+   "partner"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "shopping": "SHAH-ping"
+  }
+ },
+ {
+  "id": "02-17",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Do not forget to put the fish in the freezer when you get home.",
+  "text_fr": "N'oublie pas de mettre le poisson au congélateur en rentrant.",
+  "key_terms": [
+   "freezer",
+   "to forget"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "freezer": "FREE-zer"
+  }
+ },
+ {
+  "id": "02-18",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "The bakery opens very early, so the bread is still warm at six.",
+  "text_fr": "La boulangerie ouvre très tôt, alors le pain est encore chaud à six heures.",
+  "key_terms": [
+   "bakery",
+   "early",
+   "warm"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "bakery": "BAY-ker-ee"
+  }
+ },
+ {
+  "id": "02-19",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "I am hungry, so shall we stop for a snack before the hike?",
+  "text_fr": "J'ai faim, on s'arrête pour un en-cas avant la randonnée ?",
+  "key_terms": [
+   "hungry",
+   "snack"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "hungry": "HUNG-gree"
+  }
+ },
+ {
+  "id": "02-20",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "We had grilled prawns and a green salad for dinner last night.",
+  "text_fr": "Nous avons mangé des crevettes grillées et une salade verte hier soir.",
+  "key_terms": [
+   "prawn",
+   "dinner"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "prawns": "prawnz"
+  }
+ },
+ {
+  "id": "02-21",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Could you pass me the salt and pepper, please?",
+  "text_fr": "Tu peux me passer le sel et le poivre, s'il te plaît ?",
+  "key_terms": [
+   "salt",
+   "pepper"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "pepper": "PEP-er"
+  }
+ },
+ {
+  "id": "02-22",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "This soup is too hot, so I will wait a few minutes before eating it.",
+  "text_fr": "Cette soupe est trop chaude, alors je vais attendre quelques minutes avant de la manger.",
+  "key_terms": [
+   "soup",
+   "hot"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "minutes": "MIN-its"
+  }
+ },
+ {
+  "id": "02-23",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "We always try to buy local vegetables when they are in season.",
+  "text_fr": "Nous essayons toujours d'acheter des légumes locaux quand c'est la saison.",
+  "key_terms": [
+   "vegetable",
+   "local"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "season": "SEE-zun"
+  }
+ },
+ {
+  "id": "02-24",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "Let's cook together tonight instead of ordering food again.",
+  "text_fr": "Cuisinons ensemble ce soir au lieu de commander encore à manger.",
+  "key_terms": [
+   "instead of",
+   "to cook"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ordering": "OR-der-ing"
+  }
+ },
+ {
+  "id": "02-25",
+  "theme": 2,
+  "level": "B1",
+  "text_en": "If you go to the supermarket, could you buy some eggs and butter?",
+  "text_fr": "Si tu vas au supermarché, tu pourrais acheter des œufs et du beurre ?",
+  "key_terms": [
+   "egg",
+   "butter"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "butter": "BUT-er"
+  }
+ },
+ {
+  "id": "02-26",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Imported food is expensive on the islands because almost everything arrives by ship.",
+  "text_fr": "Les produits importés sont chers sur les îles parce que presque tout arrive par bateau.",
+  "key_terms": [
+   "expensive",
+   "almost"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "imported": "im-POR-tid"
+  }
+ },
+ {
+  "id": "02-27",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "I have been trying to cut down on sugar, but my cravings are hard to resist.",
+  "text_fr": "J'essaie de réduire le sucre, mais mes envies sont difficiles à refréner.",
+  "key_terms": [
+   "craving",
+   "to cut down"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cravings": "KRAY-vingz",
+   "resist": "rih-ZIST"
+  }
+ },
+ {
+  "id": "02-28",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Potatoes and rice are rich in starch, while vegetables provide most of our fiber.",
+  "text_fr": "Les pommes de terre et le riz sont riches en amidon, alors que les légumes apportent l'essentiel de nos fibres.",
+  "key_terms": [
+   "starch",
+   "fiber",
+   "while"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "starch": "starch",
+   "potatoes": "puh-TAY-tohz"
+  }
+ },
+ {
+  "id": "02-29",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Ever since I started cooking at home, I have spent much less on food.",
+  "text_fr": "Depuis que je cuisine à la maison, je dépense beaucoup moins pour la nourriture.",
+  "key_terms": [
+   "to spend",
+   "since"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "spent": "spent"
+  }
+ },
+ {
+  "id": "02-30",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Reading food labels has become a habit, especially for products aimed at children.",
+  "text_fr": "Lire les étiquettes est devenu une habitude, surtout pour les produits destinés aux enfants.",
+  "key_terms": [
+   "especially",
+   "habit"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "products": "PRAH-dukts"
+  }
+ },
+ {
+  "id": "02-31",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "The restaurant was fully booked, so we ended up eating at a small food truck.",
+  "text_fr": "Le restaurant était complet, alors nous avons fini par manger dans un petit camion-restaurant.",
+  "key_terms": [
+   "to book",
+   "to end up"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "restaurant": "RESS-tuh-rahnt"
+  }
+ },
+ {
+  "id": "02-32",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Fresh fish is cheaper than chicken here, which surprises most visitors.",
+  "text_fr": "Ici, le poisson frais est moins cher que le poulet, ce qui surprend la plupart des visiteurs.",
+  "key_terms": [
+   "chicken",
+   "which"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "visitors": "VIZ-ih-terz"
+  }
+ },
+ {
+  "id": "02-33",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "We try to plan our meals for the week so that we waste less food.",
+  "text_fr": "Nous essayons de planifier nos repas de la semaine pour moins gaspiller.",
+  "key_terms": [
+   "meal",
+   "so that"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "waste": "wayst"
+  }
+ },
+ {
+  "id": "02-34",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Healthy food should be affordable, otherwise only wealthy families can eat well.",
+  "text_fr": "Une alimentation saine devrait être abordable, sinon seules les familles aisées peuvent bien manger.",
+  "key_terms": [
+   "affordable",
+   "otherwise"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "affordable": "uh-FOR-duh-bul",
+   "wealthy": "WEL-thee"
+  }
+ },
+ {
+  "id": "02-35",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "The waiter recommended a local dish that I would never have chosen myself.",
+  "text_fr": "Le serveur a recommandé un plat local que je n'aurais jamais choisi moi-même.",
+  "key_terms": [
+   "to recommend",
+   "to choose"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "chosen": "CHOH-zun"
+  }
+ },
+ {
+  "id": "02-36",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Sugary drinks are one of the main sources of added sugar in teenagers' diets.",
+  "text_fr": "Les boissons sucrées sont l'une des principales sources de sucres ajoutés dans l'alimentation des adolescents.",
+  "key_terms": [
+   "diet",
+   "teenager"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sugary": "SHOOG-er-ee"
+  }
+ },
+ {
+  "id": "02-37",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Eating together as a family has become rarer, partly because of busy schedules.",
+  "text_fr": "Manger ensemble en famille est devenu plus rare, en partie à cause d'emplois du temps chargés.",
+  "key_terms": [
+   "partly",
+   "busy"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "schedules": "SKEJ-oolz"
+  }
+ },
+ {
+  "id": "02-38",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "I prefer small local shops, even if prices are somewhat higher.",
+  "text_fr": "Je préfère les petits commerces locaux, même si les prix sont un peu plus élevés.",
+  "key_terms": [
+   "somewhat",
+   "shop"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "somewhat": "SUM-wut"
+  }
+ },
+ {
+  "id": "02-39",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Our grandparents ate much less processed food than we do today.",
+  "text_fr": "Nos grands-parents mangeaient beaucoup moins d'aliments transformés que nous aujourd'hui.",
+  "key_terms": [
+   "to eat",
+   "less"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "processed": "PRAH-sest"
+  }
+ },
+ {
+  "id": "02-40",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Supermarkets place sweets near the checkout because they know we buy on impulse.",
+  "text_fr": "Les supermarchés placent les confiseries près des caisses parce qu'ils savent que nous achetons sur un coup de tête.",
+  "key_terms": [
+   "near",
+   "to know"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "checkout": "CHEK-owt",
+   "impulse": "IM-pulss"
+  }
+ },
+ {
+  "id": "02-41",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Cooking with fresh ingredients takes longer, but the taste is worth it.",
+  "text_fr": "Cuisiner avec des produits frais prend plus de temps, mais le goût en vaut la peine.",
+  "key_terms": [
+   "worth it",
+   "fresh"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ingredients": "in-GREE-dee-unts"
+  }
+ },
+ {
+  "id": "02-42",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "The price of vegetables doubled after the storm destroyed many farms.",
+  "text_fr": "Le prix des légumes a doublé après que la tempête a détruit de nombreuses exploitations.",
+  "key_terms": [
+   "double",
+   "storm"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "destroyed": "dih-STROYD"
+  }
+ },
+ {
+  "id": "02-43",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Had I known the restaurant was closed, I would have cooked at home.",
+  "text_fr": "Si j'avais su que le restaurant était fermé, j'aurais cuisiné à la maison.",
+  "key_terms": [
+   "to know",
+   "closed"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "known": "nohn"
+  }
+ },
+ {
+  "id": "02-44",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "In the islands, sharing food is a way of showing respect and gratitude.",
+  "text_fr": "Dans les îles, partager la nourriture est une façon de montrer son respect et sa gratitude.",
+  "key_terms": [
+   "to share",
+   "grateful"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "gratitude": "GRAT-ih-tood"
+  }
+ },
+ {
+  "id": "02-45",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Breadfruit used to be a staple food, and it is coming back into fashion.",
+  "text_fr": "Le uru était autrefois un aliment de base, et il revient à la mode.",
+  "key_terms": [
+   "used to"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "breadfruit": "BRED-froot",
+   "staple": "STAY-pul"
+  }
+ },
+ {
+  "id": "02-46",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Many families grow their own fruit, which helps them save money and eat better.",
+  "text_fr": "Beaucoup de familles cultivent leurs propres fruits, ce qui les aide à économiser et à mieux manger.",
+  "key_terms": [
+   "to grow",
+   "to save"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "money": "MUN-ee"
+  }
+ },
+ {
+  "id": "02-47",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "I asked for the dressing on the side, because the salad looked very rich.",
+  "text_fr": "J'ai demandé la sauce à part, parce que la salade avait l'air très riche.",
+  "key_terms": [
+   "rich",
+   "to ask"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "dressing": "DRESS-ing"
+  }
+ },
+ {
+  "id": "02-48",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Ordering food online is convenient, but the delivery fees add up quickly.",
+  "text_fr": "Commander à manger en ligne est pratique, mais les frais de livraison s'accumulent vite.",
+  "key_terms": [
+   "online",
+   "quickly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "convenient": "kun-VEEN-yunt",
+   "delivery": "dih-LIV-er-ee"
+  }
+ },
+ {
+  "id": "02-49",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "A balanced diet does not mean giving up everything you enjoy.",
+  "text_fr": "Une alimentation équilibrée ne veut pas dire renoncer à tout ce qu'on aime.",
+  "key_terms": [
+   "to give up",
+   "diet"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "balanced": "BAL-unst"
+  }
+ },
+ {
+  "id": "02-50",
+  "theme": 2,
+  "level": "B2",
+  "text_en": "Food is not only fuel, it is also culture, memory and pleasure.",
+  "text_fr": "La nourriture n'est pas seulement un carburant, c'est aussi une culture, des souvenirs et du plaisir.",
+  "key_terms": [
+   "not only",
+   "pleasure"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "pleasure": "PLEZH-er",
+   "culture": "KUL-cher"
+  }
+ }
+]

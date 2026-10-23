@@ -1,0 +1,51 @@
+# Thème 1 — Maison et quotidien
+01-01 | B1 | I usually wake up at six and make coffee before anyone else gets up. | D'habitude, je me réveille à six heures et je fais le café avant que les autres se lèvent. | to wake up; usually; to get up | coffee=KAW-fee; anyone=EN-ee-wun
+01-02 | B1 | Could you close the window, please? It is getting cold in here. | Tu peux fermer la fenêtre, s'il te plaît ? Il commence à faire froid ici. | window; cold | window=WIN-doh
+01-03 | B1 | I always make my bed as soon as I get up in the morning. | Je fais toujours mon lit dès que je me lève le matin. | always; bed; as soon as | always=AWL-wayz
+01-04 | B1 | We hang the laundry outside because it dries quickly in the sun. | Nous étendons le linge dehors parce qu'il sèche vite au soleil. | to hang the laundry; quickly | laundry=LAWN-dree
+01-05 | B1 | Whose turn is it to do the dishes tonight? | C'est à qui de faire la vaisselle ce soir ? | whose; to do the dishes; tonight | whose=hooz; dishes=DISH-iz
+01-06 | B1 | The keys are in the top drawer, next to the scissors. | Les clés sont dans le tiroir du haut, à côté des ciseaux. | key; drawer | drawer=dror; scissors=SIZ-erz
+01-07 | B1 | Please take out the trash before you leave for work. | Sors les poubelles avant de partir au travail, s'il te plaît. | to take out; to leave | trash=trash
+01-08 | B1 | Our kitchen is small, but it gets a lot of light in the morning. | Notre cuisine est petite, mais elle est très lumineuse le matin. | kitchen; light | kitchen=KICH-un
+01-09 | B1 | I lost my keys again, so I had to wait for my neighbor. | J'ai encore perdu mes clés, alors j'ai dû attendre ma voisine. | to lose; neighbor | neighbor=NAY-ber
+01-10 | B1 | The roof leaks every time it rains heavily. | Le toit fuit à chaque fois qu'il pleut fort. | roof; heavily | roof=roof; leaks=leeks
+01-11 | B1 | Put the vegetables on the cutting board and wash your hands. | Mets les légumes sur la planche à découper et lave-toi les mains. | cutting board; vegetable | vegetables=VEJ-tuh-bulz
+01-12 | B1 | My grandmother knitted this blanket for me when I was a child. | Ma grand-mère m'a tricoté cette couverture quand j'étais enfant. | knitting; blanket | knitted=NIT-id; blanket=BLANG-kit
+01-13 | B1 | We moved to a bigger apartment last year because of the kids. | Nous avons emménagé dans un appartement plus grand l'an dernier à cause des enfants. | to move; apartment | apartment=uh-PART-ment
+01-14 | B1 | Turn off the lights when you leave the room, please. | Éteins les lumières quand tu quittes la pièce, s'il te plaît. | to turn off; room | lights=lyts
+01-15 | B1 | I need a softer pillow, because I keep waking up with a stiff neck. | Il me faut un oreiller plus mou, parce que je me réveille sans cesse avec le cou raide. | pillow; soft; neck | pillow=PIL-oh; stiff=stif
+01-16 | B1 | There is a tiny lizard on the wall above the kitchen door. | Il y a un minuscule lézard sur le mur au-dessus de la porte de la cuisine. | tiny; wall; door | lizard=LIZ-erd
+01-17 | B1 | On Sunday mornings, I clean the house while the children are still asleep. | Le dimanche matin, je nettoie la maison pendant que les enfants dorment encore. | to clean; while; still | asleep=uh-SLEEP
+01-18 | B1 | The dishwasher is broken, so we have to wash everything by hand. | Le lave-vaisselle est en panne, alors on doit tout laver à la main. | dishwasher; to break | dishwasher=DISH-wah-sher
+01-19 | B1 | Can you pick up some bread on your way home? | Tu peux prendre du pain en rentrant ? | to pick up; bread | bread=bred
+01-20 | B1 | I prefer to shower in the evening rather than in the morning. | Je préfère me doucher le soir plutôt que le matin. | to prefer; shower; rather than | shower=SHOW-er; evening=EEV-ning
+01-21 | B1 | My smelly gym shoes are drying on the balcony. | Mes baskets de sport qui sentent mauvais sèchent sur le balcon. | smelly; shoes | balcony=BAL-kuh-nee
+01-22 | B1 | The cat sleeps on the sofa all day and wakes up at dinner time. | Le chat dort sur le canapé toute la journée et se réveille à l'heure du dîner. | sofa; to sleep | sofa=SOH-fuh
+01-23 | B1 | We put a few cushions on the floor so the kids could sit comfortably. | Nous avons mis quelques coussins par terre pour que les enfants s'assoient confortablement. | cushion; floor | cushions=KOOSH-unz; comfortably=KUMF-ter-blee
+01-24 | B1 | I have just cleaned the bathroom, so please take off your shoes. | Je viens de nettoyer la salle de bain, alors enlève tes chaussures, s'il te plaît. | just; to take off; bathroom | bathroom=BATH-room
+01-25 | B1 | If I had a garden, I would grow tomatoes and herbs. | Si j'avais un jardin, je ferais pousser des tomates et des herbes aromatiques. | if; garden; to grow | tomatoes=tuh-MAY-tohz; herbs=erbz
+01-26 | B2 | Ever since we started working from home, the living room has become an office. | Depuis que nous travaillons à la maison, le salon est devenu un bureau. | living room; office | ever=EV-er
+01-27 | B2 | We have been looking for a new apartment for months, without much luck. | Cela fait des mois que nous cherchons un nouvel appartement, sans grand succès. | to look for; without | months=munths
+01-28 | B2 | Rent has increased so much that many young people cannot afford to live alone. | Les loyers ont tellement augmenté que beaucoup de jeunes n'ont pas les moyens de vivre seuls. | to afford; to increase | afford=uh-FORD; rent=rent
+01-29 | B2 | Our neighbors are friendly, although they tend to play loud music on weekends. | Nos voisins sont sympathiques, même s'ils ont tendance à mettre la musique fort le week-end. | although; loud; friendly | neighbors=NAY-berz; although=awl-THOH
+01-30 | B2 | I keep forgetting to water the plants, so most of them are dying. | J'oublie sans cesse d'arroser les plantes, alors la plupart sont en train de mourir. | to forget; most | water=WAW-ter
+01-31 | B2 | Sorting the trash properly takes time, but it has become a habit. | Trier les déchets correctement prend du temps, mais c'est devenu une habitude. | habit; properly | sorting=SOR-ting; habit=HAB-it
+01-32 | B2 | The house was built by my grandfather, who did almost everything himself. | La maison a été construite par mon grand-père, qui a presque tout fait lui-même. | to build; almost | grandfather=GRAN-fah-ther
+01-33 | B2 | If we had insulated the roof, the bedroom would not be so hot in summer. | Si nous avions isolé le toit, la chambre ne serait pas si chaude l'été. | bedroom; hot | insulated=IN-suh-lay-tid
+01-34 | B2 | We share the housework fairly, even though my partner hates ironing. | Nous nous partageons les tâches ménagères équitablement, même si ma compagne déteste repasser. | even though; to share; partner | ironing=EYE-er-ning; housework=HOWSS-werk
+01-35 | B2 | Mornings are chaotic, so we prepare the children's bags the night before. | Les matins sont chaotiques, alors nous préparons les sacs des enfants la veille. | bag; to prepare | chaotic=kay-AH-tik
+01-36 | B2 | The power went off during the storm, and we spent the evening by candlelight. | Le courant a été coupé pendant la tempête, et nous avons passé la soirée à la bougie. | storm; to spend | candlelight=KAN-dul-lyte
+01-37 | B2 | I find it hard to relax at home when the house is a mess. | J'ai du mal à me détendre à la maison quand tout est en désordre. | to relax | relax=rih-LAKS; mess=mess
+01-38 | B2 | We finally got rid of all the boxes we had kept since we moved in. | Nous nous sommes enfin débarrassés de tous les cartons gardés depuis notre emménagement. | finally; to keep | finally=FY-nuh-lee
+01-39 | B2 | Owning a home remains a dream for many families, given current prices. | Être propriétaire reste un rêve pour beaucoup de familles, vu les prix actuels. | to remain; homeownership | owning=OH-ning; current=KUR-unt
+01-40 | B2 | The landlord promised to fix the leak, but nothing has been done so far. | Le propriétaire a promis de réparer la fuite, mais rien n'a été fait jusqu'ici. | so far; to promise | landlord=LAND-lord
+01-41 | B2 | Living close to the sea is wonderful, but everything rusts much faster. | Vivre près de la mer, c'est merveilleux, mais tout rouille beaucoup plus vite. | wonderful; close | rusts=russts; wonderful=WUN-der-ful
+01-42 | B2 | My routine changed completely when I started cycling to work instead of driving. | Ma routine a complètement changé quand j'ai commencé à aller au travail à vélo au lieu de prendre la voiture. | instead of; to drive | routine=roo-TEEN
+01-43 | B2 | We try to buy less plastic, which is not easy when everything is wrapped. | Nous essayons d'acheter moins de plastique, ce qui n'est pas facile quand tout est emballé. | which; to buy | plastic=PLASS-tik; wrapped=rapt
+01-44 | B2 | Having a dedicated space to work at home makes a real difference to my focus. | Avoir un espace dédié au travail à la maison change vraiment ma concentration. | space; difference | dedicated=DED-ih-kay-tid
+01-45 | B2 | We ran out of gas right in the middle of cooking dinner. | Nous avons manqué de gaz en plein milieu de la préparation du dîner. | to run out of; to cook | middle=MID-ul
+01-46 | B2 | The mosquitoes are so annoying at night that we had to buy a net. | Les moustiques sont si pénibles la nuit que nous avons dû acheter une moustiquaire. | annoying; night | mosquitoes=muh-SKEE-tohz
+01-47 | B2 | Getting the kids ready for school is a daily struggle in our house. | Préparer les enfants pour l'école est une galère quotidienne chez nous. | struggle; daily | struggle=STRUG-ul
+01-48 | B2 | I would rather spend money on good mattresses than on expensive furniture. | Je préfère dépenser de l'argent pour de bons matelas que pour des meubles chers. | would rather; furniture | mattresses=MAT-ruh-siz; furniture=FER-nih-cher
+01-49 | B2 | Small daily routines, like a short walk after dinner, keep our family balanced. | De petites routines quotidiennes, comme une courte marche après le dîner, gardent notre famille équilibrée. | routine; balanced | balanced=BAL-unst
+01-50 | B2 | Home is not just a place, it is the people you share it with. | Un foyer n'est pas seulement un lieu, ce sont les gens avec qui on le partage. | not just; to share | place=playss

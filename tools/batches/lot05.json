@@ -1,0 +1,813 @@
+[
+ {
+  "id": "15-01",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "I teach future teachers how to plan and deliver a lesson.",
+  "text_fr": "J'apprends aux futurs enseignants à préparer et à conduire un cours.",
+  "key_terms": [
+   "to teach",
+   "lesson"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "deliver": "dih-LIV-er"
+  }
+ },
+ {
+  "id": "15-02",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Trainee teachers spend several weeks in schools during their first year.",
+  "text_fr": "Les enseignants stagiaires passent plusieurs semaines dans les écoles pendant leur première année.",
+  "key_terms": [
+   "to spend",
+   "several"
+  ],
+  "thesis_terms": [
+   "trainee teacher"
+  ],
+  "pronunciation_notes": {
+   "trainee": "tray-NEE"
+  }
+ },
+ {
+  "id": "15-03",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "We use an online platform to share videos and documents with students.",
+  "text_fr": "Nous utilisons une plateforme en ligne pour partager des vidéos et des documents avec les étudiants.",
+  "key_terms": [
+   "online",
+   "to share"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "platform": "PLAT-form",
+   "videos": "VID-ee-ohz"
+  }
+ },
+ {
+  "id": "15-04",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "I record short videos so that trainees can watch them at home.",
+  "text_fr": "J'enregistre de courtes vidéos pour que les stagiaires puissent les regarder chez eux.",
+  "key_terms": [
+   "so that",
+   "to record"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "record": "rih-KORD"
+  }
+ },
+ {
+  "id": "15-05",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Distance learning is essential when students live on remote islands.",
+  "text_fr": "La formation à distance est essentielle quand les étudiants vivent sur des îles éloignées.",
+  "key_terms": [
+   "remote",
+   "island"
+  ],
+  "thesis_terms": [
+   "distance learning"
+  ],
+  "pronunciation_notes": {
+   "distance": "DISS-tunss"
+  }
+ },
+ {
+  "id": "15-06",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Our internet connection is slow, so videos sometimes take ages to load.",
+  "text_fr": "Notre connexion internet est lente, donc les vidéos mettent parfois une éternité à charger.",
+  "key_terms": [
+   "internet",
+   "slow"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "connection": "kuh-NEK-shun"
+  }
+ },
+ {
+  "id": "15-07",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Teachers can download the course and work on it offline.",
+  "text_fr": "Les enseignants peuvent télécharger le cours et le travailler hors ligne.",
+  "key_terms": [
+   "to download",
+   "offline"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "download": "DOWN-lohd"
+  }
+ },
+ {
+  "id": "15-08",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Many teachers are curious about artificial intelligence but do not know where to start.",
+  "text_fr": "Beaucoup d'enseignants sont curieux de l'intelligence artificielle mais ne savent pas par où commencer.",
+  "key_terms": [
+   "curious",
+   "artificial intelligence"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "curious": "KYOOR-ee-us",
+   "artificial": "ar-tuh-FISH-ul"
+  }
+ },
+ {
+  "id": "15-09",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Digital literacy is now a core skill for every teacher.",
+  "text_fr": "La littératie numérique est aujourd'hui une compétence essentielle pour tout enseignant.",
+  "key_terms": [
+   "skill",
+   "now"
+  ],
+  "thesis_terms": [
+   "digital literacy"
+  ],
+  "pronunciation_notes": {
+   "digital": "DIJ-uh-tul",
+   "literacy": "LIT-er-uh-see"
+  }
+ },
+ {
+  "id": "15-10",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "In-service training helps experienced teachers update their practices.",
+  "text_fr": "La formation continue aide les enseignants expérimentés à actualiser leurs pratiques.",
+  "key_terms": [
+   "experienced",
+   "to update"
+  ],
+  "thesis_terms": [
+   "in-service training"
+  ],
+  "pronunciation_notes": {
+   "experienced": "ik-SPEER-ee-unst"
+  }
+ },
+ {
+  "id": "15-11",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "As a teacher educator, I design digital courses for primary school teachers.",
+  "text_fr": "En tant que formateur, je conçois des formations numériques pour les professeurs des écoles.",
+  "key_terms": [
+   "to design"
+  ],
+  "thesis_terms": [
+   "primary school teacher",
+   "teacher educator"
+  ],
+  "pronunciation_notes": {
+   "educator": "EJ-uh-kay-ter",
+   "design": "dih-ZYNE"
+  }
+ },
+ {
+  "id": "15-12",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "The training session was moved online because of the storm.",
+  "text_fr": "La session de formation a été déplacée en ligne à cause de la tempête.",
+  "key_terms": [
+   "because of",
+   "storm"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "session": "SESH-un"
+  }
+ },
+ {
+  "id": "15-13",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Trainee teachers prefer short, practical videos to long theoretical lectures.",
+  "text_fr": "Les enseignants stagiaires préfèrent de courtes vidéos pratiques aux longs cours théoriques.",
+  "key_terms": [
+   "to prefer",
+   "lecture"
+  ],
+  "thesis_terms": [
+   "trainee teacher"
+  ],
+  "pronunciation_notes": {
+   "theoretical": "thee-uh-RET-ih-kul",
+   "lectures": "LEK-cherz"
+  }
+ },
+ {
+  "id": "15-14",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Professional development should continue throughout a teacher's career.",
+  "text_fr": "Le développement professionnel devrait se poursuivre tout au long de la carrière d'un enseignant.",
+  "key_terms": [
+   "throughout",
+   "career"
+  ],
+  "thesis_terms": [
+   "professional development"
+  ],
+  "pronunciation_notes": {
+   "career": "kuh-REER",
+   "professional": "pruh-FESH-uh-nul"
+  }
+ },
+ {
+  "id": "15-15",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "I asked the participants to fill in a short survey after each module.",
+  "text_fr": "J'ai demandé aux participants de remplir un court questionnaire après chaque module.",
+  "key_terms": [
+   "survey",
+   "to fill in"
+  ],
+  "thesis_terms": [
+   "participant, respondent"
+  ],
+  "pronunciation_notes": {
+   "survey": "SER-vay",
+   "module": "MAH-jool"
+  }
+ },
+ {
+  "id": "15-16",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Blended learning combines face-to-face sessions with online activities.",
+  "text_fr": "La formation hybride combine des séances en présentiel et des activités en ligne.",
+  "key_terms": [
+   "to combine"
+  ],
+  "thesis_terms": [
+   "blended learning"
+  ],
+  "pronunciation_notes": {
+   "blended": "BLEN-did"
+  }
+ },
+ {
+  "id": "15-17",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "The platform allows teachers to ask questions and get answers quickly.",
+  "text_fr": "La plateforme permet aux enseignants de poser des questions et d'obtenir vite des réponses.",
+  "key_terms": [
+   "to allow",
+   "quickly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "allows": "uh-LOWZ"
+  }
+ },
+ {
+  "id": "15-18",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "Some teachers felt lost at first, but they quickly got used to the tool.",
+  "text_fr": "Certains enseignants se sont sentis perdus au début, mais ils se sont vite habitués à l'outil.",
+  "key_terms": [
+   "at first",
+   "to get used to"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "used": "yoost"
+  }
+ },
+ {
+  "id": "15-19",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "We meet in person once a term and work online the rest of the time.",
+  "text_fr": "Nous nous voyons en présentiel une fois par trimestre et travaillons en ligne le reste du temps.",
+  "key_terms": [
+   "once",
+   "term"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "person": "PER-sun"
+  }
+ },
+ {
+  "id": "15-20",
+  "theme": 15,
+  "level": "B1",
+  "text_en": "If the connection were better, we could organize more live sessions.",
+  "text_fr": "Si la connexion était meilleure, nous pourrions organiser plus de séances en direct.",
+  "key_terms": [
+   "if",
+   "better"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "live": "lyve"
+  }
+ },
+ {
+  "id": "15-21",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Initial teacher education includes surprisingly few hours of physical education.",
+  "text_fr": "La formation initiale comprend étonnamment peu d'heures d'EPS.",
+  "key_terms": [
+   "few",
+   "surprisingly"
+  ],
+  "thesis_terms": [
+   "physical education (PE)",
+   "initial teacher education"
+  ],
+  "pronunciation_notes": {
+   "initial": "ih-NISH-ul",
+   "surprisingly": "ser-PRY-zing-lee"
+  }
+ },
+ {
+  "id": "15-22",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Initial teacher education rarely prepares future teachers for multi-level classes in remote schools.",
+  "text_fr": "La formation initiale prépare rarement les futurs enseignants aux classes multiniveaux des écoles isolées.",
+  "key_terms": [
+   "rarely",
+   "to prepare"
+  ],
+  "thesis_terms": [
+   "initial teacher education"
+  ],
+  "pronunciation_notes": {
+   "multi-level": "mul-tee-LEV-ul"
+  }
+ },
+ {
+  "id": "15-23",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "In-service training is often scheduled at times when teachers are already exhausted.",
+  "text_fr": "La formation continue est souvent programmée à des moments où les enseignants sont déjà épuisés.",
+  "key_terms": [
+   "already",
+   "exhausted"
+  ],
+  "thesis_terms": [
+   "in-service training"
+  ],
+  "pronunciation_notes": {
+   "scheduled": "SKEJ-oold",
+   "exhausted": "ig-ZAW-stid"
+  }
+ },
+ {
+  "id": "15-24",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "A good teacher educator models the practices they want trainees to adopt.",
+  "text_fr": "Un bon formateur incarne les pratiques qu'il veut voir adoptées par les stagiaires.",
+  "key_terms": [
+   "to adopt"
+  ],
+  "thesis_terms": [
+   "teacher educator"
+  ],
+  "pronunciation_notes": {
+   "educator": "EJ-uh-kay-ter",
+   "adopt": "uh-DAHPT"
+  }
+ },
+ {
+  "id": "15-25",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Trainee teachers learn as much from their peers as from their mentors.",
+  "text_fr": "Les enseignants stagiaires apprennent autant de leurs pairs que de leurs tuteurs.",
+  "key_terms": [
+   "as much as",
+   "peer"
+  ],
+  "thesis_terms": [
+   "trainee teacher"
+  ],
+  "pronunciation_notes": {
+   "mentors": "MEN-torz",
+   "peers": "peerz"
+  }
+ },
+ {
+  "id": "15-26",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Instructional design starts with the learners' needs, not with the technology.",
+  "text_fr": "L'ingénierie de formation part des besoins des apprenants, pas de la technologie.",
+  "key_terms": [
+   "need",
+   "learner"
+  ],
+  "thesis_terms": [
+   "instructional design"
+  ],
+  "pronunciation_notes": {
+   "instructional": "in-STRUK-shuh-nul",
+   "technology": "tek-NAH-luh-jee"
+  }
+ },
+ {
+  "id": "15-27",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Good instructional design breaks complex skills into small, manageable chunks.",
+  "text_fr": "Une bonne ingénierie de formation découpe les compétences complexes en petits morceaux faciles à gérer.",
+  "key_terms": [
+   "chunk",
+   "skill"
+  ],
+  "thesis_terms": [
+   "instructional design"
+  ],
+  "pronunciation_notes": {
+   "manageable": "MAN-ij-uh-bul",
+   "chunks": "chunks"
+  }
+ },
+ {
+  "id": "15-28",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Our digital training system includes videos, quizzes and a discussion forum.",
+  "text_fr": "Notre dispositif de formation numérique comprend des vidéos, des quiz et un forum de discussion.",
+  "key_terms": [
+   "to include"
+  ],
+  "thesis_terms": [
+   "digital training system"
+  ],
+  "pronunciation_notes": {
+   "quizzes": "KWIZ-iz",
+   "forum": "FOR-um"
+  }
+ },
+ {
+  "id": "15-29",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "A digital training system is only useful if teachers actually adopt it.",
+  "text_fr": "Un dispositif de formation numérique n'est utile que si les enseignants se l'approprient vraiment.",
+  "key_terms": [
+   "actually",
+   "useful"
+  ],
+  "thesis_terms": [
+   "digital training system"
+  ],
+  "pronunciation_notes": {
+   "system": "SISS-tum"
+  }
+ },
+ {
+  "id": "15-30",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Blended learning reduces travel costs, which matters a lot in an archipelago.",
+  "text_fr": "La formation hybride réduit les frais de déplacement, ce qui compte beaucoup dans un archipel.",
+  "key_terms": [
+   "to reduce",
+   "which"
+  ],
+  "thesis_terms": [
+   "archipelago",
+   "blended learning"
+  ],
+  "pronunciation_notes": {
+   "archipelago": "ar-kuh-PEL-uh-go"
+  }
+ },
+ {
+  "id": "15-31",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Distance learning works best when it is combined with regular human contact.",
+  "text_fr": "La formation à distance fonctionne mieux quand elle s'accompagne de contacts humains réguliers.",
+  "key_terms": [
+   "regular",
+   "best"
+  ],
+  "thesis_terms": [
+   "distance learning"
+  ],
+  "pronunciation_notes": {
+   "contact": "KAHN-takt"
+  }
+ },
+ {
+  "id": "15-32",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Digital literacy is not just about using tools, but also about judging information.",
+  "text_fr": "La littératie numérique ne consiste pas seulement à utiliser des outils, mais aussi à évaluer l'information.",
+  "key_terms": [
+   "not just",
+   "to judge"
+  ],
+  "thesis_terms": [
+   "digital literacy"
+  ],
+  "pronunciation_notes": {
+   "judging": "JUJ-ing"
+  }
+ },
+ {
+  "id": "15-33",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Professional development is more effective when teachers choose their own goals.",
+  "text_fr": "Le développement professionnel est plus efficace quand les enseignants choisissent leurs propres objectifs.",
+  "key_terms": [
+   "to choose",
+   "goal"
+  ],
+  "thesis_terms": [
+   "professional development"
+  ],
+  "pronunciation_notes": {
+   "effective": "ih-FEK-tiv"
+  }
+ },
+ {
+  "id": "15-34",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "The same platform can become a very different instrument for each teacher.",
+  "text_fr": "La même plateforme peut devenir un instrument très différent pour chaque enseignant.",
+  "key_terms": [
+   "to become"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "instrument": "IN-struh-ment"
+  }
+ },
+ {
+  "id": "15-35",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Teachers turn the platform into an instrument by adapting it to their own routines.",
+  "text_fr": "Les enseignants font de la plateforme un instrument en l'adaptant à leurs propres routines.",
+  "key_terms": [
+   "to turn into"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "routines": "roo-TEENZ"
+  }
+ },
+ {
+  "id": "15-36",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "The affordances of the platform shaped how teachers actually used it.",
+  "text_fr": "Les potentialités de la plateforme ont façonné la manière dont les enseignants l'ont réellement utilisée.",
+  "key_terms": [
+   "to shape"
+  ],
+  "thesis_terms": [
+   "affordance"
+  ],
+  "pronunciation_notes": {
+   "affordances": "uh-FOR-dun-siz"
+  }
+ },
+ {
+  "id": "15-37",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Each new feature spawns questions that the designers never anticipated.",
+  "text_fr": "Chaque nouvelle fonctionnalité engendre des questions que les concepteurs n'avaient jamais anticipées.",
+  "key_terms": [
+   "to spawn",
+   "never"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "anticipated": "an-TISS-uh-pay-tid",
+   "spawns": "spawnz"
+  }
+ },
+ {
+  "id": "15-38",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Artificial intelligence could ease the workload of teachers, provided it is used wisely.",
+  "text_fr": "L'intelligence artificielle pourrait alléger la charge de travail des enseignants, à condition d'être utilisée avec discernement.",
+  "key_terms": [
+   "to ease",
+   "provided that"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "workload": "WERK-lohd",
+   "wisely": "WYZE-lee"
+  }
+ },
+ {
+  "id": "15-39",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "We need to figure out which tasks AI can do and which ones teachers must keep.",
+  "text_fr": "Nous devons déterminer quelles tâches l'IA peut faire et lesquelles les enseignants doivent garder.",
+  "key_terms": [
+   "to figure out",
+   "task"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "figure": "FIG-yer"
+  }
+ },
+ {
+  "id": "15-40",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Our efficiency improved once the platform stopped asking for unnecessary information.",
+  "text_fr": "Notre efficacité s'est améliorée dès que la plateforme a cessé de demander des informations inutiles.",
+  "key_terms": [
+   "efficiency",
+   "once"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "efficiency": "ih-FISH-un-see",
+   "unnecessary": "un-NESS-uh-sair-ee"
+  }
+ },
+ {
+  "id": "15-41",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "The tool was designed to save time, but it ended up adding new tasks.",
+  "text_fr": "L'outil devait faire gagner du temps, mais il a fini par ajouter de nouvelles tâches.",
+  "key_terms": [
+   "to end up",
+   "to save"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "designed": "dih-ZYND"
+  }
+ },
+ {
+  "id": "15-42",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Online modules allow trainees to learn at their own pace, wherever they live.",
+  "text_fr": "Les modules en ligne permettent aux stagiaires d'apprendre à leur rythme, où qu'ils vivent.",
+  "key_terms": [
+   "pace",
+   "wherever"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "wherever": "wair-EV-er"
+  }
+ },
+ {
+  "id": "15-43",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Keeping track of every trainee's progress is much easier with a digital dashboard.",
+  "text_fr": "Suivre la progression de chaque stagiaire est bien plus facile avec un tableau de bord numérique.",
+  "key_terms": [
+   "to keep track of"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "progress": "PRAH-gress",
+   "dashboard": "DASH-bord"
+  }
+ },
+ {
+  "id": "15-44",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Some older teachers were reluctant at first, then became the most enthusiastic users.",
+  "text_fr": "Certains enseignants plus âgés étaient réticents au début, puis sont devenus les utilisateurs les plus enthousiastes.",
+  "key_terms": [
+   "at first",
+   "reluctant"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "reluctant": "rih-LUK-tunt"
+  }
+ },
+ {
+  "id": "15-45",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Rather than replacing teachers, digital tools should support their professional judgment.",
+  "text_fr": "Plutôt que de remplacer les enseignants, les outils numériques devraient soutenir leur jugement professionnel.",
+  "key_terms": [
+   "rather than",
+   "to support"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "judgment": "JUJ-ment"
+  }
+ },
+ {
+  "id": "15-46",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Video analysis helps trainees see what they actually do in front of a class.",
+  "text_fr": "L'analyse vidéo aide les stagiaires à voir ce qu'ils font réellement devant une classe.",
+  "key_terms": [
+   "in front of",
+   "actually"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "analysis": "uh-NAL-uh-sis"
+  }
+ },
+ {
+  "id": "15-47",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "Our trainees' feedback led us to shorten the videos and add more practical examples.",
+  "text_fr": "Les retours de nos stagiaires nous ont conduits à raccourcir les vidéos et à ajouter des exemples concrets.",
+  "key_terms": [
+   "feedback",
+   "to lead"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "feedback": "FEED-bak"
+  }
+ },
+ {
+  "id": "15-48",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "The real challenge is not access to technology but the time to learn how to use it.",
+  "text_fr": "Le vrai défi n'est pas l'accès à la technologie, mais le temps d'apprendre à s'en servir.",
+  "key_terms": [
+   "challenge",
+   "access"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "access": "AK-sess"
+  }
+ },
+ {
+  "id": "15-49",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "In-service training in the outer islands relies almost entirely on online formats.",
+  "text_fr": "La formation continue dans les îles éloignées repose presque entièrement sur des formats en ligne.",
+  "key_terms": [
+   "to rely on",
+   "almost"
+  ],
+  "thesis_terms": [
+   "in-service training"
+  ],
+  "pronunciation_notes": {
+   "entirely": "en-TYRE-lee"
+  }
+ },
+ {
+  "id": "15-50",
+  "theme": 15,
+  "level": "B2",
+  "text_en": "A training program is worth it only if it changes what happens in classrooms.",
+  "text_fr": "Un programme de formation n'en vaut la peine que s'il change ce qui se passe dans les classes.",
+  "key_terms": [
+   "worth it",
+   "to happen"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "worth": "werth"
+  }
+ }
+]

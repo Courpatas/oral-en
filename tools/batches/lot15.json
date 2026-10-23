@@ -1,0 +1,770 @@
+[
+ {
+  "id": "05-01",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The weather is lovely today, so let's have lunch on the beach.",
+  "text_fr": "Il fait un temps magnifique aujourd'hui, alors déjeunons sur la plage.",
+  "key_terms": [
+   "weather",
+   "lunch"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "weather": "WETH-er",
+   "lovely": "LUV-lee"
+  }
+ },
+ {
+  "id": "05-02",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "It rained all night, and the road to the village is flooded.",
+  "text_fr": "Il a plu toute la nuit, et la route du village est inondée.",
+  "key_terms": [
+   "rain",
+   "road"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "flooded": "FLUD-id"
+  }
+ },
+ {
+  "id": "05-03",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "Take an umbrella in case it rains this afternoon.",
+  "text_fr": "Prends un parapluie au cas où il pleuvrait cet après-midi.",
+  "key_terms": [
+   "umbrella",
+   "in case"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "umbrella": "um-BREL-uh"
+  }
+ },
+ {
+  "id": "05-04",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The forecast says it will be sunny and windy tomorrow.",
+  "text_fr": "La météo annonce du soleil et du vent pour demain.",
+  "key_terms": [
+   "forecast",
+   "windy"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "forecast": "FOR-kast"
+  }
+ },
+ {
+  "id": "05-05",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "It is very humid in summer, so I take two showers a day.",
+  "text_fr": "Il fait très humide l'été, alors je prends deux douches par jour.",
+  "key_terms": [
+   "humid",
+   "shower"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "humid": "HYOO-mid"
+  }
+ },
+ {
+  "id": "05-06",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "There is not a single cloud in the sky this morning.",
+  "text_fr": "Il n'y a pas un seul nuage dans le ciel ce matin.",
+  "key_terms": [
+   "cloud",
+   "sky"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cloud": "klowd"
+  }
+ },
+ {
+  "id": "05-07",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The wind is too strong to go out on the boat today.",
+  "text_fr": "Le vent est trop fort pour sortir en bateau aujourd'hui.",
+  "key_terms": [
+   "wind",
+   "boat"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "wind": "wind"
+  }
+ },
+ {
+  "id": "05-08",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "We watched the sunset from the top of the hill.",
+  "text_fr": "Nous avons regardé le coucher du soleil depuis le sommet de la colline.",
+  "key_terms": [
+   "sunset",
+   "hill"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sunset": "SUN-set"
+  }
+ },
+ {
+  "id": "05-09",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The lagoon is crystal clear, and you can see the fish from the boat.",
+  "text_fr": "Le lagon est d'une clarté cristalline, et on voit les poissons depuis le bateau.",
+  "key_terms": [
+   "lagoon",
+   "clear"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "crystal": "KRISS-tul"
+  }
+ },
+ {
+  "id": "05-10",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "In winter, the nights are cooler, but it never really gets cold.",
+  "text_fr": "En hiver, les nuits sont plus fraîches, mais il ne fait jamais vraiment froid.",
+  "key_terms": [
+   "winter",
+   "never"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cooler": "KOO-ler"
+  }
+ },
+ {
+  "id": "05-11",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "A storm is coming tonight, so we brought the chairs inside.",
+  "text_fr": "Une tempête arrive ce soir, alors nous avons rentré les chaises.",
+  "key_terms": [
+   "storm",
+   "chair"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "brought": "brawt"
+  }
+ },
+ {
+  "id": "05-12",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "We hiked to a waterfall in the middle of the valley.",
+  "text_fr": "Nous avons marché jusqu'à une cascade au milieu de la vallée.",
+  "key_terms": [
+   "waterfall",
+   "hiking"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "waterfall": "WAW-ter-fawl",
+   "valley": "VAL-ee"
+  }
+ },
+ {
+  "id": "05-13",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "Dolphins often swim near the reef early in the morning.",
+  "text_fr": "Les dauphins nagent souvent près du récif tôt le matin.",
+  "key_terms": [
+   "often",
+   "early"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "dolphins": "DAHL-finz",
+   "reef": "reef"
+  }
+ },
+ {
+  "id": "05-14",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The mountain was covered in clouds for the whole day.",
+  "text_fr": "La montagne a été couverte de nuages toute la journée.",
+  "key_terms": [
+   "mountain",
+   "whole"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "mountain": "MOWN-tun"
+  }
+ },
+ {
+  "id": "05-15",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "I love the smell of the earth after a tropical rain.",
+  "text_fr": "J'adore l'odeur de la terre après une pluie tropicale.",
+  "key_terms": [
+   "to love",
+   "smell"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tropical": "TRAH-pih-kul",
+   "earth": "erth"
+  }
+ },
+ {
+  "id": "05-16",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "Do not swim here, because the current is very strong near the pass.",
+  "text_fr": "Ne nage pas ici, parce que le courant est très fort près de la passe.",
+  "key_terms": [
+   "to swim",
+   "strong"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "current": "KUR-unt"
+  }
+ },
+ {
+  "id": "05-17",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The temperature dropped suddenly when the rain started.",
+  "text_fr": "La température a chuté brusquement quand la pluie a commencé.",
+  "key_terms": [
+   "temperature",
+   "suddenly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "temperature": "TEM-pruh-cher",
+   "suddenly": "SUD-un-lee"
+  }
+ },
+ {
+  "id": "05-18",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "Whales come close to the island between July and October.",
+  "text_fr": "Les baleines s'approchent de l'île entre juillet et octobre.",
+  "key_terms": [
+   "island",
+   "between"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "whales": "waylz"
+  }
+ },
+ {
+  "id": "05-19",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "Coconut trees can be dangerous when the wind blows hard.",
+  "text_fr": "Les cocotiers peuvent être dangereux quand le vent souffle fort.",
+  "key_terms": [
+   "dangerous",
+   "to blow"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "coconut": "KOH-kuh-nut"
+  }
+ },
+ {
+  "id": "05-20",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "We picked up plastic on the beach with our children's school.",
+  "text_fr": "Nous avons ramassé du plastique sur la plage avec l'école de nos enfants.",
+  "key_terms": [
+   "to pick up",
+   "beach"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "plastic": "PLASS-tik"
+  }
+ },
+ {
+  "id": "05-21",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The birds start singing just before the sun rises.",
+  "text_fr": "Les oiseaux commencent à chanter juste avant le lever du soleil.",
+  "key_terms": [
+   "to sing",
+   "to rise"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "rises": "RY-ziz"
+  }
+ },
+ {
+  "id": "05-22",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "It is so hot today that I can hardly breathe.",
+  "text_fr": "Il fait tellement chaud aujourd'hui que j'arrive à peine à respirer.",
+  "key_terms": [
+   "hot",
+   "hardly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "breathe": "breeth",
+   "hardly": "HARD-lee"
+  }
+ },
+ {
+  "id": "05-23",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "We stayed indoors all weekend because of the heavy rain.",
+  "text_fr": "Nous sommes restés à l'intérieur tout le week-end à cause de la forte pluie.",
+  "key_terms": [
+   "because of",
+   "heavy"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "indoors": "in-DORZ"
+  }
+ },
+ {
+  "id": "05-24",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "The view from the lookout is absolutely breathtaking.",
+  "text_fr": "La vue depuis le belvédère est absolument à couper le souffle.",
+  "key_terms": [
+   "view",
+   "breathtaking"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "breathtaking": "BRETH-tay-king"
+  }
+ },
+ {
+  "id": "05-25",
+  "theme": 5,
+  "level": "B1",
+  "text_en": "If the sea is calm tomorrow, we will go snorkeling.",
+  "text_fr": "Si la mer est calme demain, nous irons faire du masque et tuba.",
+  "key_terms": [
+   "if",
+   "calm"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "snorkeling": "SNOR-kul-ing",
+   "calm": "kahm"
+  }
+ },
+ {
+  "id": "05-26",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Rising sea levels threaten low-lying atolls, where some islands barely rise above the water.",
+  "text_fr": "La montée des eaux menace les atolls de faible altitude, où certaines îles dépassent à peine la surface.",
+  "key_terms": [
+   "to threaten",
+   "barely"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "atolls": "AT-awlz",
+   "threaten": "THRET-un"
+  }
+ },
+ {
+  "id": "05-27",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Coral reefs are teeming with life, but they are extremely sensitive to warmer water.",
+  "text_fr": "Les récifs coralliens regorgent de vie, mais ils sont extrêmement sensibles au réchauffement de l'eau.",
+  "key_terms": [
+   "teeming with",
+   "sensitive"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "coral": "KOR-ul",
+   "extremely": "ik-STREEM-lee"
+  }
+ },
+ {
+  "id": "05-28",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "When the water gets too warm, corals lose their color in a process called bleaching.",
+  "text_fr": "Quand l'eau devient trop chaude, les coraux perdent leur couleur : c'est le blanchissement.",
+  "key_terms": [
+   "process",
+   "to lose"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "bleaching": "BLEE-ching"
+  }
+ },
+ {
+  "id": "05-29",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Cyclones have become less predictable, which worries many families in the outer islands.",
+  "text_fr": "Les cyclones sont devenus moins prévisibles, ce qui inquiète beaucoup de familles des îles éloignées.",
+  "key_terms": [
+   "to worry",
+   "which"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cyclones": "SY-klohnz",
+   "predictable": "prih-DIK-tuh-bul"
+  }
+ },
+ {
+  "id": "05-30",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Climate change is no longer a distant threat, since it is already affecting daily life here.",
+  "text_fr": "Le changement climatique n'est plus une menace lointaine, puisqu'il affecte déjà la vie quotidienne ici.",
+  "key_terms": [
+   "no longer",
+   "already"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "climate": "KLY-mit",
+   "threat": "thret"
+  }
+ },
+ {
+  "id": "05-31",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Some homes in the valley could become uninsurable if flooding becomes more frequent.",
+  "text_fr": "Certaines maisons de la vallée pourraient devenir inassurables si les inondations deviennent plus fréquentes.",
+  "key_terms": [
+   "frequent"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "uninsurable": "un-in-SHOOR-uh-bul",
+   "frequent": "FREE-kwunt"
+  }
+ },
+ {
+  "id": "05-32",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "According to older fishermen, the dry season used to be much longer.",
+  "text_fr": "D'après les pêcheurs les plus âgés, la saison sèche était autrefois bien plus longue.",
+  "key_terms": [
+   "according to",
+   "used to"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fishermen": "FISH-er-mun"
+  }
+ },
+ {
+  "id": "05-33",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Protecting the lagoon requires cooperation between fishermen, scientists and local authorities.",
+  "text_fr": "Protéger le lagon exige une coopération entre pêcheurs, scientifiques et autorités locales.",
+  "key_terms": [
+   "to protect",
+   "to require"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cooperation": "koh-ah-puh-RAY-shun",
+   "scientists": "SY-un-tists"
+  }
+ },
+ {
+  "id": "05-34",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "We caught a glimpse of a manta ray before it disappeared into the deep water.",
+  "text_fr": "Nous avons aperçu une raie manta avant qu'elle ne disparaisse dans les eaux profondes.",
+  "key_terms": [
+   "glimpse",
+   "to disappear"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "glimpse": "glimps",
+   "disappeared": "diss-uh-PEERD"
+  }
+ },
+ {
+  "id": "05-35",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Tourism brings money to the islands, but it also puts pressure on fragile ecosystems.",
+  "text_fr": "Le tourisme apporte de l'argent aux îles, mais il met aussi sous pression des écosystèmes fragiles.",
+  "key_terms": [
+   "tourism",
+   "fragile"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ecosystems": "EE-koh-siss-tumz",
+   "fragile": "FRAJ-ul"
+  }
+ },
+ {
+  "id": "05-36",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "The heat this year has been unusual, even for people who grew up here.",
+  "text_fr": "La chaleur cette année a été inhabituelle, même pour ceux qui ont grandi ici.",
+  "key_terms": [
+   "heat",
+   "to grow up"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "unusual": "un-YOO-zhoo-ul"
+  }
+ },
+ {
+  "id": "05-37",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Seen from above, the atoll looks like a necklace of tiny islands around a lagoon.",
+  "text_fr": "Vu d'en haut, l'atoll ressemble à un collier de minuscules îles autour d'un lagon.",
+  "key_terms": [
+   "to look like",
+   "tiny"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "necklace": "NEK-liss"
+  }
+ },
+ {
+  "id": "05-38",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Some reefs have recovered remarkably well after years of protection.",
+  "text_fr": "Certains récifs se sont remarquablement bien rétablis après des années de protection.",
+  "key_terms": [
+   "to recover"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "remarkably": "rih-MAR-kuh-blee"
+  }
+ },
+ {
+  "id": "05-39",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Despite the humidity, I find the rainy season peaceful and beautiful.",
+  "text_fr": "Malgré l'humidité, je trouve la saison des pluies paisible et belle.",
+  "key_terms": [
+   "despite",
+   "peaceful"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "humidity": "hyoo-MID-uh-tee",
+   "peaceful": "PEESS-ful"
+  }
+ },
+ {
+  "id": "05-40",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "The landslide was caused by heavy rain on hills where trees had been cut down.",
+  "text_fr": "Le glissement de terrain a été causé par de fortes pluies sur des collines déboisées.",
+  "key_terms": [
+   "to cause",
+   "to cut down"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "landslide": "LAND-slyde"
+  }
+ },
+ {
+  "id": "05-41",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Traditional knowledge about the ocean is being passed on to younger generations.",
+  "text_fr": "Les savoirs traditionnels sur l'océan sont transmis aux jeunes générations.",
+  "key_terms": [
+   "knowledge",
+   "to pass on"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ocean": "OH-shun"
+  }
+ },
+ {
+  "id": "05-42",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "If we keep polluting the ocean, there could one day be more plastic than fish.",
+  "text_fr": "Si nous continuons à polluer l'océan, il pourrait un jour y avoir plus de plastique que de poissons.",
+  "key_terms": [
+   "to keep",
+   "to pollute"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "polluting": "puh-LOO-ting"
+  }
+ },
+ {
+  "id": "05-43",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "The best time to watch birds is early in the morning, before it gets hot.",
+  "text_fr": "Le meilleur moment pour observer les oiseaux, c'est tôt le matin, avant qu'il fasse chaud.",
+  "key_terms": [
+   "early",
+   "best"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "birds": "berdz"
+  }
+ },
+ {
+  "id": "05-44",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Hiking alone in the mountains is not recommended, because the weather changes quickly.",
+  "text_fr": "Randonner seul en montagne est déconseillé, car le temps change vite.",
+  "key_terms": [
+   "alone",
+   "to recommend"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "recommended": "rek-uh-MEN-did"
+  }
+ },
+ {
+  "id": "05-45",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Many beaches are shrinking because of erosion and construction too close to the sea.",
+  "text_fr": "Beaucoup de plages rétrécissent à cause de l'érosion et des constructions trop proches de la mer.",
+  "key_terms": [
+   "because of",
+   "close"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "erosion": "ih-ROH-zhun",
+   "shrinking": "SHRING-king"
+  }
+ },
+ {
+  "id": "05-46",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Local communities have set up protected areas to let fish populations recover.",
+  "text_fr": "Les communautés locales ont créé des zones protégées pour permettre aux populations de poissons de se reconstituer.",
+  "key_terms": [
+   "to set up",
+   "to recover"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "populations": "pah-pyuh-LAY-shunz"
+  }
+ },
+ {
+  "id": "05-47",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Being surrounded by the ocean makes people more aware of how fragile nature is.",
+  "text_fr": "Être entouré par l'océan rend les gens plus conscients de la fragilité de la nature.",
+  "key_terms": [
+   "aware",
+   "surrounded"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "surrounded": "suh-ROWN-did",
+   "aware": "uh-WAIR"
+  }
+ },
+ {
+  "id": "05-48",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "We were told that the cyclone would miss the island, but nobody really relaxed.",
+  "text_fr": "On nous a dit que le cyclone éviterait l'île, mais personne ne s'est vraiment détendu.",
+  "key_terms": [
+   "nobody",
+   "to relax"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cyclone": "SY-klohn"
+  }
+ },
+ {
+  "id": "05-49",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Planting native trees helps prevent soil erosion and provides shade for everyone.",
+  "text_fr": "Planter des arbres indigènes aide à prévenir l'érosion des sols et offre de l'ombre à tous.",
+  "key_terms": [
+   "to prevent",
+   "shade"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "native": "NAY-tiv",
+   "soil": "soyl"
+  }
+ },
+ {
+  "id": "05-50",
+  "theme": 5,
+  "level": "B2",
+  "text_en": "Nature here is generous, but it can also be relentless.",
+  "text_fr": "Ici, la nature est généreuse, mais elle peut aussi être implacable.",
+  "key_terms": [
+   "generous",
+   "relentless"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "relentless": "rih-LENT-liss",
+   "generous": "JEN-er-us"
+  }
+ }
+]

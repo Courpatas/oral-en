@@ -1,0 +1,758 @@
+[
+ {
+  "id": "06-01",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Our flight leaves at nine, so we need to be at the airport by seven.",
+  "text_fr": "Notre vol part à neuf heures, donc nous devons être à l'aéroport avant sept heures.",
+  "key_terms": [
+   "flight",
+   "airport"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "airport": "AIR-port"
+  }
+ },
+ {
+  "id": "06-02",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Can I have a window seat, please? I love watching the islands from above.",
+  "text_fr": "Je peux avoir un hublot, s'il vous plaît ? J'adore regarder les îles d'en haut.",
+  "key_terms": [
+   "seat",
+   "above"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "seat": "seet"
+  }
+ },
+ {
+  "id": "06-03",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "The ferry to the next island takes about thirty minutes.",
+  "text_fr": "Le ferry pour l'île voisine met environ trente minutes.",
+  "key_terms": [
+   "ferry",
+   "island"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ferry": "FAIR-ee"
+  }
+ },
+ {
+  "id": "06-04",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Do not forget your passport, because you will need it at the gate.",
+  "text_fr": "N'oublie pas ton passeport, parce que tu en auras besoin à la porte d'embarquement.",
+  "key_terms": [
+   "passport",
+   "gate"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "passport": "PASS-port"
+  }
+ },
+ {
+  "id": "06-05",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "We rented a scooter to explore the island at our own pace.",
+  "text_fr": "Nous avons loué un scooter pour explorer l'île à notre rythme.",
+  "key_terms": [
+   "to rent",
+   "pace"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "scooter": "SKOO-ter",
+   "explore": "ik-SPLOR"
+  }
+ },
+ {
+  "id": "06-06",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Excuse me, how far is the bus station from here?",
+  "text_fr": "Excusez-moi, la gare routière est à quelle distance d'ici ?",
+  "key_terms": [
+   "how far",
+   "station"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "excuse": "ik-SKYOOZ"
+  }
+ },
+ {
+  "id": "06-07",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "I always pack too many clothes, even for a short trip.",
+  "text_fr": "Je mets toujours trop de vêtements dans ma valise, même pour un court voyage.",
+  "key_terms": [
+   "to pack",
+   "trip"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "clothes": "klohz"
+  }
+ },
+ {
+  "id": "06-08",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Our flight was delayed by two hours because of a technical problem.",
+  "text_fr": "Notre vol a été retardé de deux heures à cause d'un problème technique.",
+  "key_terms": [
+   "delay",
+   "because of"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "technical": "TEK-nih-kul"
+  }
+ },
+ {
+  "id": "06-09",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "We missed the last bus, so we had to take a taxi.",
+  "text_fr": "Nous avons raté le dernier bus, alors nous avons dû prendre un taxi.",
+  "key_terms": [
+   "to miss",
+   "taxi"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "taxi": "TAK-see"
+  }
+ },
+ {
+  "id": "06-10",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Could you give me directions to the nearest pharmacy?",
+  "text_fr": "Pourriez-vous m'indiquer le chemin de la pharmacie la plus proche ?",
+  "key_terms": [
+   "directions",
+   "pharmacy"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "pharmacy": "FAR-muh-see"
+  }
+ },
+ {
+  "id": "06-11",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "I prefer an aisle seat on long flights so that I can stretch my legs.",
+  "text_fr": "Je préfère une place côté couloir sur les longs vols pour pouvoir étendre mes jambes.",
+  "key_terms": [
+   "aisle",
+   "so that"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "aisle": "ile"
+  }
+ },
+ {
+  "id": "06-12",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "The hotel room had a beautiful view of the lagoon.",
+  "text_fr": "La chambre d'hôtel avait une très belle vue sur le lagon.",
+  "key_terms": [
+   "hotel",
+   "view"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "hotel": "hoh-TEL"
+  }
+ },
+ {
+  "id": "06-13",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Check-out is at eleven, but we can leave our luggage at reception.",
+  "text_fr": "Il faut libérer la chambre à onze heures, mais on peut laisser nos bagages à la réception.",
+  "key_terms": [
+   "to check out",
+   "luggage"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "luggage": "LUG-ij",
+   "reception": "rih-SEP-shun"
+  }
+ },
+ {
+  "id": "06-14",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "We got lost in the city, but a friendly local helped us.",
+  "text_fr": "Nous nous sommes perdus en ville, mais un habitant sympathique nous a aidés.",
+  "key_terms": [
+   "lost",
+   "local"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "friendly": "FREND-lee"
+  }
+ },
+ {
+  "id": "06-15",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "How long does the flight to New Zealand take?",
+  "text_fr": "Combien de temps dure le vol pour la Nouvelle-Zélande ?",
+  "key_terms": [
+   "how long",
+   "flight"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "zealand": "ZEE-lund"
+  }
+ },
+ {
+  "id": "06-16",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "I booked a double room for three nights in a small guesthouse.",
+  "text_fr": "J'ai réservé une chambre double pour trois nuits dans une petite pension.",
+  "key_terms": [
+   "to book",
+   "guesthouse"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "guesthouse": "GEST-howss"
+  }
+ },
+ {
+  "id": "06-17",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Please fasten your seat belt, because we are about to land.",
+  "text_fr": "Veuillez attacher votre ceinture, car nous allons atterrir.",
+  "key_terms": [
+   "seat belt",
+   "to land"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fasten": "FASS-un"
+  }
+ },
+ {
+  "id": "06-18",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "I had terrible jet lag for a week after my trip to Paris.",
+  "text_fr": "J'ai eu un décalage horaire terrible pendant une semaine après mon voyage à Paris.",
+  "key_terms": [
+   "jet lag",
+   "trip"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "jet": "jet"
+  }
+ },
+ {
+  "id": "06-19",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "The traffic is terrible during rush hour, so I cycle to work.",
+  "text_fr": "La circulation est terrible aux heures de pointe, alors je vais au travail à vélo.",
+  "key_terms": [
+   "traffic",
+   "rush hour"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "traffic": "TRAF-ik"
+  }
+ },
+ {
+  "id": "06-20",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "We had a long layover in Los Angeles on the way to Paris.",
+  "text_fr": "Nous avons eu une longue escale à Los Angeles en allant à Paris.",
+  "key_terms": [
+   "layover"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "layover": "LAY-oh-ver",
+   "angeles": "AN-juh-luss"
+  }
+ },
+ {
+  "id": "06-21",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "Is breakfast included in the price of the room?",
+  "text_fr": "Le petit-déjeuner est-il compris dans le prix de la chambre ?",
+  "key_terms": [
+   "included",
+   "price"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "included": "in-KLOO-did"
+  }
+ },
+ {
+  "id": "06-22",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "I lost my bag at the airport, but they found it the next day.",
+  "text_fr": "J'ai perdu mon sac à l'aéroport, mais ils l'ont retrouvé le lendemain.",
+  "key_terms": [
+   "to lose",
+   "to find"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "found": "fownd"
+  }
+ },
+ {
+  "id": "06-23",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "We took a guided tour of the old town on our first day.",
+  "text_fr": "Nous avons fait une visite guidée de la vieille ville le premier jour.",
+  "key_terms": [
+   "tour",
+   "guide"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "guided": "GY-did"
+  }
+ },
+ {
+  "id": "06-24",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "A return ticket is much cheaper than two one-way tickets.",
+  "text_fr": "Un aller-retour coûte bien moins cher que deux allers simples.",
+  "key_terms": [
+   "return ticket",
+   "one-way ticket"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ticket": "TIK-it"
+  }
+ },
+ {
+  "id": "06-25",
+  "theme": 6,
+  "level": "B1",
+  "text_en": "If you travel in July, book your flights as early as possible.",
+  "text_fr": "Si tu voyages en juillet, réserve tes vols le plus tôt possible.",
+  "key_terms": [
+   "to book",
+   "as early as possible"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "possible": "PAH-suh-bul"
+  }
+ },
+ {
+  "id": "06-26",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Traveling between the islands is expensive, so many families rarely leave their own island.",
+  "text_fr": "Voyager entre les îles coûte cher, alors beaucoup de familles quittent rarement leur île.",
+  "key_terms": [
+   "expensive",
+   "rarely"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "traveling": "TRAV-uh-ling"
+  }
+ },
+ {
+  "id": "06-27",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "The flight was cancelled at the last minute, and the airline offered us a refund.",
+  "text_fr": "Le vol a été annulé à la dernière minute, et la compagnie nous a proposé un remboursement.",
+  "key_terms": [
+   "refund",
+   "cancelled"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "refund": "REE-fund",
+   "airline": "AIR-lyne"
+  }
+ },
+ {
+  "id": "06-28",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Having traveled a lot, I have learned to pack only what I really need.",
+  "text_fr": "Ayant beaucoup voyagé, j'ai appris à n'emporter que ce dont j'ai vraiment besoin.",
+  "key_terms": [
+   "to pack",
+   "to learn"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "traveled": "TRAV-uld"
+  }
+ },
+ {
+  "id": "06-29",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "The boat that supplies the outer islands only comes once every two weeks.",
+  "text_fr": "Le bateau qui ravitaille les îles éloignées ne passe qu'une fois toutes les deux semaines.",
+  "key_terms": [
+   "once",
+   "to supply"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "supplies": "suh-PLYZE"
+  }
+ },
+ {
+  "id": "06-30",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Air travel is essential here, yet it has a huge impact on the climate.",
+  "text_fr": "L'avion est indispensable ici, et pourtant il a un impact énorme sur le climat.",
+  "key_terms": [
+   "yet",
+   "huge"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "impact": "IM-pakt"
+  }
+ },
+ {
+  "id": "06-31",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "We were stuck at the airport for hours, which gave us time to explore the shops.",
+  "text_fr": "Nous sommes restés bloqués des heures à l'aéroport, ce qui nous a laissé le temps d'explorer les boutiques.",
+  "key_terms": [
+   "stuck",
+   "which"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "stuck": "stuk"
+  }
+ },
+ {
+  "id": "06-32",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Before you go, check whether you need a visa and travel insurance.",
+  "text_fr": "Avant de partir, vérifie si tu as besoin d'un visa et d'une assurance voyage.",
+  "key_terms": [
+   "whether",
+   "insurance"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "visa": "VEE-zuh",
+   "insurance": "in-SHOOR-unss"
+  }
+ },
+ {
+  "id": "06-33",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Driving on the left was confusing at first, but I got used to it quickly.",
+  "text_fr": "Conduire à gauche m'a dérouté au début, mais je m'y suis vite habitué.",
+  "key_terms": [
+   "at first",
+   "to get used to"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "confusing": "kun-FYOO-zing"
+  }
+ },
+ {
+  "id": "06-34",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Public transport is limited on the island, so most families depend on their cars.",
+  "text_fr": "Les transports en commun sont limités sur l'île, alors la plupart des familles dépendent de leur voiture.",
+  "key_terms": [
+   "to depend on",
+   "limited"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "transport": "TRANSS-port"
+  }
+ },
+ {
+  "id": "06-35",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Slow travel means taking the time to really get to know a place.",
+  "text_fr": "Voyager lentement, c'est prendre le temps de vraiment connaître un lieu.",
+  "key_terms": [
+   "to get to know"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "travel": "TRAV-ul"
+  }
+ },
+ {
+  "id": "06-36",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "We would have missed our connection if the plane had not landed early.",
+  "text_fr": "Nous aurions raté notre correspondance si l'avion n'avait pas atterri en avance.",
+  "key_terms": [
+   "connection",
+   "to land"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "connection": "kuh-NEK-shun"
+  }
+ },
+ {
+  "id": "06-37",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Traveling with young children requires patience and a good sense of humor.",
+  "text_fr": "Voyager avec de jeunes enfants demande de la patience et un bon sens de l'humour.",
+  "key_terms": [
+   "patient",
+   "humor"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "patience": "PAY-shunss"
+  }
+ },
+ {
+  "id": "06-38",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "The road around the island is narrow, and cyclists have to be very careful.",
+  "text_fr": "La route qui fait le tour de l'île est étroite, et les cyclistes doivent être très prudents.",
+  "key_terms": [
+   "narrow",
+   "careful"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cyclists": "SY-klists"
+  }
+ },
+ {
+  "id": "06-39",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Our trip was a mix of adventure, rest and long conversations with locals.",
+  "text_fr": "Notre voyage a été un mélange d'aventure, de repos et de longues conversations avec les habitants.",
+  "key_terms": [
+   "trip",
+   "rest"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "adventure": "ad-VEN-cher"
+  }
+ },
+ {
+  "id": "06-40",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "I made a complaint because the room did not match the photos on the website.",
+  "text_fr": "J'ai fait une réclamation parce que la chambre ne correspondait pas aux photos du site.",
+  "key_terms": [
+   "complaint",
+   "to match"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "complaint": "kum-PLAYNT"
+  }
+ },
+ {
+  "id": "06-41",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Mass tourism can disrupt local life, especially on small and fragile islands.",
+  "text_fr": "Le tourisme de masse peut bouleverser la vie locale, surtout sur des îles petites et fragiles.",
+  "key_terms": [
+   "to disrupt",
+   "especially"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tourism": "TOOR-iz-um"
+  }
+ },
+ {
+  "id": "06-42",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "The bus timetable changes so often that nobody really relies on it.",
+  "text_fr": "Les horaires de bus changent si souvent que personne ne s'y fie vraiment.",
+  "key_terms": [
+   "timetable",
+   "to rely on"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "timetable": "TYME-tay-bul"
+  }
+ },
+ {
+  "id": "06-43",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Electric bikes are becoming popular, since they make the hills much easier to climb.",
+  "text_fr": "Les vélos électriques deviennent populaires, puisqu'ils rendent les côtes bien plus faciles à monter.",
+  "key_terms": [
+   "since",
+   "to climb"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "electric": "ih-LEK-trik",
+   "climb": "klyme"
+  }
+ },
+ {
+  "id": "06-44",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "We decided to stay in a family guesthouse rather than a big international hotel.",
+  "text_fr": "Nous avons décidé de loger dans une pension familiale plutôt que dans un grand hôtel international.",
+  "key_terms": [
+   "rather than",
+   "to stay"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "international": "in-ter-NASH-uh-nul"
+  }
+ },
+ {
+  "id": "06-45",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Customs officers checked every bag carefully, so it took us an hour to get out.",
+  "text_fr": "Les douaniers ont vérifié chaque sac attentivement, alors il nous a fallu une heure pour sortir.",
+  "key_terms": [
+   "customs",
+   "carefully"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "customs": "KUSS-tumz",
+   "officers": "AW-fih-serz"
+  }
+ },
+ {
+  "id": "06-46",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Despite the delay, the crew remained calm and kept everyone informed.",
+  "text_fr": "Malgré le retard, l'équipage est resté calme et a tenu tout le monde informé.",
+  "key_terms": [
+   "despite",
+   "to remain"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "crew": "kroo"
+  }
+ },
+ {
+  "id": "06-47",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "Traveling alone pushed me out of my comfort zone, in a good way.",
+  "text_fr": "Voyager seul m'a fait sortir de ma zone de confort, dans le bon sens.",
+  "key_terms": [
+   "alone",
+   "comfort"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "comfort": "KUM-fert"
+  }
+ },
+ {
+  "id": "06-48",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "I never travel without a reusable water bottle and a small first-aid kit.",
+  "text_fr": "Je ne voyage jamais sans une gourde réutilisable et une petite trousse de secours.",
+  "key_terms": [
+   "never",
+   "bottle"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "reusable": "ree-YOO-zuh-bul"
+  }
+ },
+ {
+  "id": "06-49",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "The expedition to the remote atoll took three days by cargo ship.",
+  "text_fr": "L'expédition vers l'atoll isolé a pris trois jours en cargo.",
+  "key_terms": [
+   "expedition",
+   "remote"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "expedition": "ek-spuh-DISH-un",
+   "atoll": "AT-awl"
+  }
+ },
+ {
+  "id": "06-50",
+  "theme": 6,
+  "level": "B2",
+  "text_en": "The best souvenirs are not the things you buy, but the people you meet.",
+  "text_fr": "Les meilleurs souvenirs ne sont pas les choses qu'on achète, mais les gens qu'on rencontre.",
+  "key_terms": [
+   "souvenir",
+   "to meet"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "souvenirs": "soo-vuh-NEERZ"
+  }
+ }
+]

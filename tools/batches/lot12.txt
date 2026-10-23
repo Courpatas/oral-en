@@ -1,0 +1,51 @@
+# Thème 2 — Courses et repas
+02-01 | B1 | I go to the market every Saturday morning to buy fresh fruit. | Je vais au marché tous les samedis matin pour acheter des fruits frais. | market; fresh; fruit | fruit=froot; saturday=SAT-er-day
+02-02 | B1 | How much is a kilo of tomatoes at the market today? | Combien coûte le kilo de tomates au marché aujourd'hui ? | how much | kilo=KEE-loh; tomatoes=tuh-MAY-tohz
+02-03 | B1 | Could we have a table for two near the window, please? | Pourrions-nous avoir une table pour deux près de la fenêtre, s'il vous plaît ? | table for two; near | table=TAY-bul
+02-04 | B1 | I would like the fish of the day with rice and salad. | Je voudrais le poisson du jour avec du riz et de la salade. | fish; rice; salad | salad=SAL-ud
+02-05 | B1 | Can we have the bill, please? We are in a bit of a hurry. | On peut avoir l'addition, s'il vous plaît ? Nous sommes un peu pressés. | bill; hurry | hurry=HUR-ee
+02-06 | B1 | There is no milk left, so I need to go to the supermarket. | Il n'y a plus de lait, alors je dois aller au supermarché. | milk; supermarket | supermarket=SOO-per-mar-kit
+02-07 | B1 | Raw tuna with coconut milk is a typical dish in the islands. | Le thon cru au lait de coco est un plat typique des îles. | tuna; coconut | coconut=KOH-kuh-nut; typical=TIP-ih-kul
+02-08 | B1 | Do you take sugar in your coffee, or do you prefer it black? | Tu prends du sucre dans ton café, ou tu le préfères noir ? | sugar; to prefer | sugar=SHOOG-er
+02-09 | B1 | I usually have a light breakfast and a big lunch. | D'habitude, je prends un petit-déjeuner léger et un gros déjeuner. | breakfast; lunch; light | breakfast=BREK-fust
+02-10 | B1 | This recipe is easy, and it only takes twenty minutes to prepare. | Cette recette est facile, et elle ne prend que vingt minutes à préparer. | recipe; easy | recipe=RESS-uh-pee
+02-11 | B1 | Chop the onion finely and add two cloves of garlic. | Hache l'oignon finement et ajoute deux gousses d'ail. | onion; garlic | onion=UN-yun; garlic=GAR-lik
+02-12 | B1 | Pineapples and mangoes are much cheaper here during the summer. | Les ananas et les mangues sont bien moins chers ici pendant l'été. | pineapple; mango; cheap | pineapples=PYNE-ap-ulz; mangoes=MANG-gohz
+02-13 | B1 | I am allergic to peanuts, so I always read the labels carefully. | Je suis allergique aux cacahuètes, alors je lis toujours attentivement les étiquettes. | allergy; carefully | allergic=uh-LER-jik; labels=LAY-bulz
+02-14 | B1 | What would you like for dessert, chocolate cake or fresh fruit? | Que veux-tu en dessert, du gâteau au chocolat ou des fruits frais ? | dessert; cake | dessert=dih-ZERT; chocolate=CHAWK-lit
+02-15 | B1 | We left a big tip because the waiter was really friendly. | Nous avons laissé un gros pourboire parce que le serveur était vraiment sympathique. | tip; friendly | waiter=WAY-ter
+02-16 | B1 | My partner does most of the cooking, and I do the shopping. | Ma compagne fait la plupart de la cuisine, et moi je fais les courses. | to cook; partner | shopping=SHAH-ping
+02-17 | B1 | Do not forget to put the fish in the freezer when you get home. | N'oublie pas de mettre le poisson au congélateur en rentrant. | freezer; to forget | freezer=FREE-zer
+02-18 | B1 | The bakery opens very early, so the bread is still warm at six. | La boulangerie ouvre très tôt, alors le pain est encore chaud à six heures. | bakery; early; warm | bakery=BAY-ker-ee
+02-19 | B1 | I am hungry, so shall we stop for a snack before the hike? | J'ai faim, on s'arrête pour un en-cas avant la randonnée ? | hungry; snack | hungry=HUNG-gree
+02-20 | B1 | We had grilled prawns and a green salad for dinner last night. | Nous avons mangé des crevettes grillées et une salade verte hier soir. | prawn; dinner | prawns=prawnz
+02-21 | B1 | Could you pass me the salt and pepper, please? | Tu peux me passer le sel et le poivre, s'il te plaît ? | salt; pepper | pepper=PEP-er
+02-22 | B1 | This soup is too hot, so I will wait a few minutes before eating it. | Cette soupe est trop chaude, alors je vais attendre quelques minutes avant de la manger. | soup; hot | minutes=MIN-its
+02-23 | B1 | We always try to buy local vegetables when they are in season. | Nous essayons toujours d'acheter des légumes locaux quand c'est la saison. | vegetable; local | season=SEE-zun
+02-24 | B1 | Let's cook together tonight instead of ordering food again. | Cuisinons ensemble ce soir au lieu de commander encore à manger. | instead of; to cook | ordering=OR-der-ing
+02-25 | B1 | If you go to the supermarket, could you buy some eggs and butter? | Si tu vas au supermarché, tu pourrais acheter des œufs et du beurre ? | egg; butter | butter=BUT-er
+02-26 | B2 | Imported food is expensive on the islands because almost everything arrives by ship. | Les produits importés sont chers sur les îles parce que presque tout arrive par bateau. | expensive; almost | imported=im-POR-tid
+02-27 | B2 | I have been trying to cut down on sugar, but my cravings are hard to resist. | J'essaie de réduire le sucre, mais mes envies sont difficiles à refréner. | craving; to cut down | cravings=KRAY-vingz; resist=rih-ZIST
+02-28 | B2 | Potatoes and rice are rich in starch, while vegetables provide most of our fiber. | Les pommes de terre et le riz sont riches en amidon, alors que les légumes apportent l'essentiel de nos fibres. | starch; fiber; while | starch=starch; potatoes=puh-TAY-tohz
+02-29 | B2 | Ever since I started cooking at home, I have spent much less on food. | Depuis que je cuisine à la maison, je dépense beaucoup moins pour la nourriture. | to spend; since | spent=spent
+02-30 | B2 | Reading food labels has become a habit, especially for products aimed at children. | Lire les étiquettes est devenu une habitude, surtout pour les produits destinés aux enfants. | especially; habit | products=PRAH-dukts
+02-31 | B2 | The restaurant was fully booked, so we ended up eating at a small food truck. | Le restaurant était complet, alors nous avons fini par manger dans un petit camion-restaurant. | to book; to end up | restaurant=RESS-tuh-rahnt
+02-32 | B2 | Fresh fish is cheaper than chicken here, which surprises most visitors. | Ici, le poisson frais est moins cher que le poulet, ce qui surprend la plupart des visiteurs. | chicken; which | visitors=VIZ-ih-terz
+02-33 | B2 | We try to plan our meals for the week so that we waste less food. | Nous essayons de planifier nos repas de la semaine pour moins gaspiller. | meal; so that | waste=wayst
+02-34 | B2 | Healthy food should be affordable, otherwise only wealthy families can eat well. | Une alimentation saine devrait être abordable, sinon seules les familles aisées peuvent bien manger. | affordable; otherwise | affordable=uh-FOR-duh-bul; wealthy=WEL-thee
+02-35 | B2 | The waiter recommended a local dish that I would never have chosen myself. | Le serveur a recommandé un plat local que je n'aurais jamais choisi moi-même. | to recommend; to choose | chosen=CHOH-zun
+02-36 | B2 | Sugary drinks are one of the main sources of added sugar in teenagers' diets. | Les boissons sucrées sont l'une des principales sources de sucres ajoutés dans l'alimentation des adolescents. | diet; teenager | sugary=SHOOG-er-ee
+02-37 | B2 | Eating together as a family has become rarer, partly because of busy schedules. | Manger ensemble en famille est devenu plus rare, en partie à cause d'emplois du temps chargés. | partly; busy | schedules=SKEJ-oolz
+02-38 | B2 | I prefer small local shops, even if prices are somewhat higher. | Je préfère les petits commerces locaux, même si les prix sont un peu plus élevés. | somewhat; shop | somewhat=SUM-wut
+02-39 | B2 | Our grandparents ate much less processed food than we do today. | Nos grands-parents mangeaient beaucoup moins d'aliments transformés que nous aujourd'hui. | to eat; less | processed=PRAH-sest
+02-40 | B2 | Supermarkets place sweets near the checkout because they know we buy on impulse. | Les supermarchés placent les confiseries près des caisses parce qu'ils savent que nous achetons sur un coup de tête. | near; to know | checkout=CHEK-owt; impulse=IM-pulss
+02-41 | B2 | Cooking with fresh ingredients takes longer, but the taste is worth it. | Cuisiner avec des produits frais prend plus de temps, mais le goût en vaut la peine. | worth it; fresh | ingredients=in-GREE-dee-unts
+02-42 | B2 | The price of vegetables doubled after the storm destroyed many farms. | Le prix des légumes a doublé après que la tempête a détruit de nombreuses exploitations. | double; storm | destroyed=dih-STROYD
+02-43 | B2 | Had I known the restaurant was closed, I would have cooked at home. | Si j'avais su que le restaurant était fermé, j'aurais cuisiné à la maison. | to know; closed | known=nohn
+02-44 | B2 | In the islands, sharing food is a way of showing respect and gratitude. | Dans les îles, partager la nourriture est une façon de montrer son respect et sa gratitude. | to share; grateful | gratitude=GRAT-ih-tood
+02-45 | B2 | Breadfruit used to be a staple food, and it is coming back into fashion. | Le uru était autrefois un aliment de base, et il revient à la mode. | used to | breadfruit=BRED-froot; staple=STAY-pul
+02-46 | B2 | Many families grow their own fruit, which helps them save money and eat better. | Beaucoup de familles cultivent leurs propres fruits, ce qui les aide à économiser et à mieux manger. | to grow; to save | money=MUN-ee
+02-47 | B2 | I asked for the dressing on the side, because the salad looked very rich. | J'ai demandé la sauce à part, parce que la salade avait l'air très riche. | rich; to ask | dressing=DRESS-ing
+02-48 | B2 | Ordering food online is convenient, but the delivery fees add up quickly. | Commander à manger en ligne est pratique, mais les frais de livraison s'accumulent vite. | online; quickly | convenient=kun-VEEN-yunt; delivery=dih-LIV-er-ee
+02-49 | B2 | A balanced diet does not mean giving up everything you enjoy. | Une alimentation équilibrée ne veut pas dire renoncer à tout ce qu'on aime. | to give up; diet | balanced=BAL-unst
+02-50 | B2 | Food is not only fuel, it is also culture, memory and pleasure. | La nourriture n'est pas seulement un carburant, c'est aussi une culture, des souvenirs et du plaisir. | not only; pleasure | pleasure=PLEZH-er; culture=KUL-cher

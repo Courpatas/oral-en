@@ -1,0 +1,862 @@
+[
+ {
+  "id": "16-01",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "My research uses a qualitative approach based on interviews and observation.",
+  "text_fr": "Ma recherche adopte une approche qualitative fondée sur des entretiens et de l'observation.",
+  "key_terms": [
+   "research",
+   "interview"
+  ],
+  "thesis_terms": [
+   "qualitative approach"
+  ],
+  "pronunciation_notes": {
+   "qualitative": "KWAH-luh-tay-tiv",
+   "observation": "ahb-zer-VAY-shun"
+  }
+ },
+ {
+  "id": "16-02",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "I chose a qualitative approach because I want to understand people's experiences.",
+  "text_fr": "J'ai choisi une approche qualitative parce que je veux comprendre l'expérience des gens.",
+  "key_terms": [
+   "to choose",
+   "to understand"
+  ],
+  "thesis_terms": [
+   "qualitative approach"
+  ],
+  "pronunciation_notes": {
+   "approach": "uh-PROHCH",
+   "experiences": "ik-SPEER-ee-un-siz"
+  }
+ },
+ {
+  "id": "16-03",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Action research involves practitioners in every step of the study.",
+  "text_fr": "La recherche-action associe les praticiens à chaque étape de l'étude.",
+  "key_terms": [
+   "to be involved",
+   "step"
+  ],
+  "thesis_terms": [
+   "action research"
+  ],
+  "pronunciation_notes": {
+   "practitioners": "prak-TISH-uh-nerz"
+  }
+ },
+ {
+  "id": "16-04",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "As a practitioner-researcher, I work inside the system that I study.",
+  "text_fr": "En tant que praticien-chercheur, je travaille à l'intérieur du système que j'étudie.",
+  "key_terms": [
+   "inside"
+  ],
+  "thesis_terms": [
+   "practitioner-researcher"
+  ],
+  "pronunciation_notes": {
+   "researcher": "REE-ser-cher"
+  }
+ },
+ {
+  "id": "16-05",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "The resource group met every month to discuss the project.",
+  "text_fr": "Le groupe ressource s'est réuni chaque mois pour discuter du projet.",
+  "key_terms": [
+   "to meet",
+   "month"
+  ],
+  "thesis_terms": [
+   "resource group"
+  ],
+  "pronunciation_notes": {
+   "resource": "REE-sorss"
+  }
+ },
+ {
+  "id": "16-06",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Fieldwork took place on three islands between March and June.",
+  "text_fr": "Le travail de terrain s'est déroulé sur trois îles entre mars et juin.",
+  "key_terms": [
+   "to take place",
+   "between"
+  ],
+  "thesis_terms": [
+   "fieldwork"
+  ],
+  "pronunciation_notes": {
+   "fieldwork": "FEELD-werk"
+  }
+ },
+ {
+  "id": "16-07",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "My research question concerns the gap between policy and practice.",
+  "text_fr": "Ma question de recherche porte sur l'écart entre la politique et la pratique.",
+  "key_terms": [
+   "gap"
+  ],
+  "thesis_terms": [
+   "research question"
+  ],
+  "pronunciation_notes": {
+   "question": "KWESS-chun"
+  }
+ },
+ {
+  "id": "16-08",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Each interview lasted about one hour and was recorded with permission.",
+  "text_fr": "Chaque entretien a duré environ une heure et a été enregistré avec autorisation.",
+  "key_terms": [
+   "to last",
+   "permission"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "permission": "per-MISH-un"
+  }
+ },
+ {
+  "id": "16-09",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Before each interview, participants signed an informed consent form.",
+  "text_fr": "Avant chaque entretien, les participants ont signé un formulaire de consentement éclairé.",
+  "key_terms": [
+   "to sign",
+   "form"
+  ],
+  "thesis_terms": [
+   "participant, respondent",
+   "informed consent"
+  ],
+  "pronunciation_notes": {
+   "consent": "kun-SENT",
+   "informed": "in-FORMD"
+  }
+ },
+ {
+  "id": "16-10",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "The interview guide contains eight open questions and a few follow-up prompts.",
+  "text_fr": "Le guide d'entretien contient huit questions ouvertes et quelques relances.",
+  "key_terms": [
+   "to contain",
+   "a few"
+  ],
+  "thesis_terms": [
+   "interview guide"
+  ],
+  "pronunciation_notes": {
+   "guide": "gyde",
+   "prompts": "prahmpts"
+  }
+ },
+ {
+  "id": "16-11",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "The methodology is explained in detail in the third chapter of my thesis.",
+  "text_fr": "La méthodologie est expliquée en détail dans le troisième chapitre de ma thèse.",
+  "key_terms": [
+   "thesis",
+   "chapter"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "methodology": "meth-uh-DAH-luh-jee",
+   "thesis": "THEE-sis"
+  }
+ },
+ {
+  "id": "16-12",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Our sample includes thirty teachers from different islands.",
+  "text_fr": "Notre échantillon comprend trente enseignants de différentes îles.",
+  "key_terms": [
+   "to include"
+  ],
+  "thesis_terms": [
+   "sample"
+  ],
+  "pronunciation_notes": {
+   "sample": "SAM-pul"
+  }
+ },
+ {
+  "id": "16-13",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "I took notes during every visit and wrote a short summary each evening.",
+  "text_fr": "J'ai pris des notes à chaque visite et rédigé un court résumé chaque soir.",
+  "key_terms": [
+   "to take notes",
+   "summary"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "summary": "SUM-uh-ree"
+  }
+ },
+ {
+  "id": "16-14",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Ethnography requires long periods of observation in the field.",
+  "text_fr": "L'ethnographie exige de longues périodes d'observation sur le terrain.",
+  "key_terms": [
+   "to require",
+   "field"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "ethnography": "eth-NAH-gruh-fee"
+  }
+ },
+ {
+  "id": "16-15",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "The findings suggest that teachers adapt the policy to local conditions.",
+  "text_fr": "Les résultats suggèrent que les enseignants adaptent la politique aux conditions locales.",
+  "key_terms": [
+   "findings",
+   "to suggest"
+  ],
+  "thesis_terms": [
+   "findings"
+  ],
+  "pronunciation_notes": {
+   "findings": "FYN-dingz"
+  }
+ },
+ {
+  "id": "16-16",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Transcribing interviews takes much longer than conducting them.",
+  "text_fr": "Transcrire les entretiens prend beaucoup plus de temps que les mener.",
+  "key_terms": [
+   "longer"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "transcribing": "tran-SKRY-bing",
+   "conducting": "kun-DUK-ting"
+  }
+ },
+ {
+  "id": "16-17",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Coding was done manually, then checked by a colleague.",
+  "text_fr": "Le codage a été fait à la main, puis vérifié par un collègue.",
+  "key_terms": [
+   "colleague",
+   "to check"
+  ],
+  "thesis_terms": [
+   "coding"
+  ],
+  "pronunciation_notes": {
+   "manually": "MAN-yoo-uh-lee"
+  }
+ },
+ {
+  "id": "16-18",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "I kept a research diary to record my doubts and decisions.",
+  "text_fr": "J'ai tenu un journal de recherche pour noter mes doutes et mes décisions.",
+  "key_terms": [
+   "to keep",
+   "diary"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "diary": "DY-uh-ree",
+   "doubts": "dowts"
+  }
+ },
+ {
+  "id": "16-19",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "Each respondent received a summary of the results at the end.",
+  "text_fr": "Chaque répondant a reçu un résumé des résultats à la fin.",
+  "key_terms": [
+   "to receive",
+   "result"
+  ],
+  "thesis_terms": [
+   "participant, respondent"
+  ],
+  "pronunciation_notes": {
+   "respondent": "rih-SPAHN-dunt"
+  }
+ },
+ {
+  "id": "16-20",
+  "theme": 16,
+  "level": "B1",
+  "text_en": "The limitations of this study are discussed in the final chapter.",
+  "text_fr": "Les limites de cette étude sont discutées dans le dernier chapitre.",
+  "key_terms": [
+   "limitations",
+   "final"
+  ],
+  "thesis_terms": [
+   "limitations"
+  ],
+  "pronunciation_notes": {
+   "limitations": "lim-ih-TAY-shunz"
+  }
+ },
+ {
+  "id": "16-21",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "My research design combines semi-structured interviews, observation and document analysis.",
+  "text_fr": "Mon dispositif de recherche combine entretiens semi-directifs, observation et analyse documentaire.",
+  "key_terms": [
+   "to combine"
+  ],
+  "thesis_terms": [
+   "research design",
+   "semi-structured interviews"
+  ],
+  "pronunciation_notes": {
+   "semi-structured": "sem-ee-STRUK-cherd",
+   "analysis": "uh-NAL-uh-sis"
+  }
+ },
+ {
+  "id": "16-22",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "The research design evolved as the resource group raised new questions.",
+  "text_fr": "Le dispositif de recherche a évolué à mesure que le groupe ressource soulevait de nouvelles questions.",
+  "key_terms": [
+   "to evolve",
+   "to raise"
+  ],
+  "thesis_terms": [
+   "research design",
+   "resource group"
+  ],
+  "pronunciation_notes": {
+   "evolved": "ih-VAHLVD"
+  }
+ },
+ {
+  "id": "16-23",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Action research aims to change practice while producing knowledge about it.",
+  "text_fr": "La recherche-action vise à transformer la pratique tout en produisant des connaissances sur elle.",
+  "key_terms": [
+   "knowledge",
+   "while"
+  ],
+  "thesis_terms": [
+   "action research"
+  ],
+  "pronunciation_notes": {
+   "knowledge": "NAH-lij"
+  }
+ },
+ {
+  "id": "16-24",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Being a practitioner-researcher gives me access, but it also raises questions of distance.",
+  "text_fr": "Être praticien-chercheur me donne un accès, mais pose aussi des questions de distance.",
+  "key_terms": [
+   "access",
+   "distance"
+  ],
+  "thesis_terms": [
+   "practitioner-researcher"
+  ],
+  "pronunciation_notes": {
+   "practitioner": "prak-TISH-uh-ner"
+  }
+ },
+ {
+  "id": "16-25",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Fieldwork in remote islands depends heavily on boat schedules and the weather.",
+  "text_fr": "Le travail de terrain dans les îles éloignées dépend beaucoup des horaires de bateau et de la météo.",
+  "key_terms": [
+   "to depend on",
+   "weather"
+  ],
+  "thesis_terms": [
+   "fieldwork"
+  ],
+  "pronunciation_notes": {
+   "schedules": "SKEJ-oolz"
+  }
+ },
+ {
+  "id": "16-26",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "A good research question is narrow enough to answer and broad enough to matter.",
+  "text_fr": "Une bonne question de recherche est assez précise pour y répondre et assez large pour compter.",
+  "key_terms": [
+   "narrow",
+   "enough"
+  ],
+  "thesis_terms": [
+   "research question"
+  ],
+  "pronunciation_notes": {
+   "broad": "brawd",
+   "narrow": "NAIR-oh"
+  }
+ },
+ {
+  "id": "16-27",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "My initial hypothesis was only partly confirmed by the fieldwork.",
+  "text_fr": "Mon hypothèse de départ n'a été que partiellement confirmée par le terrain.",
+  "key_terms": [
+   "partly",
+   "to confirm"
+  ],
+  "thesis_terms": [
+   "fieldwork",
+   "hypothesis (pl. hypotheses)"
+  ],
+  "pronunciation_notes": {
+   "hypothesis": "hy-PAH-thuh-sis"
+  }
+ },
+ {
+  "id": "16-28",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "The hypothesis that teachers resist the reform turned out to be too simple.",
+  "text_fr": "L'hypothèse selon laquelle les enseignants résistent à la réforme s'est révélée trop simple.",
+  "key_terms": [
+   "to turn out"
+  ],
+  "thesis_terms": [
+   "hypothesis (pl. hypotheses)"
+  ],
+  "pronunciation_notes": {
+   "hypothesis": "hy-PAH-thuh-sis",
+   "resist": "rih-ZIST"
+  }
+ },
+ {
+  "id": "16-29",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Semi-structured interviews let participants raise topics that I had not anticipated.",
+  "text_fr": "Les entretiens semi-directifs permettent aux participants d'aborder des sujets que je n'avais pas anticipés.",
+  "key_terms": [
+   "to let",
+   "topic"
+  ],
+  "thesis_terms": [
+   "semi-structured interviews",
+   "participant, respondent"
+  ],
+  "pronunciation_notes": {
+   "anticipated": "an-TISS-uh-pay-tid"
+  }
+ },
+ {
+  "id": "16-30",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "The explicitation interview helps teachers describe what they actually did, step by step.",
+  "text_fr": "L'entretien d'explicitation aide les enseignants à décrire ce qu'ils ont réellement fait, pas à pas.",
+  "key_terms": [
+   "step by step",
+   "actually"
+  ],
+  "thesis_terms": [
+   "explicitation interview"
+  ],
+  "pronunciation_notes": {
+   "explicitation": "ek-splih-sih-TAY-shun"
+  }
+ },
+ {
+  "id": "16-31",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "During an explicitation interview, the researcher avoids asking why and focuses on how.",
+  "text_fr": "Pendant un entretien d'explicitation, le chercheur évite de demander pourquoi et se concentre sur comment.",
+  "key_terms": [
+   "to avoid",
+   "to focus on"
+  ],
+  "thesis_terms": [
+   "explicitation interview"
+  ],
+  "pronunciation_notes": {
+   "explicitation": "ek-splih-sih-TAY-shun"
+  }
+ },
+ {
+  "id": "16-32",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "I revised the interview guide after the first three interviews.",
+  "text_fr": "J'ai révisé le guide d'entretien après les trois premiers entretiens.",
+  "key_terms": [
+   "to revise"
+  ],
+  "thesis_terms": [
+   "interview guide"
+  ],
+  "pronunciation_notes": {
+   "revised": "rih-VYZD"
+  }
+ },
+ {
+  "id": "16-33",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "We used purposive sampling to select teachers with very different profiles.",
+  "text_fr": "Nous avons utilisé un échantillonnage raisonné pour sélectionner des enseignants aux profils très différents.",
+  "key_terms": [
+   "to select",
+   "profile"
+  ],
+  "thesis_terms": [
+   "sample",
+   "purposive sampling"
+  ],
+  "pronunciation_notes": {
+   "purposive": "PER-puh-siv",
+   "profiles": "PROH-fylez"
+  }
+ },
+ {
+  "id": "16-34",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Purposive sampling is not about representativeness but about the richness of cases.",
+  "text_fr": "L'échantillonnage raisonné ne vise pas la représentativité mais la richesse des cas.",
+  "key_terms": [
+   "richness"
+  ],
+  "thesis_terms": [
+   "sample",
+   "purposive sampling"
+  ],
+  "pronunciation_notes": {
+   "purposive": "PER-puh-siv",
+   "representativeness": "rep-rih-ZEN-tuh-tiv-ness"
+  }
+ },
+ {
+  "id": "16-35",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Informed consent was obtained before each recording, and participants could withdraw at any time.",
+  "text_fr": "Le consentement éclairé a été recueilli avant chaque enregistrement, et les participants pouvaient se retirer à tout moment.",
+  "key_terms": [
+   "to obtain",
+   "to withdraw"
+  ],
+  "thesis_terms": [
+   "participant, respondent",
+   "informed consent"
+  ],
+  "pronunciation_notes": {
+   "withdraw": "with-DRAW",
+   "obtained": "ub-TAYND"
+  }
+ },
+ {
+  "id": "16-36",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Thematic analysis revealed three main themes across the interviews.",
+  "text_fr": "L'analyse thématique a fait ressortir trois thèmes principaux dans les entretiens.",
+  "key_terms": [
+   "to reveal",
+   "across"
+  ],
+  "thesis_terms": [
+   "thematic analysis"
+  ],
+  "pronunciation_notes": {
+   "thematic": "thih-MAT-ik",
+   "themes": "theemz"
+  }
+ },
+ {
+  "id": "16-37",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Thematic analysis is flexible, which is both its strength and its weakness.",
+  "text_fr": "L'analyse thématique est souple, ce qui fait à la fois sa force et sa faiblesse.",
+  "key_terms": [
+   "weakness",
+   "strength"
+  ],
+  "thesis_terms": [
+   "thematic analysis"
+  ],
+  "pronunciation_notes": {
+   "flexible": "FLEK-suh-bul",
+   "weakness": "WEEK-ness"
+  }
+ },
+ {
+  "id": "16-38",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Coding the transcripts helped me see patterns that I had missed during fieldwork.",
+  "text_fr": "Coder les transcriptions m'a aidé à voir des régularités que j'avais manquées sur le terrain.",
+  "key_terms": [
+   "pattern",
+   "to miss"
+  ],
+  "thesis_terms": [
+   "fieldwork",
+   "coding"
+  ],
+  "pronunciation_notes": {
+   "transcripts": "TRAN-skripts",
+   "patterns": "PAT-ernz"
+  }
+ },
+ {
+  "id": "16-39",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Saturation was reached after about twenty interviews, when no new themes emerged.",
+  "text_fr": "La saturation a été atteinte après une vingtaine d'entretiens, quand plus aucun thème nouveau n'émergeait.",
+  "key_terms": [
+   "to reach",
+   "to emerge"
+  ],
+  "thesis_terms": [
+   "saturation"
+  ],
+  "pronunciation_notes": {
+   "saturation": "sach-uh-RAY-shun",
+   "emerged": "ih-MERJD"
+  }
+ },
+ {
+  "id": "16-40",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Data saturation is a useful idea, but it is hard to prove in practice.",
+  "text_fr": "La saturation des données est une idée utile, mais difficile à démontrer en pratique.",
+  "key_terms": [
+   "to prove",
+   "useful"
+  ],
+  "thesis_terms": [
+   "saturation"
+  ],
+  "pronunciation_notes": {
+   "data": "DAY-tuh",
+   "saturation": "sach-uh-RAY-shun"
+  }
+ },
+ {
+  "id": "16-41",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Triangulation between interviews, observations and documents increases the credibility of the results.",
+  "text_fr": "La triangulation entre entretiens, observations et documents renforce la crédibilité des résultats.",
+  "key_terms": [
+   "to increase"
+  ],
+  "thesis_terms": [
+   "triangulation"
+  ],
+  "pronunciation_notes": {
+   "triangulation": "try-ang-gyuh-LAY-shun",
+   "credibility": "kred-uh-BIL-uh-tee"
+  }
+ },
+ {
+  "id": "16-42",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "I cross-checked teachers' accounts with official documents and classroom observations.",
+  "text_fr": "J'ai recoupé les récits des enseignants avec les documents officiels et les observations en classe.",
+  "key_terms": [
+   "account",
+   "official"
+  ],
+  "thesis_terms": [
+   "to cross-check"
+  ],
+  "pronunciation_notes": {
+   "cross-checked": "KRAWSS-chekt"
+  }
+ },
+ {
+  "id": "16-43",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "I cross-checked every quotation with the original recording before publishing it.",
+  "text_fr": "J'ai vérifié chaque citation avec l'enregistrement original avant de la publier.",
+  "key_terms": [
+   "to publish"
+  ],
+  "thesis_terms": [
+   "to cross-check"
+  ],
+  "pronunciation_notes": {
+   "quotation": "kwoh-TAY-shun"
+  }
+ },
+ {
+  "id": "16-44",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "In my thesis, I discuss my positionality as an insider in the education system.",
+  "text_fr": "Dans ma thèse, je discute de mon positionnement d'acteur interne au système éducatif.",
+  "key_terms": [
+   "insider"
+  ],
+  "thesis_terms": [
+   "positionality"
+  ],
+  "pronunciation_notes": {
+   "positionality": "puh-zish-uh-NAL-uh-tee",
+   "insider": "IN-sy-der"
+  }
+ },
+ {
+  "id": "16-45",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "My positionality shaped what teachers were willing to tell me.",
+  "text_fr": "Mon positionnement a influencé ce que les enseignants acceptaient de me dire.",
+  "key_terms": [
+   "to shape",
+   "willing"
+  ],
+  "thesis_terms": [
+   "positionality"
+  ],
+  "pronunciation_notes": {
+   "positionality": "puh-zish-uh-NAL-uh-tee",
+   "willing": "WIL-ing"
+  }
+ },
+ {
+  "id": "16-46",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Reflexivity is essential in action research, because the researcher is also an actor.",
+  "text_fr": "La réflexivité est essentielle en recherche-action, car le chercheur est aussi un acteur.",
+  "key_terms": [
+   "essential",
+   "actor"
+  ],
+  "thesis_terms": [
+   "action research",
+   "reflexivity"
+  ],
+  "pronunciation_notes": {
+   "reflexivity": "ree-flek-SIV-uh-tee"
+  }
+ },
+ {
+  "id": "16-47",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Reflexivity means questioning how my own assumptions influence my interpretations.",
+  "text_fr": "La réflexivité consiste à interroger la manière dont mes présupposés influencent mes interprétations.",
+  "key_terms": [
+   "assumption",
+   "to influence"
+  ],
+  "thesis_terms": [
+   "reflexivity"
+  ],
+  "pronunciation_notes": {
+   "assumptions": "uh-SUMP-shunz",
+   "interpretations": "in-ter-pruh-TAY-shunz"
+  }
+ },
+ {
+  "id": "16-48",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "The researcher must adopt a stance that is both engaged and critical.",
+  "text_fr": "Le chercheur doit adopter une posture à la fois engagée et critique.",
+  "key_terms": [
+   "both",
+   "critical"
+  ],
+  "thesis_terms": [
+   "stance"
+  ],
+  "pronunciation_notes": {
+   "stance": "stanss",
+   "engaged": "en-GAYJD"
+  }
+ },
+ {
+  "id": "16-49",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Selection bias may affect the results, since volunteers were more motivated than others.",
+  "text_fr": "Un biais de sélection peut affecter les résultats, puisque les volontaires étaient plus motivés que les autres.",
+  "key_terms": [
+   "since",
+   "to affect"
+  ],
+  "thesis_terms": [
+   "bias"
+  ],
+  "pronunciation_notes": {
+   "bias": "BY-us",
+   "motivated": "MOH-tuh-vay-tid"
+  }
+ },
+ {
+  "id": "16-50",
+  "theme": 16,
+  "level": "B2",
+  "text_en": "Anthropology and ethnography taught me to observe before trying to explain.",
+  "text_fr": "L'anthropologie et l'ethnographie m'ont appris à observer avant de chercher à expliquer.",
+  "key_terms": [
+   "to observe",
+   "to explain"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "anthropology": "an-thruh-PAH-luh-jee",
+   "ethnography": "eth-NAH-gruh-fee"
+  }
+ }
+]

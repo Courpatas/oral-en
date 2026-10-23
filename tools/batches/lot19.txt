@@ -1,0 +1,51 @@
+# Thème 10 — Conversation et opinions (connecteurs, expressions, verbes à particule)
+10-01 | B1 | In my opinion, the film was too long, but the music was great. | À mon avis, le film était trop long, mais la musique était géniale. | opinion; too | opinion=uh-PIN-yun
+10-02 | B1 | I completely agree with you, because it was a fantastic evening. | Je suis tout à fait d'accord avec toi, c'était une soirée fantastique. | to agree; completely | fantastic=fan-TASS-tik
+10-03 | B1 | I see what you mean, but I do not totally agree. | Je vois ce que tu veux dire, mais je ne suis pas totalement d'accord. | to mean; totally | totally=TOH-tuh-lee
+10-04 | B1 | What do you think about the new mayor of our town? | Qu'est-ce que tu penses du nouveau maire de notre ville ? | what; to think | mayor=MAY-er
+10-05 | B1 | Actually, I have never been to New Zealand, but I would love to go. | En fait, je ne suis jamais allé en Nouvelle-Zélande, mais j'adorerais y aller. | actually; never | actually=AK-choo-uh-lee
+10-06 | B1 | Honestly, I prefer the beach to the mountains. | Honnêtement, je préfère la plage à la montagne. | to prefer | honestly=AH-nist-lee
+10-07 | B1 | Anyway, it does not matter anymore, so let's move on. | De toute façon, ça n'a plus d'importance, alors passons à autre chose. | anyway; to move on | anyway=EN-ee-way; anymore=en-ee-MOR
+10-08 | B1 | To be honest, I did not understand the end of the story. | Pour être honnête, je n'ai pas compris la fin de l'histoire. | to be honest; story | story=STOR-ee
+10-09 | B1 | That is a good idea, so why did I not think of it? | C'est une bonne idée, pourquoi n'y ai-je pas pensé ? | why; idea | idea=eye-DEE-uh
+10-10 | B1 | Sorry to interrupt, but can I say something? | Désolé de vous interrompre, mais je peux dire quelque chose ? | to interrupt | interrupt=in-tuh-RUPT
+10-11 | B1 | It depends on the weather, but we will probably go hiking. | Ça dépend de la météo, mais on ira probablement randonner. | to depend on; probably | probably=PRAH-buh-blee
+10-12 | B1 | Let me think about it and give you an answer tomorrow. | Laisse-moi y réfléchir et je te donne une réponse demain. | to think about; answer | answer=AN-ser
+10-13 | B1 | Never give up, even when things seem impossible. | N'abandonne jamais, même quand les choses semblent impossibles. | to give up; even when | impossible=im-PAH-suh-bul
+10-14 | B1 | The exam was a piece of cake, so I finished early. | L'examen était du gâteau, alors j'ai fini en avance. | a piece of cake; exam | piece=peess
+10-15 | B1 | We go out to the cinema once in a blue moon. | Nous allons au cinéma tous les trente-six du mois. | once in a blue moon | cinema=SIN-uh-muh
+10-16 | B1 | I am feeling a bit under the weather today. | Je ne suis pas très en forme aujourd'hui. | under the weather | weather=WETH-er
+10-17 | B1 | Break a leg tonight, I am sure your talk will be great. | Bonne chance pour ce soir, je suis sûr que ton exposé sera génial. | break a leg; sure | sure=shoor
+10-18 | B1 | It is raining cats and dogs, so take a coat. | Il pleut des cordes, alors prends un manteau. | raining cats and dogs; coat | coat=koht
+10-19 | B1 | How come you did not call me back yesterday? | Comment ça se fait que tu ne m'aies pas rappelé hier ? | how come; to call back | yesterday=YESS-ter-day
+10-20 | B1 | What if we went to the beach instead of staying at home? | Et si on allait à la plage au lieu de rester à la maison ? | what if; instead of | instead=in-STED
+10-21 | B1 | I found out the truth by accident, and I was really surprised. | J'ai découvert la vérité par hasard, et j'ai été vraiment surpris. | to find out; surprised | truth=trooth; accident=AK-sih-dunt
+10-22 | B1 | Carry on, you are doing really well, so do not stop now. | Continue, tu t'en sors très bien, alors ne t'arrête pas maintenant. | to carry on; to stop | carry=KAIR-ee
+10-23 | B1 | Basically, the idea is simple, but it is hard to put into practice. | En gros, l'idée est simple, mais elle est difficile à mettre en pratique. | basically; simple | basically=BAY-sik-lee
+10-24 | B1 | Hurry up, otherwise we will miss the beginning of the show. | Dépêche-toi, sinon on va rater le début du spectacle. | otherwise; to hurry | otherwise=UTH-er-wyze
+10-25 | B1 | That sounds great, but I am afraid I am busy that evening. | Ça a l'air super, mais j'ai bien peur d'être pris ce soir-là. | afraid; busy | afraid=uh-FRAYD
+10-26 | B2 | On the one hand, it is cheaper, but on the other hand, it takes much longer. | D'un côté, c'est moins cher, mais de l'autre, ça prend beaucoup plus de temps. | on the other hand; cheaper | cheaper=CHEE-per
+10-27 | B2 | Although I understand your point, I still think we should wait. | Bien que je comprenne ton point de vue, je pense toujours qu'on devrait attendre. | although; still | although=awl-THOH
+10-28 | B2 | It was a difficult year; nevertheless, I think we should give them a second chance. | Ça a été une année difficile ; néanmoins, je pense qu'on devrait leur laisser une seconde chance. | nevertheless; chance | nevertheless=nev-er-thuh-LESS
+10-29 | B2 | Whereas my brother loves crowds, I prefer quiet places. | Alors que mon frère adore la foule, je préfère les endroits calmes. | whereas; quiet | whereas=wair-AZ; quiet=KWY-ut
+10-30 | B2 | Not only is it cheaper, but it is also better for the environment. | Non seulement c'est moins cher, mais c'est aussi meilleur pour l'environnement. | not only... but also | environment=en-VY-run-ment
+10-31 | B2 | Unless something changes soon, the situation will only get worse. | À moins que quelque chose change bientôt, la situation ne fera qu'empirer. | unless; worse | unless=un-LESS; situation=sich-oo-AY-shun
+10-32 | B2 | Provided that everyone agrees, we can start next week. | À condition que tout le monde soit d'accord, nous pouvons commencer la semaine prochaine. | provided that; to agree | provided=pruh-VY-did
+10-33 | B2 | As far as I know, nobody has tried this approach before. | Pour autant que je sache, personne n'a essayé cette approche auparavant. | as far as I know; nobody | approach=uh-PROHCH
+10-34 | B2 | I could not disagree more, because that argument does not hold water. | Je ne pourrais pas être moins d'accord, car cet argument ne tient pas la route. | to disagree; argument | argument=ARG-yuh-ment
+10-35 | B2 | It is not that I dislike the idea, it is just that the timing is wrong. | Ce n'est pas que l'idée me déplaise, c'est juste que le moment est mal choisi. | idea; timing | timing=TY-ming; dislike=diss-LYKE
+10-36 | B2 | Let's agree to disagree, since we will never convince each other. | Restons-en à nos désaccords, puisque nous ne nous convaincrons jamais l'un l'autre. | since; to convince | convince=kun-VINSS
+10-37 | B2 | In other words, we have no choice but to start again. | Autrement dit, nous n'avons pas d'autre choix que de recommencer. | in other words; choice | choice=choyss
+10-38 | B2 | That being said, I admit that your solution has some advantages. | Cela dit, je reconnais que ta solution a quelques avantages. | to admit; solution | solution=suh-LOO-shun
+10-39 | B2 | If I were you, I would talk to her before making a decision. | Si j'étais toi, je lui parlerais avant de prendre une décision. | if; decision | decision=dih-SIZH-un
+10-40 | B2 | I used to think that money was important, but now I value time much more. | Avant, je pensais que l'argent était important, mais maintenant j'accorde bien plus de valeur au temps. | used to; to value | value=VAL-yoo
+10-41 | B2 | Despite what people say, I find this city surprisingly friendly. | Malgré ce que disent les gens, je trouve cette ville étonnamment accueillante. | despite; surprisingly | despite=dih-SPYTE
+10-42 | B2 | It goes without saying that everyone is welcome to join us. | Il va sans dire que tout le monde est le bienvenu. | to join; welcome | welcome=WEL-kum
+10-43 | B2 | Correct me if I am wrong, but did you not say the opposite last week? | Corrige-moi si je me trompe, mais tu n'as pas dit le contraire la semaine dernière ? | wrong; opposite | opposite=AH-puh-zit
+10-44 | B2 | Wisdom often comes from realizing how little we really know. | La sagesse vient souvent du fait de réaliser à quel point nous savons peu. | wisdom; to realize | wisdom=WIZ-dum; realizing=REE-uh-lyz-ing
+10-45 | B2 | When the going gets tough, the tough get going, as my coach likes to say. | Quand ça se complique, les durs s'accrochent, comme aime le dire mon entraîneur. | when the going gets tough | tough=tuff
+10-46 | B2 | Some people seem stubborn, but they are often just afraid of change. | Certaines personnes paraissent têtues, mais elles ont souvent juste peur du changement. | stubborn; to seem | stubborn=STUB-ern
+10-47 | B2 | Before believing a rumor, I use a kind of triangulation and ask three different people. | Avant de croire une rumeur, je pratique une sorte de triangulation et j'interroge trois personnes différentes. | to believe; rumor | rumor=ROO-mer; triangulation=try-ang-gyuh-LAY-shun
+10-48 | B2 | Whatever you decide, I will support you, even if I disagree. | Quoi que tu décides, je te soutiendrai, même si je ne suis pas d'accord. | whatever; even if | whatever=wut-EV-er
+10-49 | B2 | To sum up, both options have pros and cons, so it is really up to you. | Pour résumer, les deux options ont du pour et du contre, alors c'est vraiment à toi de voir. | to sum up; both | options=AHP-shunz
+10-50 | B2 | In the end, what matters most is how we treat each other. | Au bout du compte, ce qui compte le plus, c'est la manière dont nous nous traitons les uns les autres. | in the end; to treat | matters=MAT-erz

@@ -1,0 +1,51 @@
+# Thème 4 — Santé et corps
+04-01 | B1 | I have a terrible headache, so I am going to lie down for a while. | J'ai un mal de tête terrible, alors je vais m'allonger un moment. | headache; to lie | headache=HED-ayk
+04-02 | B1 | I caught a cold last week, and I still have a bad cough. | J'ai attrapé un rhume la semaine dernière, et j'ai encore une mauvaise toux. | a cold; cough; still | cough=kawf; caught=kawt
+04-03 | B1 | My knee hurts every time I run downhill. | J'ai mal au genou chaque fois que je cours en descente. | knee; to hurt | knee=nee; downhill=down-HIL
+04-04 | B1 | I have an appointment with the dentist at ten tomorrow morning. | J'ai rendez-vous chez le dentiste demain matin à dix heures. | appointment; dentist | appointment=uh-POYNT-ment
+04-05 | B1 | Take this medicine twice a day, always after meals. | Prends ce médicament deux fois par jour, toujours après les repas. | medicine; twice | medicine=MED-ih-sin
+04-06 | B1 | I twisted my ankle while playing volleyball on the beach. | Je me suis tordu la cheville en jouant au volley sur la plage. | ankle; while | ankle=ANG-kul; volleyball=VAH-lee-bawl
+04-07 | B1 | Do not forget to put on sunscreen, because the sun is very strong here. | N'oublie pas de mettre de la crème solaire, parce que le soleil est très fort ici. | sunscreen; strong | sunscreen=SUN-skreen
+04-08 | B1 | The doctor wrote me a prescription for antibiotics. | Le médecin m'a fait une ordonnance pour des antibiotiques. | prescription; doctor | prescription=prih-SKRIP-shun; antibiotics=an-tee-by-AH-tiks
+04-09 | B1 | I got a bad sunburn because I fell asleep on the beach. | J'ai pris un gros coup de soleil parce que je me suis endormi sur la plage. | sunburn; to fall asleep | sunburn=SUN-bern
+04-10 | B1 | Drink plenty of water, especially when it is hot and humid. | Bois beaucoup d'eau, surtout quand il fait chaud et humide. | water; especially; humid | humid=HYOO-mid
+04-11 | B1 | Half of my office has the flu this week. | La moitié de mon bureau a la grippe cette semaine. | half; flu | flu=floo
+04-12 | B1 | I need more sleep, because I have been very tired lately. | J'ai besoin de plus de sommeil, parce que je suis très fatigué ces derniers temps. | sleep; lately; tired | lately=LAYT-lee
+04-13 | B1 | My back is stiff after a long day in front of the computer. | J'ai le dos raide après une longue journée devant l'ordinateur. | back; in front of | computer=kum-PYOO-ter
+04-14 | B1 | The nurse took a blood sample and checked my blood pressure. | L'infirmière a fait une prise de sang et a vérifié ma tension. | nurse; blood | blood=blud; pressure=PRESH-er
+04-15 | B1 | I have a pollen allergy, so spring is a difficult season for me. | J'ai une allergie au pollen, alors le printemps est une saison difficile pour moi. | allergy; season | allergy=AL-er-jee; pollen=PAH-lun
+04-16 | B1 | My doctor told me to rest for a few days and avoid sport. | Mon médecin m'a dit de me reposer quelques jours et d'éviter le sport. | to rest; to avoid | avoid=uh-VOYD
+04-17 | B1 | I cut my finger while chopping vegetables, and it is still bleeding. | Je me suis coupé le doigt en coupant des légumes, et ça saigne encore. | finger; to bleed | bleeding=BLEE-ding
+04-18 | B1 | Brush your teeth twice a day and see the dentist once a year. | Brosse-toi les dents deux fois par jour et va chez le dentiste une fois par an. | teeth; once a year | teeth=teeth
+04-19 | B1 | I feel dizzy when I stand up too quickly. | J'ai la tête qui tourne quand je me lève trop vite. | to feel; quickly | dizzy=DIZ-ee
+04-20 | B1 | How long does it take to recover from a sprained ankle? | Combien de temps faut-il pour se remettre d'une entorse à la cheville ? | how long; to recover | sprained=spraynd
+04-21 | B1 | I have had a sore throat since Monday morning. | J'ai mal à la gorge depuis lundi matin. | since | sore=sor; throat=throht
+04-22 | B1 | Stretching after exercise helps prevent muscle pain the next day. | S'étirer après l'effort aide à éviter les courbatures le lendemain. | stretching; muscle; pain | muscle=MUSS-ul
+04-23 | B1 | She went to the hospital because she had a very high fever. | Elle est allée à l'hôpital parce qu'elle avait une très forte fièvre. | hospital; fever | hospital=HAHS-pih-tul; fever=FEE-ver
+04-24 | B1 | My shoulder still hurts, so I have stopped swimming for now. | J'ai encore mal à l'épaule, alors j'ai arrêté de nager pour l'instant. | shoulder; to hurt | shoulder=SHOHL-der
+04-25 | B1 | If the pain gets worse, call the doctor immediately. | Si la douleur empire, appelle le médecin immédiatement. | pain; worse | immediately=ih-MEE-dee-it-lee
+04-26 | B2 | My recovery was much faster than expected, thanks to a very good physical therapist. | Ma rééducation a été bien plus rapide que prévu, grâce à un très bon kinésithérapeute. | recovery; thanks to | therapist=THAIR-uh-pist; recovery=rih-KUV-uh-ree
+04-27 | B2 | Chronic back pain is one of the main reasons people miss work. | Le mal de dos chronique est l'une des principales raisons d'absence au travail. | to miss; reason | chronic=KRAH-nik
+04-28 | B2 | Lack of sleep affects concentration, mood and even the immune system. | Le manque de sommeil affecte la concentration, l'humeur et même le système immunitaire. | to lack; mood | immune=ih-MYOON
+04-29 | B2 | I have been trying to drink less coffee, but it is harder than I thought. | J'essaie de boire moins de café, mais c'est plus difficile que je ne le pensais. | coffee; harder | thought=thawt
+04-30 | B2 | Regular check-ups can detect problems before any symptoms appear. | Des bilans réguliers peuvent détecter des problèmes avant l'apparition de symptômes. | regular; to appear | symptoms=SIMP-tumz; check-ups=CHEK-ups
+04-31 | B2 | Mosquitoes can transmit dengue, so we remove standing water around the house. | Les moustiques peuvent transmettre la dengue, alors nous supprimons les eaux stagnantes autour de la maison. | to remove | dengue=DENG-gay; transmit=tranz-MIT
+04-32 | B2 | The waiting list for a specialist can be several months on the outer islands. | La liste d'attente pour un spécialiste peut atteindre plusieurs mois dans les îles éloignées. | to wait; several | specialist=SPESH-uh-list
+04-33 | B2 | Some patients have to fly to the main island for treatments that are not available locally. | Certains patients doivent prendre l'avion pour l'île principale afin de recevoir des soins indisponibles sur place. | treatment; available | treatments=TREET-ments; patients=PAY-shunts
+04-34 | B2 | Stress can show up in the body as headaches, stomach pain or sleepless nights. | Le stress peut se manifester dans le corps par des maux de tête, des douleurs au ventre ou des nuits blanches. | stomach; headache | stomach=STUM-uk
+04-35 | B2 | My doctor encouraged me to see exercise as medicine rather than as a chore. | Mon médecin m'a encouragé à voir le sport comme un remède plutôt que comme une corvée. | rather than; to encourage | chore=chor
+04-36 | B2 | Taking care of your mental health is just as important as taking care of your body. | Prendre soin de sa santé mentale est tout aussi important que prendre soin de son corps. | to take care of | important=im-POR-tunt
+04-37 | B2 | The wound healed quickly, although it left a small scar on my arm. | La plaie a vite cicatrisé, même si elle m'a laissé une petite cicatrice au bras. | to heal; although | wound=woond; scar=skar
+04-38 | B2 | Most injuries in amateur runners are caused by increasing training too quickly. | La plupart des blessures des coureurs amateurs viennent d'une hausse trop rapide de l'entraînement. | injury; to increase | injuries=IN-juh-reez; amateur=AM-uh-cher
+04-39 | B2 | I had never broken a bone before, so the cast was a whole new experience. | Je ne m'étais jamais cassé un os, alors le plâtre a été une expérience toute nouvelle. | bone; to break | broken=BROH-kun
+04-40 | B2 | The prevalence of diabetes in the islands is among the highest in the world. | La prévalence du diabète dans les îles est parmi les plus élevées au monde. | among; highest | prevalence=PREV-uh-lunss; diabetes=dy-uh-BEE-teez
+04-41 | B2 | Doctors agree that sitting all day is harmful, even for people who exercise. | Les médecins s'accordent à dire que rester assis toute la journée est nocif, même pour ceux qui font du sport. | harmful; to agree | harmful=HARM-ful
+04-42 | B2 | Walking barefoot on the sand strengthens the small muscles of the feet. | Marcher pieds nus sur le sable renforce les petits muscles des pieds. | feet; sand | barefoot=BAIR-foot; strengthens=STRENGK-thunz
+04-43 | B2 | If I had seen a doctor earlier, the infection would not have spread. | Si j'avais vu un médecin plus tôt, l'infection ne se serait pas propagée. | earlier; to spread | infection=in-FEK-shun
+04-44 | B2 | Healthy habits are easier to build when the whole family takes part. | Les bonnes habitudes sont plus faciles à prendre quand toute la famille s'y met. | habit; whole | healthy=HEL-thee
+04-45 | B2 | My grandmother still walks every morning, and she rarely gets sick. | Ma grand-mère marche encore tous les matins, et elle est rarement malade. | rarely; sick | grandmother=GRAN-muth-er
+04-46 | B2 | Heat stroke can be dangerous, especially for elderly people and young children. | Le coup de chaleur peut être dangereux, surtout pour les personnes âgées et les jeunes enfants. | dangerous; heat | elderly=EL-der-lee; dangerous=DAYN-jer-us
+04-47 | B2 | The medicine eased the pain, but it also made me very sleepy. | Le médicament a soulagé la douleur, mais il m'a aussi rendu très somnolent. | to ease; sleepy | eased=eezd
+04-48 | B2 | Listening to your body means knowing when to push and when to rest. | Écouter son corps, c'est savoir quand forcer et quand se reposer. | to listen; to rest | listening=LISS-un-ing
+04-49 | B2 | Many illnesses could be prevented with better access to fresh food and exercise. | Beaucoup de maladies pourraient être évitées avec un meilleur accès à des produits frais et au sport. | illness; access | illnesses=IL-ness-iz; prevented=prih-VEN-tid
+04-50 | B2 | Health is not just the absence of disease, but a state of complete well-being. | La santé n'est pas seulement l'absence de maladie, mais un état de complet bien-être. | not just; health | absence=AB-sunss; disease=dih-ZEEZ

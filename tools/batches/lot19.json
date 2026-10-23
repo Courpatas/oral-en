@@ -1,0 +1,755 @@
+[
+ {
+  "id": "10-01",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "In my opinion, the film was too long, but the music was great.",
+  "text_fr": "À mon avis, le film était trop long, mais la musique était géniale.",
+  "key_terms": [
+   "opinion",
+   "too"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "opinion": "uh-PIN-yun"
+  }
+ },
+ {
+  "id": "10-02",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "I completely agree with you, because it was a fantastic evening.",
+  "text_fr": "Je suis tout à fait d'accord avec toi, c'était une soirée fantastique.",
+  "key_terms": [
+   "to agree",
+   "completely"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "fantastic": "fan-TASS-tik"
+  }
+ },
+ {
+  "id": "10-03",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "I see what you mean, but I do not totally agree.",
+  "text_fr": "Je vois ce que tu veux dire, mais je ne suis pas totalement d'accord.",
+  "key_terms": [
+   "to mean",
+   "totally"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "totally": "TOH-tuh-lee"
+  }
+ },
+ {
+  "id": "10-04",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "What do you think about the new mayor of our town?",
+  "text_fr": "Qu'est-ce que tu penses du nouveau maire de notre ville ?",
+  "key_terms": [
+   "what",
+   "to think"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "mayor": "MAY-er"
+  }
+ },
+ {
+  "id": "10-05",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Actually, I have never been to New Zealand, but I would love to go.",
+  "text_fr": "En fait, je ne suis jamais allé en Nouvelle-Zélande, mais j'adorerais y aller.",
+  "key_terms": [
+   "actually",
+   "never"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "actually": "AK-choo-uh-lee"
+  }
+ },
+ {
+  "id": "10-06",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Honestly, I prefer the beach to the mountains.",
+  "text_fr": "Honnêtement, je préfère la plage à la montagne.",
+  "key_terms": [
+   "to prefer"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "honestly": "AH-nist-lee"
+  }
+ },
+ {
+  "id": "10-07",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Anyway, it does not matter anymore, so let's move on.",
+  "text_fr": "De toute façon, ça n'a plus d'importance, alors passons à autre chose.",
+  "key_terms": [
+   "anyway",
+   "to move on"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "anyway": "EN-ee-way",
+   "anymore": "en-ee-MOR"
+  }
+ },
+ {
+  "id": "10-08",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "To be honest, I did not understand the end of the story.",
+  "text_fr": "Pour être honnête, je n'ai pas compris la fin de l'histoire.",
+  "key_terms": [
+   "to be honest",
+   "story"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "story": "STOR-ee"
+  }
+ },
+ {
+  "id": "10-09",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "That is a good idea, so why did I not think of it?",
+  "text_fr": "C'est une bonne idée, pourquoi n'y ai-je pas pensé ?",
+  "key_terms": [
+   "why",
+   "idea"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "idea": "eye-DEE-uh"
+  }
+ },
+ {
+  "id": "10-10",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Sorry to interrupt, but can I say something?",
+  "text_fr": "Désolé de vous interrompre, mais je peux dire quelque chose ?",
+  "key_terms": [
+   "to interrupt"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "interrupt": "in-tuh-RUPT"
+  }
+ },
+ {
+  "id": "10-11",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "It depends on the weather, but we will probably go hiking.",
+  "text_fr": "Ça dépend de la météo, mais on ira probablement randonner.",
+  "key_terms": [
+   "to depend on",
+   "probably"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "probably": "PRAH-buh-blee"
+  }
+ },
+ {
+  "id": "10-12",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Let me think about it and give you an answer tomorrow.",
+  "text_fr": "Laisse-moi y réfléchir et je te donne une réponse demain.",
+  "key_terms": [
+   "to think about",
+   "answer"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "answer": "AN-ser"
+  }
+ },
+ {
+  "id": "10-13",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Never give up, even when things seem impossible.",
+  "text_fr": "N'abandonne jamais, même quand les choses semblent impossibles.",
+  "key_terms": [
+   "to give up",
+   "even when"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "impossible": "im-PAH-suh-bul"
+  }
+ },
+ {
+  "id": "10-14",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "The exam was a piece of cake, so I finished early.",
+  "text_fr": "L'examen était du gâteau, alors j'ai fini en avance.",
+  "key_terms": [
+   "a piece of cake",
+   "exam"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "piece": "peess"
+  }
+ },
+ {
+  "id": "10-15",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "We go out to the cinema once in a blue moon.",
+  "text_fr": "Nous allons au cinéma tous les trente-six du mois.",
+  "key_terms": [
+   "once in a blue moon"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cinema": "SIN-uh-muh"
+  }
+ },
+ {
+  "id": "10-16",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "I am feeling a bit under the weather today.",
+  "text_fr": "Je ne suis pas très en forme aujourd'hui.",
+  "key_terms": [
+   "under the weather"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "weather": "WETH-er"
+  }
+ },
+ {
+  "id": "10-17",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Break a leg tonight, I am sure your talk will be great.",
+  "text_fr": "Bonne chance pour ce soir, je suis sûr que ton exposé sera génial.",
+  "key_terms": [
+   "break a leg",
+   "sure"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "sure": "shoor"
+  }
+ },
+ {
+  "id": "10-18",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "It is raining cats and dogs, so take a coat.",
+  "text_fr": "Il pleut des cordes, alors prends un manteau.",
+  "key_terms": [
+   "raining cats and dogs",
+   "coat"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "coat": "koht"
+  }
+ },
+ {
+  "id": "10-19",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "How come you did not call me back yesterday?",
+  "text_fr": "Comment ça se fait que tu ne m'aies pas rappelé hier ?",
+  "key_terms": [
+   "how come",
+   "to call back"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "yesterday": "YESS-ter-day"
+  }
+ },
+ {
+  "id": "10-20",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "What if we went to the beach instead of staying at home?",
+  "text_fr": "Et si on allait à la plage au lieu de rester à la maison ?",
+  "key_terms": [
+   "what if",
+   "instead of"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "instead": "in-STED"
+  }
+ },
+ {
+  "id": "10-21",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "I found out the truth by accident, and I was really surprised.",
+  "text_fr": "J'ai découvert la vérité par hasard, et j'ai été vraiment surpris.",
+  "key_terms": [
+   "to find out",
+   "surprised"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "truth": "trooth",
+   "accident": "AK-sih-dunt"
+  }
+ },
+ {
+  "id": "10-22",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Carry on, you are doing really well, so do not stop now.",
+  "text_fr": "Continue, tu t'en sors très bien, alors ne t'arrête pas maintenant.",
+  "key_terms": [
+   "to carry on",
+   "to stop"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "carry": "KAIR-ee"
+  }
+ },
+ {
+  "id": "10-23",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Basically, the idea is simple, but it is hard to put into practice.",
+  "text_fr": "En gros, l'idée est simple, mais elle est difficile à mettre en pratique.",
+  "key_terms": [
+   "basically",
+   "simple"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "basically": "BAY-sik-lee"
+  }
+ },
+ {
+  "id": "10-24",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "Hurry up, otherwise we will miss the beginning of the show.",
+  "text_fr": "Dépêche-toi, sinon on va rater le début du spectacle.",
+  "key_terms": [
+   "otherwise",
+   "to hurry"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "otherwise": "UTH-er-wyze"
+  }
+ },
+ {
+  "id": "10-25",
+  "theme": 10,
+  "level": "B1",
+  "text_en": "That sounds great, but I am afraid I am busy that evening.",
+  "text_fr": "Ça a l'air super, mais j'ai bien peur d'être pris ce soir-là.",
+  "key_terms": [
+   "afraid",
+   "busy"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "afraid": "uh-FRAYD"
+  }
+ },
+ {
+  "id": "10-26",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "On the one hand, it is cheaper, but on the other hand, it takes much longer.",
+  "text_fr": "D'un côté, c'est moins cher, mais de l'autre, ça prend beaucoup plus de temps.",
+  "key_terms": [
+   "on the other hand",
+   "cheaper"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "cheaper": "CHEE-per"
+  }
+ },
+ {
+  "id": "10-27",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Although I understand your point, I still think we should wait.",
+  "text_fr": "Bien que je comprenne ton point de vue, je pense toujours qu'on devrait attendre.",
+  "key_terms": [
+   "although",
+   "still"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "although": "awl-THOH"
+  }
+ },
+ {
+  "id": "10-28",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "It was a difficult year; nevertheless, I think we should give them a second chance.",
+  "text_fr": "Ça a été une année difficile ; néanmoins, je pense qu'on devrait leur laisser une seconde chance.",
+  "key_terms": [
+   "nevertheless",
+   "chance"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "nevertheless": "nev-er-thuh-LESS"
+  }
+ },
+ {
+  "id": "10-29",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Whereas my brother loves crowds, I prefer quiet places.",
+  "text_fr": "Alors que mon frère adore la foule, je préfère les endroits calmes.",
+  "key_terms": [
+   "whereas",
+   "quiet"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "whereas": "wair-AZ",
+   "quiet": "KWY-ut"
+  }
+ },
+ {
+  "id": "10-30",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Not only is it cheaper, but it is also better for the environment.",
+  "text_fr": "Non seulement c'est moins cher, mais c'est aussi meilleur pour l'environnement.",
+  "key_terms": [
+   "not only... but also"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "environment": "en-VY-run-ment"
+  }
+ },
+ {
+  "id": "10-31",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Unless something changes soon, the situation will only get worse.",
+  "text_fr": "À moins que quelque chose change bientôt, la situation ne fera qu'empirer.",
+  "key_terms": [
+   "unless",
+   "worse"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "unless": "un-LESS",
+   "situation": "sich-oo-AY-shun"
+  }
+ },
+ {
+  "id": "10-32",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Provided that everyone agrees, we can start next week.",
+  "text_fr": "À condition que tout le monde soit d'accord, nous pouvons commencer la semaine prochaine.",
+  "key_terms": [
+   "provided that",
+   "to agree"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "provided": "pruh-VY-did"
+  }
+ },
+ {
+  "id": "10-33",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "As far as I know, nobody has tried this approach before.",
+  "text_fr": "Pour autant que je sache, personne n'a essayé cette approche auparavant.",
+  "key_terms": [
+   "as far as I know",
+   "nobody"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "approach": "uh-PROHCH"
+  }
+ },
+ {
+  "id": "10-34",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "I could not disagree more, because that argument does not hold water.",
+  "text_fr": "Je ne pourrais pas être moins d'accord, car cet argument ne tient pas la route.",
+  "key_terms": [
+   "to disagree",
+   "argument"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "argument": "ARG-yuh-ment"
+  }
+ },
+ {
+  "id": "10-35",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "It is not that I dislike the idea, it is just that the timing is wrong.",
+  "text_fr": "Ce n'est pas que l'idée me déplaise, c'est juste que le moment est mal choisi.",
+  "key_terms": [
+   "idea",
+   "timing"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "timing": "TY-ming",
+   "dislike": "diss-LYKE"
+  }
+ },
+ {
+  "id": "10-36",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Let's agree to disagree, since we will never convince each other.",
+  "text_fr": "Restons-en à nos désaccords, puisque nous ne nous convaincrons jamais l'un l'autre.",
+  "key_terms": [
+   "since",
+   "to convince"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "convince": "kun-VINSS"
+  }
+ },
+ {
+  "id": "10-37",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "In other words, we have no choice but to start again.",
+  "text_fr": "Autrement dit, nous n'avons pas d'autre choix que de recommencer.",
+  "key_terms": [
+   "in other words",
+   "choice"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "choice": "choyss"
+  }
+ },
+ {
+  "id": "10-38",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "That being said, I admit that your solution has some advantages.",
+  "text_fr": "Cela dit, je reconnais que ta solution a quelques avantages.",
+  "key_terms": [
+   "to admit",
+   "solution"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "solution": "suh-LOO-shun"
+  }
+ },
+ {
+  "id": "10-39",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "If I were you, I would talk to her before making a decision.",
+  "text_fr": "Si j'étais toi, je lui parlerais avant de prendre une décision.",
+  "key_terms": [
+   "if",
+   "decision"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "decision": "dih-SIZH-un"
+  }
+ },
+ {
+  "id": "10-40",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "I used to think that money was important, but now I value time much more.",
+  "text_fr": "Avant, je pensais que l'argent était important, mais maintenant j'accorde bien plus de valeur au temps.",
+  "key_terms": [
+   "used to",
+   "to value"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "value": "VAL-yoo"
+  }
+ },
+ {
+  "id": "10-41",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Despite what people say, I find this city surprisingly friendly.",
+  "text_fr": "Malgré ce que disent les gens, je trouve cette ville étonnamment accueillante.",
+  "key_terms": [
+   "despite",
+   "surprisingly"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "despite": "dih-SPYTE"
+  }
+ },
+ {
+  "id": "10-42",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "It goes without saying that everyone is welcome to join us.",
+  "text_fr": "Il va sans dire que tout le monde est le bienvenu.",
+  "key_terms": [
+   "to join",
+   "welcome"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "welcome": "WEL-kum"
+  }
+ },
+ {
+  "id": "10-43",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Correct me if I am wrong, but did you not say the opposite last week?",
+  "text_fr": "Corrige-moi si je me trompe, mais tu n'as pas dit le contraire la semaine dernière ?",
+  "key_terms": [
+   "wrong",
+   "opposite"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "opposite": "AH-puh-zit"
+  }
+ },
+ {
+  "id": "10-44",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Wisdom often comes from realizing how little we really know.",
+  "text_fr": "La sagesse vient souvent du fait de réaliser à quel point nous savons peu.",
+  "key_terms": [
+   "wisdom",
+   "to realize"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "wisdom": "WIZ-dum",
+   "realizing": "REE-uh-lyz-ing"
+  }
+ },
+ {
+  "id": "10-45",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "When the going gets tough, the tough get going, as my coach likes to say.",
+  "text_fr": "Quand ça se complique, les durs s'accrochent, comme aime le dire mon entraîneur.",
+  "key_terms": [
+   "when the going gets tough"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "tough": "tuff"
+  }
+ },
+ {
+  "id": "10-46",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Some people seem stubborn, but they are often just afraid of change.",
+  "text_fr": "Certaines personnes paraissent têtues, mais elles ont souvent juste peur du changement.",
+  "key_terms": [
+   "stubborn",
+   "to seem"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "stubborn": "STUB-ern"
+  }
+ },
+ {
+  "id": "10-47",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Before believing a rumor, I use a kind of triangulation and ask three different people.",
+  "text_fr": "Avant de croire une rumeur, je pratique une sorte de triangulation et j'interroge trois personnes différentes.",
+  "key_terms": [
+   "to believe",
+   "rumor"
+  ],
+  "thesis_terms": [
+   "triangulation"
+  ],
+  "pronunciation_notes": {
+   "rumor": "ROO-mer",
+   "triangulation": "try-ang-gyuh-LAY-shun"
+  }
+ },
+ {
+  "id": "10-48",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "Whatever you decide, I will support you, even if I disagree.",
+  "text_fr": "Quoi que tu décides, je te soutiendrai, même si je ne suis pas d'accord.",
+  "key_terms": [
+   "whatever",
+   "even if"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "whatever": "wut-EV-er"
+  }
+ },
+ {
+  "id": "10-49",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "To sum up, both options have pros and cons, so it is really up to you.",
+  "text_fr": "Pour résumer, les deux options ont du pour et du contre, alors c'est vraiment à toi de voir.",
+  "key_terms": [
+   "to sum up",
+   "both"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "options": "AHP-shunz"
+  }
+ },
+ {
+  "id": "10-50",
+  "theme": 10,
+  "level": "B2",
+  "text_en": "In the end, what matters most is how we treat each other.",
+  "text_fr": "Au bout du compte, ce qui compte le plus, c'est la manière dont nous nous traitons les uns les autres.",
+  "key_terms": [
+   "in the end",
+   "to treat"
+  ],
+  "thesis_terms": [],
+  "pronunciation_notes": {
+   "matters": "MAT-erz"
+  }
+ }
+]
