@@ -6,6 +6,11 @@ const PREFERRED = /(Premium|Enhanced|Siri|Samantha|Ava|Allison|Evan|Nathan|Zoe|T
 let voices = [];
 let current = null;
 let keepAlive = null; // iOS : garder une référence évite que l'énoncé soit interrompu
+let lastEnd = 0;      // fin de la dernière lecture (le micro attend un instant après)
+
+/** Moment où la voix s'est tue pour la dernière fois (performance.now()). */
+export const lastSpeechEnd = () => lastEnd;
+const ended = () => { lastEnd = performance.now(); };
 
 const supported = () => 'speechSynthesis' in window;
 
@@ -52,7 +57,7 @@ export function speak(text, rate = 1) {
       u.lang = current ? current.lang : 'en-US';
       if (current) u.voice = current;
       u.rate = rate;
-      u.onend = u.onerror = () => resolve();
+      u.onend = u.onerror = () => { ended(); resolve(); };
       keepAlive = u;
       speechSynthesis.speak(u);
     };
@@ -73,14 +78,16 @@ export function speakFrench(text, rate = 1) {
     u.lang = 'fr-FR';
     if (voice) u.voice = voice;
     u.rate = rate;
-    u.onend = u.onerror = () => resolve();
+    u.onend = u.onerror = () => { ended(); resolve(); };
     keepAlive = u;
     speechSynthesis.speak(u);
   });
 }
 
 export function stopSpeaking() {
-  if (supported()) speechSynthesis.cancel();
+  if (!supported()) return;
+  if (speechSynthesis.speaking || speechSynthesis.pending) ended();
+  speechSynthesis.cancel();
 }
 
 export const ttsSupported = supported;

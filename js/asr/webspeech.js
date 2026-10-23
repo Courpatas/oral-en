@@ -1,8 +1,11 @@
 // Moteur A : Web Speech API (Safari → dictée Apple, Chrome → serveurs Google). En ligne uniquement.
 //
-// iOS ne libère pas toujours le micro tout de suite : après une première écoute, ou juste après que
-// la synthèse vocale a parlé, un nouveau start() peut rester muet. On laisse donc un court délai
-// entre deux usages de l'audio, on libère complètement chaque écoute, et on réessaie une fois.
+// iOS ne libère pas toujours le micro tout de suite : juste après que la synthèse vocale a parlé,
+// ou avec une nouvelle instance de reconnaissance, start() peut rester muet. On réutilise donc la
+// même instance tant qu'elle se termine normalement, on attend un court instant seulement si la voix
+// vient de parler, et on réessaie une fois avec une instance neuve si l'écoute ne démarre pas.
+
+import { lastSpeechEnd } from '../tts.js';
 
 const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
 
@@ -18,10 +21,10 @@ const MESSAGES = {
 };
 
 const MAX_LISTEN_MS = 15000;   // durée maximale d'une écoute
-const SERVICE_START_MS = 2500; // délai pour que l'écoute démarre (événement start)
+const SERVICE_START_MS = 1500; // délai pour que l'écoute démarre (événement start)
 const AUDIO_START_MS = 6000;   // délai pour que le micro donne signe de vie
-const STOP_GRACE_MS = 1200;    // délai laissé au navigateur pour terminer après stop()
-const AUDIO_GAP_MS = 350;      // pause entre la fin de la voix (ou d'une écoute) et une nouvelle écoute
+const STOP_GRACE_MS = 800;     // délai laissé au navigateur pour terminer après stop()
+const AUDIO_GAP_MS = 300;      // pause minimale entre la fin de la voix et l'ouverture du micro
 
 // Journal des dernières écoutes, affiché dans l'écran Diagnostic.
 const log = [];
@@ -34,33 +37,48 @@ export const micLog = () => log.slice();
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
 
-// Coupe la synthèse vocale puis laisse à iOS le temps de rendre l'audio avant d'ouvrir le micro.
-// La pause est systématique : l'app coupe souvent la voix juste avant d'appeler start().
+// Coupe la synthèse vocale et, seulement si elle vient de parler, laisse à iOS le temps de rendre l'audio.
 async function audioReady() {
+  let since = performance.now() - lastSpeechEnd();
   if ('speechSynthesis' in window && (speechSynthesis.speaking || speechSynthesis.pending)) {
     speechSynthesis.cancel();
     note('voix interrompue');
+    since = 0;
   }
-  await wait(AUDIO_GAP_MS);
+  if (since < AUDIO_GAP_MS) {
+    note('pause après la voix', `${Math.round(AUDIO_GAP_MS - since)} ms`);
+    await wait(AUDIO_GAP_MS - since);
+  }
 }
 
-function listenOnce({ onInterim, onState }, attempt, session) {
+// Instance réutilisée d'une écoute à l'autre : sur iPhone, c'est la première qui fonctionne le mieux.
+let shared = null;
+
+function listenOnce({ onInterim, onState }, attempt, session, fresh = false) {
   return new Promise((resolve, reject) => {
-    const rec = new SR(); // nouvelle instance à chaque essai
-    rec.lang = 'en-US';
-    rec.interimResults = true;
-    rec.continuous = false;
-    rec.maxAlternatives = 5;
+    if (fresh || !shared) {
+      shared = new SR();
+      shared.lang = 'en-US';
+      shared.interimResults = true;
+      shared.continuous = false;
+      shared.maxAlternatives = 5;
+      note('nouvelle instance');
+    }
+    const rec = shared;
     let finals = [], alternatives = [], interim = '', error = null, alive = false, started = false, done = false;
+    let endedNormally = false;
     const timers = [];
 
     const finish = () => {
       if (done) return;
       done = true;
       timers.forEach(clearTimeout);
-      // Libère complètement l'écoute : sinon iOS peut garder le micro occupé.
       rec.onstart = rec.onaudiostart = rec.onsoundstart = rec.onspeechstart = rec.onresult = rec.onerror = rec.onend = null;
-      try { rec.abort(); } catch {}
+      // Écoute terminée proprement : on garde l'instance. Sinon on la libère et on en prendra une neuve.
+      if (!endedNormally) {
+        try { rec.abort(); } catch {}
+        if (shared === rec) shared = null;
+      }
       const text = (finals.join(' ') + ' ' + interim).trim();
       note('fin', text ? `« ${text.slice(0, 40)} »` : `(rien, ${error || (alive ? 'no-speech' : 'no-audio')})`);
       if (text) resolve({ transcript: text, alternatives: alternatives.length ? alternatives : [text] });
@@ -99,7 +117,7 @@ function listenOnce({ onInterim, onState }, attempt, session) {
       onInterim && onInterim((finals.join(' ') + ' ' + interim).trim());
     };
     rec.onerror = e => { error = e.error; note('erreur', e.error); };
-    rec.onend = () => { note('end'); finish(); };
+    rec.onend = () => { note('end'); endedNormally = started; finish(); };
 
     // Écoute qui ne démarre même pas : on abandonne vite pour réessayer.
     timers.push(setTimeout(() => {
@@ -137,10 +155,10 @@ export function createWebSpeech() {
         try {
           return await listenOnce(callbacks, 1, current);
         } catch (err) {
-          // Le micro n'a donné aucun signe de vie : on réessaie une fois, après une courte pause.
+          // Le micro n'a donné aucun signe de vie : on réessaie une fois avec une instance neuve.
           if (err.code !== 'no-audio' || current.stopped) throw err;
-          await wait(AUDIO_GAP_MS);
-          return await listenOnce(callbacks, 2, current);
+          await wait(150);
+          return await listenOnce(callbacks, 2, current, true);
         }
       } finally {
         if (session === current) session = null;

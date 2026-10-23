@@ -5,7 +5,7 @@ import { micLog } from './asr/webspeech.js';
 import * as store from './store.js';
 import { DEFAULTS, today, status, STATUS_LABEL, recordAttempt, buildQueue, countByStatus, isDue } from './srs.js';
 
-const VERSION = '1.0.1';
+const VERSION = '1.0.2';
 const TARGET = 1000;
 const SESSION_MINUTES = 15;
 const DIAG_SENTENCE = 'Hello, I am learning English and I live in Tahiti.';
@@ -226,19 +226,30 @@ $('#ex-mic').onclick = async () => {
   $('#ex-live').hidden = false;
   $('#ex-live').textContent = 'Ouverture du micro…';
   setMic('listening');
+  // Dès que tous les mots attendus ont été entendus, on coupe l'écoute sans attendre le silence.
+  const p = state.current;
+  let autoStop = null;
+  const onInterim = t => {
+    if (!t) return;
+    $('#ex-live').textContent = t;
+    if (autoStop || compare(p.text_en, t, p.unscored || []).score < 100) return;
+    autoStop = setTimeout(() => rec.stop(), 250);
+  };
   try {
     const out = await rec.start({
-      onInterim: t => { if (t) $('#ex-live').textContent = t; },
+      onInterim,
       onState: s => {
         if (s === 'processing') setMic('processing');
         if (LIVE_STATE[s]) $('#ex-live').textContent = LIVE_STATE[s];
       },
       onProgress: pct => { $('#ex-live').textContent = `Chargement du modèle : ${pct} %`; },
     });
+    clearTimeout(autoStop);
     setMic('idle');
     $('#ex-live').hidden = true;
     handleResult(out);
   } catch (err) {
+    clearTimeout(autoStop);
     setMic('idle');
     $('#ex-live').hidden = true;
     $('#ex-error').textContent = err.message || String(err);
