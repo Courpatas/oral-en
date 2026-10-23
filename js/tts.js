@@ -63,6 +63,22 @@ export function speak(text, rate = 1) {
   });
 }
 
+/** Lit un texte en français (traductions du mode écoute), avec la meilleure voix fr disponible. */
+export function speakFrench(text, rate = 1) {
+  if (!supported()) return Promise.resolve();
+  const fr = speechSynthesis.getVoices().filter(v => /^fr[-_]FR$/i.test(v.lang) && !NOVELTY.test(v.name));
+  const voice = fr.find(v => /(Premium|Enhanced|Amélie|Thomas|Audrey|Aurélie)/i.test(v.name)) || fr[0] || null;
+  return new Promise(resolve => {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'fr-FR';
+    if (voice) u.voice = voice;
+    u.rate = rate;
+    u.onend = u.onerror = () => resolve();
+    keepAlive = u;
+    speechSynthesis.speak(u);
+  });
+}
+
 export function stopSpeaking() {
   if (supported()) speechSynthesis.cancel();
 }

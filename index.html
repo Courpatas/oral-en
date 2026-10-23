@@ -36,6 +36,7 @@
     <nav class="stack">
       <button class="btn primary xl" id="btn-continue">▶ Continuer</button>
       <button class="btn xl" id="btn-session">⏱ Séance de 15 minutes</button>
+      <button class="btn xl" data-go="listen">🎧 Écoute seule</button>
       <div class="row">
         <button class="btn" data-go="themes">Thèmes</button>
         <button class="btn" data-go="progress">Progrès</button>
@@ -94,6 +95,56 @@
         <button class="btn primary" id="ex-next">Suivante →</button>
       </div>
       <button class="btn mic" id="ex-mic">🎙 Répéter</button>
+    </footer>
+  </main>
+
+  <!-- ÉCOUTE SEULE -->
+  <main id="screen-listen" class="screen exercise">
+    <header class="top">
+      <button class="icon-btn" data-go="home" aria-label="Retour">←</button>
+      <div class="ex-title"><div>🎧 Écoute seule</div><div id="ls-count" class="muted"></div></div>
+      <span></span>
+    </header>
+
+    <div class="ex-body">
+      <form id="listen-form" class="form">
+        <label>Phrases <select name="listenTheme" id="ls-theme"></select></label>
+        <div class="row">
+          <label>Vitesse <select name="listenSpeed">
+            <option value="normal">Normale</option>
+            <option value="slow">Lente</option>
+            <option value="both">Normale puis lente</option>
+          </select></label>
+          <label>Lectures <select name="listenRepeat">
+            <option value="1">1 fois</option>
+            <option value="2">2 fois</option>
+            <option value="3">3 fois</option>
+          </select></label>
+        </div>
+        <label>Pause entre les lectures <select name="listenPause">
+          <option value="1">1 seconde</option>
+          <option value="2">2 secondes</option>
+          <option value="4">4 secondes</option>
+          <option value="6">6 secondes</option>
+        </select></label>
+        <label class="check"><input type="checkbox" name="listenShowText"> Afficher la phrase</label>
+        <label class="check"><input type="checkbox" name="listenFrench"> Lire aussi la traduction en français</label>
+        <label class="check"><input type="checkbox" name="listenShuffle"> Ordre aléatoire</label>
+      </form>
+
+      <section class="now-playing">
+        <p id="ls-text" class="sentence"></p>
+        <p id="ls-fr" class="translation"></p>
+        <p id="ls-state" class="muted small center"></p>
+      </section>
+    </div>
+
+    <footer class="actions">
+      <div class="row">
+        <button class="btn" id="ls-prev" aria-label="Phrase précédente">⏮</button>
+        <button class="btn primary" id="ls-play">▶ Lancer</button>
+        <button class="btn" id="ls-next" aria-label="Phrase suivante">⏭</button>
+      </div>
     </footer>
   </main>
 

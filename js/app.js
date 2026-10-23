@@ -1,10 +1,10 @@
 import { compare, compareBest } from './compare.js';
-import { initTTS, englishVoices, selectVoice, currentVoice, speak, stopSpeaking, ttsSupported } from './tts.js';
+import { initTTS, englishVoices, selectVoice, currentVoice, speak, speakFrench, stopSpeaking, ttsSupported } from './tts.js';
 import { getRecognizer } from './asr/index.js';
 import * as store from './store.js';
 import { DEFAULTS, today, status, STATUS_LABEL, recordAttempt, buildQueue, countByStatus, isDue } from './srs.js';
 
-const VERSION = '0.1.1';
+const VERSION = '0.2.0';
 const TARGET = 1000;
 const SESSION_MINUTES = 15;
 const DIAG_SENTENCE = 'Hello, I am learning English and I live in Tahiti.';
@@ -20,6 +20,14 @@ const SETTINGS_DEFAULTS = {
   slowRate: 0.7,
   autoplay: true,
   useAlternatives: true,
+  // Mode écoute seule
+  listenTheme: 'all',
+  listenSpeed: 'normal',
+  listenRepeat: 1,
+  listenPause: 2,
+  listenShowText: true,
+  listenFrench: false,
+  listenShuffle: false,
 };
 
 const state = {
@@ -34,10 +42,11 @@ const state = {
 
 function go(name) {
   stopSpeaking();
+  listenStop();
   if (state.listening) getRecognizer(state.settings.engine).stop();
   $$('.screen').forEach(s => s.classList.toggle('active', s.id === 'screen-' + name));
   window.scrollTo(0, 0);
-  ({ home: renderHome, themes: renderThemes, progress: renderProgress, settings: renderSettings, diagnostic: renderDiagnostic }[name] || (() => {}))();
+  ({ home: renderHome, themes: renderThemes, progress: renderProgress, settings: renderSettings, diagnostic: renderDiagnostic, listen: renderListen }[name] || (() => {}))();
 }
 document.addEventListener('click', e => {
   state.lastInteraction = Date.now();
@@ -348,12 +357,163 @@ function finishRun() {
   go('done');
 }
 
+/* ---------- Écoute seule ---------- */
+// Lecture enchaînée, sans micro ni score. Un « jeton » permet d'interrompre proprement la boucle.
+
+const listen = { list: [], index: 0, playing: false, token: 0, wakeLock: null };
+const listenForm = $('#listen-form');
+
+function listenList() {
+  const t = state.settings.listenTheme;
+  const list = t === 'all' ? [...state.phrases]
+    : t === 'review' ? state.phrases.filter(p => ['learning', 'review'].includes(status(state.progress[p.id])))
+    : state.phrases.filter(p => String(p.theme) === String(t));
+  if (state.settings.listenShuffle) {
+    for (let i = list.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [list[i], list[j]] = [list[j], list[i]]; }
+  }
+  return list;
+}
+
+function renderListen() {
+  const s = state.settings;
+  const themed = state.themes.filter(t => state.phrases.some(p => p.theme === t.id));
+  $('#ls-theme').innerHTML = `<option value="all">Toutes les phrases</option>`
+    + `<option value="review">Mes phrases en cours et à revoir</option>`
+    + themed.map(t => `<option value="${t.id}">${t.icon} ${esc(t.name)}</option>`).join('');
+  for (const el of listenForm.elements) {
+    if (!el.name) continue;
+    if (el.type === 'checkbox') el.checked = !!s[el.name];
+    else el.value = String(s[el.name]);
+  }
+  if (![...$('#ls-theme').options].some(o => o.value === $('#ls-theme').value)) $('#ls-theme').value = 'all';
+  listen.list = listenList();
+  listen.index = 0;
+  showListenPhrase();
+  setListenState('');
+}
+
+function showListenPhrase() {
+  const p = listen.list[listen.index];
+  $('#ls-count').textContent = listen.list.length ? `${listen.index + 1} / ${listen.list.length}` : 'Aucune phrase';
+  $('#ls-text').textContent = p && state.settings.listenShowText ? p.text_en : '';
+  $('#ls-fr').textContent = p && state.settings.listenShowText && state.settings.listenFrench ? p.text_fr : '';
+}
+
+function setListenState(text) {
+  $('#ls-state').textContent = text;
+  $('#ls-play').textContent = listen.playing ? '⏸ Pause' : '▶ Lancer';
+}
+
+const pause = ms => new Promise(r => setTimeout(r, ms));
+
+async function listenLoop() {
+  const my = ++listen.token;
+  const alive = () => listen.playing && my === listen.token;
+  const s = state.settings;
+  const gap = s.listenPause * 1000;
+  while (alive() && listen.index < listen.list.length) {
+    const p = listen.list[listen.index];
+    showListenPhrase();
+    const rates = s.listenSpeed === 'both' ? [1, s.slowRate] : [s.listenSpeed === 'slow' ? s.slowRate : 1];
+    for (let r = 0; r < s.listenRepeat && alive(); r++) {
+      for (const rate of rates) {
+        if (!alive()) return;
+        setListenState(rate < 1 ? '🐢 Lecture lente' : '🔊 Lecture');
+        await speak(p.text_en, rate);
+        if (!alive()) return;
+        setListenState('…');
+        await pause(gap);
+      }
+    }
+    if (s.listenFrench && alive()) {
+      setListenState('🇫🇷 Traduction');
+      await speakFrench(p.text_fr);
+      if (alive()) await pause(gap);
+    }
+    if (!alive()) return;
+    listen.index++;
+  }
+  if (my === listen.token) {
+    listen.playing = false;
+    listen.index = Math.max(0, listen.list.length - 1);
+    releaseWakeLock();
+    setListenState('Fin de la liste.');
+  }
+}
+
+async function keepScreenOn() {
+  try { listen.wakeLock = await navigator.wakeLock?.request('screen'); } catch {}
+}
+function releaseWakeLock() {
+  try { listen.wakeLock?.release(); } catch {}
+  listen.wakeLock = null;
+}
+
+function listenStart() {
+  if (!listen.list.length) return;
+  if (listen.index >= listen.list.length) listen.index = 0;
+  listen.playing = true;
+  keepScreenOn();
+  setListenState('');
+  listenLoop();
+}
+
+function listenStop() {
+  if (!listen.playing) return;
+  listen.playing = false;
+  listen.token++;
+  stopSpeaking();
+  releaseWakeLock();
+  setListenState('En pause.');
+}
+
+function listenJump(delta) {
+  const wasPlaying = listen.playing;
+  listenStop();
+  listen.index = Math.max(0, Math.min(listen.list.length - 1, listen.index + delta));
+  showListenPhrase();
+  if (wasPlaying) listenStart();
+  else setListenState('');
+}
+
+$('#ls-play').onclick = () => (listen.playing ? listenStop() : listenStart());
+$('#ls-prev').onclick = () => listenJump(-1);
+$('#ls-next').onclick = () => listenJump(1);
+
+listenForm.addEventListener('change', e => {
+  const el = e.target;
+  if (!el.name) return;
+  let v = el.type === 'checkbox' ? el.checked : el.value;
+  if (['listenRepeat', 'listenPause'].includes(el.name)) v = Number(v);
+  state.settings[el.name] = v;
+  saveSettings();
+  if (['listenTheme', 'listenShuffle'].includes(el.name)) {
+    listenStop();
+    listen.list = listenList();
+    listen.index = 0;
+    setListenState('');
+  }
+  showListenPhrase();
+});
+
+// iOS coupe l'écran allumé quand l'app passe en arrière-plan : on le redemande au retour.
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible' && listen.playing) keepScreenOn();
+});
+
 /* ---------- Temps de pratique et minuteur ---------- */
 
 let tick = 0;
 setInterval(() => {
+  if (document.visibilityState !== 'visible') return;
+  // L'écoute seule compte aussi comme temps de pratique, tant qu'elle joue.
+  if (listen.playing) {
+    dayLog().seconds++;
+    if (++tick % 15 === 0) saveDays();
+    return;
+  }
   const onExercise = $('#screen-exercise').classList.contains('active');
-  if (!onExercise || document.visibilityState !== 'visible') return;
+  if (!onExercise) return;
   if (state.sessionEnd) {
     const left = Math.max(0, state.sessionEnd - Date.now());
     $('#ex-timer').textContent = `${Math.floor(left / 60000)}:${String(Math.floor(left / 1000) % 60).padStart(2, '0')}`;
