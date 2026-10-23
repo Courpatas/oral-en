@@ -1,6 +1,6 @@
 // Service worker : l'app et les phrases fonctionnent hors ligne.
 // Changer VERSION à chaque mise en ligne pour que les appareils récupèrent la nouvelle version.
-const VERSION = 'oral-en-v1.0.2';
+const VERSION = 'oral-en-v1.0.3';
 const RUNTIME = 'oral-en-runtime';
 const ASSETS = [
   './', 'index.html', 'manifest.json', 'css/app.css',
@@ -12,7 +12,10 @@ const ASSETS = [
 
 self.addEventListener('install', e => {
   // cache: 'reload' contourne le cache HTTP pour embarquer les fichiers vraiment à jour.
-  e.waitUntil(caches.open(VERSION).then(c => c.addAll(ASSETS.map(u => new Request(u, { cache: 'reload' })))));
+  // skipWaiting : la nouvelle version prend la main tout de suite (le bouton « Recharger » suffit).
+  e.waitUntil(caches.open(VERSION)
+    .then(c => c.addAll(ASSETS.map(u => new Request(u, { cache: 'reload' }))))
+    .then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', e => {
@@ -42,10 +45,16 @@ self.addEventListener('fetch', e => {
   }
   if (url.origin !== location.origin) return;
 
-  // Fichiers de l'app : cache d'abord, mise à jour en arrière-plan.
+  // Fichiers de l'app : réseau d'abord (revalidé, donc toujours une version cohérente),
+  // cache seulement hors ligne. Évite de mélanger d'anciens et de nouveaux fichiers après une mise à jour.
   e.respondWith(caches.open(VERSION).then(async c => {
-    const hit = await c.match(e.request, { ignoreSearch: true });
-    const net = fetch(e.request).then(res => { if (res.ok) c.put(e.request, res.clone()); return res; }).catch(() => hit);
-    return hit || net;
+    try {
+      const res = await fetch(e.request, { cache: 'no-cache' });
+      if (res.ok) c.put(e.request, res.clone());
+      return res;
+    } catch {
+      const hit = await c.match(e.request, { ignoreSearch: true });
+      return hit || Response.error();
+    }
   }));
 });

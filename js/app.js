@@ -5,7 +5,7 @@ import { micLog } from './asr/webspeech.js';
 import * as store from './store.js';
 import { DEFAULTS, today, status, STATUS_LABEL, recordAttempt, buildQueue, countByStatus, isDue } from './srs.js';
 
-const VERSION = '1.0.2';
+const VERSION = '1.0.3';
 const TARGET = 1000;
 const SESSION_MINUTES = 15;
 const DIAG_SENTENCE = 'Hello, I am learning English and I live in Tahiti.';
